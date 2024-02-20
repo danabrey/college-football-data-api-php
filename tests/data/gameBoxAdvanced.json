@@ -1,0 +1,785 @@
+{
+  "gameInfo": {
+    "homeTeam": "Auburn",
+    "homePoints": 24,
+    "homeWinProb": "0.14676618348576967",
+    "awayTeam": "Alabama",
+    "awayPoints": 27,
+    "awayWinProb": "0.8532338165142304",
+    "homeWinner": false,
+    "excitement": "7.3620010608"
+  },
+  "teams": {
+    "ppa": [
+      {
+        "team": "Alabama",
+        "plays": 64,
+        "overall": {
+          "total": 0.3641,
+          "quarter1": 0.551,
+          "quarter2": 0.335,
+          "quarter3": 0.341,
+          "quarter4": 0.168
+        },
+        "passing": {
+          "total": 0.719,
+          "quarter1": 0.878,
+          "quarter2": 0.835,
+          "quarter3": 0.307,
+          "quarter4": 0.818
+        },
+        "rushing": {
+          "total": 0.137,
+          "quarter1": 0.314,
+          "quarter2": 0.002,
+          "quarter3": 0.361,
+          "quarter4": -0.194
+        }
+      },
+      {
+        "team": "Auburn",
+        "plays": 58,
+        "overall": {
+          "total": 0.2434,
+          "quarter1": 0.414,
+          "quarter2": 0.165,
+          "quarter3": 0.768,
+          "quarter4": -0.18
+        },
+        "passing": {
+          "total": 0.077,
+          "quarter1": -0.377,
+          "quarter2": -0.227,
+          "quarter3": 2.406,
+          "quarter4": -0.404
+        },
+        "rushing": {
+          "total": 0.338,
+          "quarter1": 0.754,
+          "quarter2": 0.459,
+          "quarter3": 0.222,
+          "quarter4": -0.032
+        }
+      }
+    ],
+    "cumulativePpa": [
+      {
+        "team": "Alabama",
+        "plays": 64,
+        "overall": {
+          "total": 23.3,
+          "quarter1": 10.5,
+          "quarter2": 5,
+          "quarter3": 5.5,
+          "quarter4": 2.3
+        },
+        "passing": {
+          "total": 18,
+          "quarter1": 7,
+          "quarter2": 5,
+          "quarter3": 1.8,
+          "quarter4": 4.1
+        },
+        "rushing": {
+          "total": 5.3,
+          "quarter1": 3.4,
+          "quarter2": 0,
+          "quarter3": 3.6,
+          "quarter4": -1.7
+        }
+      },
+      {
+        "team": "Auburn",
+        "plays": 58,
+        "overall": {
+          "total": 14.1,
+          "quarter1": 4.1,
+          "quarter2": 3.5,
+          "quarter3": 9.2,
+          "quarter4": -2.7
+        },
+        "passing": {
+          "total": 1.6,
+          "quarter1": -1.1,
+          "quarter2": -2,
+          "quarter3": 7.2,
+          "quarter4": -2.4
+        },
+        "rushing": {
+          "total": 12.5,
+          "quarter1": 5.3,
+          "quarter2": 5.5,
+          "quarter3": 2,
+          "quarter4": -0.3
+        }
+      }
+    ],
+    "successRates": [
+      {
+        "team": "Alabama",
+        "overall": {
+          "total": 0.484,
+          "quarter1": 0.684,
+          "quarter2": 0.467,
+          "quarter3": 0.5,
+          "quarter4": 0.214
+        },
+        "standardDowns": {
+          "total": 0.563,
+          "quarter1": 0.733,
+          "quarter2": 0.6,
+          "quarter3": 0.533,
+          "quarter4": 0.25
+        },
+        "passingDowns": {
+          "total": 0.25,
+          "quarter1": 0.5,
+          "quarter2": 0.2,
+          "quarter3": 0,
+          "quarter4": 0.167
+        }
+      },
+      {
+        "team": "Auburn",
+        "overall": {
+          "total": 0.397,
+          "quarter1": 0.5,
+          "quarter2": 0.429,
+          "quarter3": 0.583,
+          "quarter4": 0.133
+        },
+        "standardDowns": {
+          "total": 0.465,
+          "quarter1": 0.625,
+          "quarter2": 0.5,
+          "quarter3": 0.636,
+          "quarter4": 0.1
+        },
+        "passingDowns": {
+          "total": 0.2,
+          "quarter1": 0,
+          "quarter2": 0.286,
+          "quarter3": 0,
+          "quarter4": 0.2
+        }
+      }
+    ],
+    "explosiveness": [
+      {
+        "team": "Alabama",
+        "overall": {
+          "total": 1.19,
+          "quarter1": 0.96,
+          "quarter2": 1.1,
+          "quarter3": 1.11,
+          "quarter4": 2.64
+        }
+      },
+      {
+        "team": "Auburn",
+        "overall": {
+          "total": 1.4,
+          "quarter1": 1.1,
+          "quarter2": 1.52,
+          "quarter3": 1.47,
+          "quarter4": 1.4
+        }
+      }
+    ],
+    "rushing": [
+      {
+        "team": "Alabama",
+        "powerSuccess": "0.750",
+        "stuffRate": "0.154",
+        "lineYards": "108",
+        "lineYardsAverage": "2.8",
+        "secondLevelYards": "46",
+        "secondLevelYardsAverage": "1.2",
+        "openFieldYards": "43",
+        "openFieldYardsAverage": "1.1"
+      },
+      {
+        "team": "Auburn",
+        "powerSuccess": "1.000",
+        "stuffRate": "0.054",
+        "lineYards": "130",
+        "lineYardsAverage": "3.5",
+        "secondLevelYards": "49",
+        "secondLevelYardsAverage": "1.3",
+        "openFieldYards": "106",
+        "openFieldYardsAverage": "2.9"
+      }
+    ],
+    "havoc": [
+      {
+        "team": "Auburn",
+        "total": "0.125",
+        "frontSeven": "0.078",
+        "db": "0.047"
+      },
+      {
+        "team": "Alabama",
+        "total": "0.207",
+        "frontSeven": "0.138",
+        "db": "0.069"
+      }
+    ],
+    "scoringOpportunities": [
+      {
+        "team": "Alabama",
+        "opportunities": 6,
+        "points": 20,
+        "pointsPerOpportunity": 3.33
+      },
+      {
+        "team": "Auburn",
+        "opportunities": 6,
+        "points": 24,
+        "pointsPerOpportunity": 4
+      }
+    ],
+    "fieldPosition": [
+      {
+        "team": "Alabama",
+        "averageStart": "70.9",
+        "averageStartingPredictedPoints": "1.35"
+      },
+      {
+        "team": "Auburn",
+        "averageStart": "78.7",
+        "averageStartingPredictedPoints": "0.77"
+      }
+    ]
+  },
+  "players": {
+    "usage": [
+      {
+        "player": "Jalen Milroe",
+        "team": "Alabama",
+        "position": "QB",
+        "total": 0.609,
+        "quarter1": 0.526,
+        "quarter2": 0.667,
+        "quarter3": 0.625,
+        "quarter4": 0.643,
+        "rushing": 0.359,
+        "passing": 1
+      },
+      {
+        "player": "Payton Thorne",
+        "team": "Auburn",
+        "position": "QB",
+        "total": 0.517,
+        "quarter1": 0.3,
+        "quarter2": 0.524,
+        "quarter3": 0.583,
+        "quarter4": 0.6,
+        "rushing": 0.27,
+        "passing": 0.952
+      },
+      {
+        "player": "Jarquez Hunter",
+        "team": "Auburn",
+        "position": "RB",
+        "total": 0.259,
+        "quarter1": 0.4,
+        "quarter2": 0.286,
+        "quarter3": 0.083,
+        "quarter4": 0.267,
+        "rushing": 0.378,
+        "passing": 0.048
+      },
+      {
+        "player": "Jase McClellan",
+        "team": "Alabama",
+        "position": "RB",
+        "total": 0.234,
+        "quarter1": 0.263,
+        "quarter2": 0.333,
+        "quarter3": 0.188,
+        "quarter4": 0.143,
+        "rushing": 0.359,
+        "passing": 0.04
+      },
+      {
+        "player": "Damari Alston",
+        "team": "Auburn",
+        "position": "RB",
+        "total": 0.172,
+        "quarter1": 0.3,
+        "quarter2": 0.143,
+        "quarter3": 0.25,
+        "quarter4": 0.067,
+        "rushing": 0.27,
+        "passing": 0
+      },
+      {
+        "player": "Roydell Williams",
+        "team": "Alabama",
+        "position": "RB",
+        "total": 0.125,
+        "quarter1": 0.105,
+        "quarter2": 0.067,
+        "quarter3": 0.188,
+        "quarter4": 0.143,
+        "rushing": 0.205,
+        "passing": 0
+      },
+      {
+        "player": "Ja'Varrius Johnson",
+        "team": "Auburn",
+        "position": "WR",
+        "total": 0.086,
+        "quarter1": 0,
+        "quarter2": 0.095,
+        "quarter3": 0.25,
+        "quarter4": 0,
+        "rushing": 0.027,
+        "passing": 0.19
+      },
+      {
+        "player": "Isaiah Bond",
+        "team": "Alabama",
+        "position": "WR",
+        "total": 0.078,
+        "quarter1": 0.053,
+        "quarter2": 0,
+        "quarter3": 0.125,
+        "quarter4": 0.143,
+        "rushing": 0,
+        "passing": 0.2
+      },
+      {
+        "player": "Jermaine Burton",
+        "team": "Alabama",
+        "position": "WR",
+        "total": 0.063,
+        "quarter1": 0.158,
+        "quarter2": 0.067,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.16
+      },
+      {
+        "player": "Robby Ashford",
+        "team": "Auburn",
+        "position": "QB",
+        "total": 0.052,
+        "quarter1": 0,
+        "quarter2": 0,
+        "quarter3": 0.083,
+        "quarter4": 0.133,
+        "rushing": 0.054,
+        "passing": 0.048
+      },
+      {
+        "player": "Kendrick Law",
+        "team": "Alabama",
+        "position": "WR",
+        "total": 0.047,
+        "quarter1": 0.105,
+        "quarter2": 0,
+        "quarter3": 0.063,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.12
+      },
+      {
+        "player": "Jamarion Miller",
+        "team": "Alabama",
+        "position": "RB",
+        "total": 0.031,
+        "quarter1": 0.105,
+        "quarter2": 0,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0.051,
+        "passing": 0
+      },
+      {
+        "player": "Amari Niblack",
+        "team": "Alabama",
+        "position": "TE",
+        "total": 0.031,
+        "quarter1": 0,
+        "quarter2": 0.067,
+        "quarter3": 0.063,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.08
+      },
+      {
+        "player": "Caleb Burton",
+        "team": "Auburn",
+        "position": "WR",
+        "total": 0.017,
+        "quarter1": 0,
+        "quarter2": 0.048,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.048
+      },
+      {
+        "player": "Malik Benson",
+        "team": "Alabama",
+        "position": "WR",
+        "total": 0.016,
+        "quarter1": 0.053,
+        "quarter2": 0,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.04
+      }
+    ],
+    "ppa": [
+      {
+        "player": "Jalen Milroe",
+        "team": "Alabama",
+        "position": "QB",
+        "average": {
+          "total": 0.614,
+          "quarter1": 0.77,
+          "quarter2": 0.478,
+          "quarter3": 0.593,
+          "quarter4": 0.615,
+          "rushing": 0.427,
+          "passing": 0.719
+        },
+        "cumulative": {
+          "total": 24,
+          "quarter1": 7.7,
+          "quarter2": 4.8,
+          "quarter3": 5.9,
+          "quarter4": 5.5,
+          "rushing": 6,
+          "passing": 18
+        }
+      },
+      {
+        "player": "Payton Thorne",
+        "team": "Auburn",
+        "position": "QB",
+        "average": {
+          "total": 0.23,
+          "quarter1": -0.377,
+          "quarter2": -0.04,
+          "quarter3": 1.215,
+          "quarter4": -0.005,
+          "rushing": 0.478,
+          "passing": 0.106
+        },
+        "cumulative": {
+          "total": 6.9,
+          "quarter1": -1.1,
+          "quarter2": -0.4,
+          "quarter3": 8.5,
+          "quarter4": 0,
+          "rushing": 4.8,
+          "passing": 2.1
+        }
+      },
+      {
+        "player": "Jarquez Hunter",
+        "team": "Auburn",
+        "position": "RB",
+        "average": {
+          "total": 0.078,
+          "quarter1": 0.679,
+          "quarter2": -0.113,
+          "quarter3": 0.063,
+          "quarter4": -0.233,
+          "rushing": 0.119,
+          "passing": -0.491
+        },
+        "cumulative": {
+          "total": 1.2,
+          "quarter1": 2.7,
+          "quarter2": -0.7,
+          "quarter3": 0.1,
+          "quarter4": -0.9,
+          "rushing": 1.7,
+          "passing": -0.5
+        }
+      },
+      {
+        "player": "Jase McClellan",
+        "team": "Alabama",
+        "position": "RB",
+        "average": {
+          "total": 0.013,
+          "quarter1": -0.026,
+          "quarter2": 0.207,
+          "quarter3": -0.034,
+          "quarter4": -0.307,
+          "rushing": -0.046,
+          "passing": 0.836
+        },
+        "cumulative": {
+          "total": 0.2,
+          "quarter1": -0.1,
+          "quarter2": 1,
+          "quarter3": -0.1,
+          "quarter4": -0.6,
+          "rushing": -0.6,
+          "passing": 0.8
+        }
+      },
+      {
+        "player": "Damari Alston",
+        "team": "Auburn",
+        "position": "RB",
+        "average": {
+          "total": 0.49,
+          "quarter1": 0.853,
+          "quarter2": 0.686,
+          "quarter3": 0.233,
+          "quarter4": -0.413,
+          "rushing": 0.49,
+          "passing": 0
+        },
+        "cumulative": {
+          "total": 4.9,
+          "quarter1": 2.6,
+          "quarter2": 2.1,
+          "quarter3": 0.7,
+          "quarter4": -0.4,
+          "rushing": 4.9,
+          "passing": 0
+        }
+      },
+      {
+        "player": "Roydell Williams",
+        "team": "Alabama",
+        "position": "RB",
+        "average": {
+          "total": 0.311,
+          "quarter1": 1.261,
+          "quarter2": 0.044,
+          "quarter3": -0.124,
+          "quarter4": 0.146,
+          "rushing": 0.311,
+          "passing": 0
+        },
+        "cumulative": {
+          "total": 2.5,
+          "quarter1": 2.5,
+          "quarter2": 0,
+          "quarter3": -0.4,
+          "quarter4": 0.3,
+          "rushing": 2.5,
+          "passing": 0
+        }
+      },
+      {
+        "player": "Ja'Varrius Johnson",
+        "team": "Auburn",
+        "position": "WR",
+        "average": {
+          "total": 2.34,
+          "quarter1": 0,
+          "quarter2": 2.243,
+          "quarter3": 2.406,
+          "quarter4": 0,
+          "rushing": 2.53,
+          "passing": 2.293
+        },
+        "cumulative": {
+          "total": 11.7,
+          "quarter1": 0,
+          "quarter2": 4.5,
+          "quarter3": 7.2,
+          "quarter4": 0,
+          "rushing": 2.5,
+          "passing": 9.2
+        }
+      },
+      {
+        "player": "Isaiah Bond",
+        "team": "Alabama",
+        "position": "WR",
+        "average": {
+          "total": 1.864,
+          "quarter1": 1.508,
+          "quarter2": 0,
+          "quarter3": 0.551,
+          "quarter4": 3.356,
+          "rushing": 0,
+          "passing": 1.864
+        },
+        "cumulative": {
+          "total": 9.3,
+          "quarter1": 1.5,
+          "quarter2": 0,
+          "quarter3": 1.1,
+          "quarter4": 6.7,
+          "rushing": 0,
+          "passing": 9.3
+        }
+      },
+      {
+        "player": "Jermaine Burton",
+        "team": "Alabama",
+        "position": "WR",
+        "average": {
+          "total": 1.924,
+          "quarter1": 0.725,
+          "quarter2": 5.519,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 1.924
+        },
+        "cumulative": {
+          "total": 7.7,
+          "quarter1": 2.2,
+          "quarter2": 5.5,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 7.7
+        }
+      },
+      {
+        "player": "Robby Ashford",
+        "team": "Auburn",
+        "position": "QB",
+        "average": {
+          "total": -0.622,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": -0.052,
+          "quarter4": -0.907,
+          "rushing": -0.687,
+          "passing": -0.491
+        },
+        "cumulative": {
+          "total": -1.9,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": -0.1,
+          "quarter4": -1.8,
+          "rushing": -1.4,
+          "passing": -0.5
+        }
+      },
+      {
+        "player": "Kendrick Law",
+        "team": "Alabama",
+        "position": "WR",
+        "average": {
+          "total": -0.02,
+          "quarter1": -0.19,
+          "quarter2": 0,
+          "quarter3": 0.32,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -0.02
+        },
+        "cumulative": {
+          "total": -0.1,
+          "quarter1": -0.4,
+          "quarter2": 0,
+          "quarter3": 0.3,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -0.1
+        }
+      },
+      {
+        "player": "Jamarion Miller",
+        "team": "Alabama",
+        "position": "RB",
+        "average": {
+          "total": 0.191,
+          "quarter1": 0.191,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0.191,
+          "passing": 0
+        },
+        "cumulative": {
+          "total": 0.4,
+          "quarter1": 0.4,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0.4,
+          "passing": 0
+        }
+      },
+      {
+        "player": "Amari Niblack",
+        "team": "Alabama",
+        "position": "TE",
+        "average": {
+          "total": 1.047,
+          "quarter1": 0,
+          "quarter2": 0.481,
+          "quarter3": 1.612,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 1.047
+        },
+        "cumulative": {
+          "total": 2.1,
+          "quarter1": 0,
+          "quarter2": 0.5,
+          "quarter3": 1.6,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 2.1
+        }
+      },
+      {
+        "player": "Caleb Burton",
+        "team": "Auburn",
+        "position": "WR",
+        "average": {
+          "total": 2.447,
+          "quarter1": 0,
+          "quarter2": 2.447,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 2.447
+        },
+        "cumulative": {
+          "total": 2.4,
+          "quarter1": 0,
+          "quarter2": 2.4,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 2.4
+        }
+      },
+      {
+        "player": "Malik Benson",
+        "team": "Alabama",
+        "position": "WR",
+        "average": {
+          "total": 4.174,
+          "quarter1": 4.174,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 4.174
+        },
+        "cumulative": {
+          "total": 4.2,
+          "quarter1": 4.2,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 4.2
+        }
+      }
+    ]
+  }
+}

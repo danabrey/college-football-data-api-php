@@ -1,0 +1,380 @@
+[
+  {
+    "season": 2023,
+    "id": "4432734",
+    "name": "Jalen Milroe",
+    "position": "QB",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.4955,
+      "pass": 0.8747,
+      "rush": 0.2259,
+      "firstDown": 0.4242,
+      "secondDown": 0.478,
+      "thirdDown": 0.672,
+      "standardDowns": 0.429,
+      "passingDowns": 0.648
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4429001",
+    "name": "Jase McClellan",
+    "position": "RB",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.2239,
+      "pass": 0.0518,
+      "rush": 0.3497,
+      "firstDown": 0.2601,
+      "secondDown": 0.236,
+      "thirdDown": 0.133,
+      "standardDowns": 0.246,
+      "passingDowns": 0.152
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4685723",
+    "name": "Roydell Williams",
+    "position": "RB",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.1398,
+      "pass": 0.0327,
+      "rush": 0.2181,
+      "firstDown": 0.1667,
+      "secondDown": 0.138,
+      "thirdDown": 0.078,
+      "standardDowns": 0.165,
+      "passingDowns": 0.078
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4808839",
+    "name": "Isaiah Bond",
+    "position": "WR",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0807,
+      "pass": 0.1907,
+      "rush": 0.002,
+      "firstDown": 0.0934,
+      "secondDown": 0.081,
+      "thirdDown": 0.044,
+      "standardDowns": 0.067,
+      "passingDowns": 0.07
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4429033",
+    "name": "Jermaine Burton",
+    "position": "WR",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0614,
+      "pass": 0.1444,
+      "rush": 0.002,
+      "firstDown": 0.0429,
+      "secondDown": 0.057,
+      "thirdDown": 0.106,
+      "standardDowns": 0.049,
+      "passingDowns": 0.096
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4685477",
+    "name": "Jamarion Miller",
+    "position": "RB",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0534,
+      "pass": 0.0163,
+      "rush": 0.0806,
+      "firstDown": 0.0682,
+      "secondDown": 0.044,
+      "thirdDown": 0.039,
+      "standardDowns": 0.076,
+      "passingDowns": 0.019
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4685522",
+    "name": "Ty Simpson",
+    "position": "QB",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0375,
+      "pass": 0.0654,
+      "rush": 0.0177,
+      "firstDown": 0.0227,
+      "secondDown": 0.04,
+      "thirdDown": 0.067,
+      "standardDowns": 0.031,
+      "passingDowns": 0.063
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4869534",
+    "name": "Amari Niblack",
+    "position": "TE",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0318,
+      "pass": 0.0763,
+      "rush": 0,
+      "firstDown": 0.0303,
+      "secondDown": 0.034,
+      "thirdDown": 0.033,
+      "standardDowns": 0.004,
+      "passingDowns": 0.056
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4870760",
+    "name": "Justice Haynes",
+    "position": "RB",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0284,
+      "pass": 0,
+      "rush": 0.0491,
+      "firstDown": 0.0328,
+      "secondDown": 0.034,
+      "thirdDown": 0.011,
+      "standardDowns": 0.04,
+      "passingDowns": 0.015
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4869965",
+    "name": "Kobe Prentice",
+    "position": "WR",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0273,
+      "pass": 0.0654,
+      "rush": 0,
+      "firstDown": 0.0303,
+      "secondDown": 0.02,
+      "thirdDown": 0.033,
+      "standardDowns": 0.013,
+      "passingDowns": 0.033
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4431513",
+    "name": "Tyler Buchner",
+    "position": "QB",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.025,
+      "pass": 0.0518,
+      "rush": 0.0059,
+      "firstDown": 0.0126,
+      "secondDown": 0.034,
+      "thirdDown": 0.039,
+      "standardDowns": 0.027,
+      "passingDowns": 0.041
+    }
+  },
+  {
+    "season": 2023,
+    "id": "5150247",
+    "name": "Malik Benson",
+    "position": "WR",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0193,
+      "pass": 0.0463,
+      "rush": 0,
+      "firstDown": 0.0227,
+      "secondDown": 0.01,
+      "thirdDown": 0.022,
+      "standardDowns": 0.013,
+      "passingDowns": 0.019
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4685441",
+    "name": "Kendrick Law",
+    "position": "WR",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0182,
+      "pass": 0.0436,
+      "rush": 0,
+      "firstDown": 0.0253,
+      "secondDown": 0.02,
+      "thirdDown": 0,
+      "standardDowns": 0.009,
+      "passingDowns": 0.015
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4596545",
+    "name": "C.J. Dippre",
+    "position": "TE",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0148,
+      "pass": 0.0354,
+      "rush": 0,
+      "firstDown": 0.0076,
+      "secondDown": 0.024,
+      "thirdDown": 0.017,
+      "standardDowns": 0.009,
+      "passingDowns": 0.03
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4871081",
+    "name": "Richard Young",
+    "position": "RB",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0102,
+      "pass": 0,
+      "rush": 0.0177,
+      "firstDown": 0.0126,
+      "secondDown": 0.013,
+      "thirdDown": 0,
+      "standardDowns": 0.018,
+      "passingDowns": 0.004
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4870776",
+    "name": "Jalen Hale",
+    "position": "WR",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0091,
+      "pass": 0.0218,
+      "rush": 0,
+      "firstDown": 0.0076,
+      "secondDown": 0.01,
+      "thirdDown": 0.011,
+      "standardDowns": 0.009,
+      "passingDowns": 0.011
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4691688",
+    "name": "Robbie Ouzts",
+    "position": "TE",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0034,
+      "pass": 0.0082,
+      "rush": 0,
+      "firstDown": 0.0051,
+      "secondDown": 0.003,
+      "thirdDown": 0,
+      "standardDowns": 0.004,
+      "passingDowns": 0
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4870900",
+    "name": "Dylan Lonergan",
+    "position": "QB",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0034,
+      "pass": 0.0054,
+      "rush": 0.002,
+      "firstDown": 0.0025,
+      "secondDown": 0.003,
+      "thirdDown": 0.006,
+      "standardDowns": 0.004,
+      "passingDowns": 0.004
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4431506",
+    "name": "Ja'Corey Brooks",
+    "position": "WR",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0034,
+      "pass": 0.0082,
+      "rush": 0,
+      "firstDown": 0.0025,
+      "secondDown": 0,
+      "thirdDown": 0.011,
+      "standardDowns": 0.004,
+      "passingDowns": 0.004
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4918121",
+    "name": "Cole Adams",
+    "position": "WR",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0023,
+      "pass": 0.0054,
+      "rush": 0,
+      "firstDown": 0.0025,
+      "secondDown": 0,
+      "thirdDown": 0.006,
+      "standardDowns": 0,
+      "passingDowns": 0.004
+    }
+  },
+  {
+    "season": 2023,
+    "id": "4888707",
+    "name": "Danny Lewis Jr.",
+    "position": "TE",
+    "team": "Alabama",
+    "conference": "SEC",
+    "usage": {
+      "overall": 0.0011,
+      "pass": 0.0027,
+      "rush": 0,
+      "firstDown": 0,
+      "secondDown": 0.003,
+      "thirdDown": 0,
+      "standardDowns": 0,
+      "passingDowns": 0.004
+    }
+  }
+]

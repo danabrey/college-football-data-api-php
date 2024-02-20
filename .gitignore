@@ -1,0 +1,6 @@
+vendor
+.idea
+.vscode
+.phpstorm.meta.php
+.phpunit.result.cache
+.phpunit

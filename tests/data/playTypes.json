@@ -1,0 +1,242 @@
+[
+  {
+    "id": 5,
+    "text": "Rush",
+    "abbreviation": "RUSH"
+  },
+  {
+    "id": 24,
+    "text": "Pass Reception",
+    "abbreviation": "REC"
+  },
+  {
+    "id": 3,
+    "text": "Pass Incompletion",
+    "abbreviation": null
+  },
+  {
+    "id": 53,
+    "text": "Kickoff",
+    "abbreviation": "K"
+  },
+  {
+    "id": 52,
+    "text": "Punt",
+    "abbreviation": "PUNT"
+  },
+  {
+    "id": 8,
+    "text": "Penalty",
+    "abbreviation": "PEN"
+  },
+  {
+    "id": 21,
+    "text": "Timeout",
+    "abbreviation": "TO"
+  },
+  {
+    "id": 7,
+    "text": "Sack",
+    "abbreviation": null
+  },
+  {
+    "id": 68,
+    "text": "Rushing Touchdown",
+    "abbreviation": "TD"
+  },
+  {
+    "id": 67,
+    "text": "Passing Touchdown",
+    "abbreviation": "TD"
+  },
+  {
+    "id": 2,
+    "text": "End Period",
+    "abbreviation": "EP"
+  },
+  {
+    "id": 59,
+    "text": "Field Goal Good",
+    "abbreviation": "FG"
+  },
+  {
+    "id": 26,
+    "text": "Pass Interception Return",
+    "abbreviation": "INTR"
+  },
+  {
+    "id": 65,
+    "text": "End of Half",
+    "abbreviation": "EH"
+  },
+  {
+    "id": 9,
+    "text": "Fumble Recovery (Own)",
+    "abbreviation": null
+  },
+  {
+    "id": 29,
+    "text": "Fumble Recovery (Opponent)",
+    "abbreviation": null
+  },
+  {
+    "id": 60,
+    "text": "Field Goal Missed",
+    "abbreviation": "FGM"
+  },
+  {
+    "id": 12,
+    "text": "Kickoff Return (Offense)",
+    "abbreviation": null
+  },
+  {
+    "id": 36,
+    "text": "Interception Return Touchdown",
+    "abbreviation": "TD"
+  },
+  {
+    "id": 18,
+    "text": "Blocked Field Goal",
+    "abbreviation": "BFG"
+  },
+  {
+    "id": 17,
+    "text": "Blocked Punt",
+    "abbreviation": "BP"
+  },
+  {
+    "id": 20,
+    "text": "Safety",
+    "abbreviation": "SF"
+  },
+  {
+    "id": 32,
+    "text": "Kickoff Return Touchdown",
+    "abbreviation": "TD"
+  },
+  {
+    "id": 39,
+    "text": "Fumble Return Touchdown",
+    "abbreviation": "TD"
+  },
+  {
+    "id": 999,
+    "text": "Uncategorized",
+    "abbreviation": null
+  },
+  {
+    "id": 57,
+    "text": "Defensive 2pt Conversion",
+    "abbreviation": "D2P"
+  },
+  {
+    "id": 37,
+    "text": "Blocked Punt Touchdown",
+    "abbreviation": null
+  },
+  {
+    "id": 40,
+    "text": "Missed Field Goal Return",
+    "abbreviation": "AFG"
+  },
+  {
+    "id": 34,
+    "text": "Punt Return Touchdown",
+    "abbreviation": "TD"
+  },
+  {
+    "id": 70,
+    "text": "placeholder",
+    "abbreviation": "pla"
+  },
+  {
+    "id": 41,
+    "text": "Missed Field Goal Return Touchdown",
+    "abbreviation": null
+  },
+  {
+    "id": 16,
+    "text": "Two Point Rush",
+    "abbreviation": null
+  },
+  {
+    "id": 66,
+    "text": "End of Game",
+    "abbreviation": "EG"
+  },
+  {
+    "id": 63,
+    "text": "Interception",
+    "abbreviation": "INT"
+  },
+  {
+    "id": 38,
+    "text": "Blocked Field Goal Touchdown",
+    "abbreviation": null
+  },
+  {
+    "id": 51,
+    "text": "Pass",
+    "abbreviation": "PASS"
+  },
+  {
+    "id": 56,
+    "text": "2pt Conversion",
+    "abbreviation": "2P"
+  },
+  {
+    "id": 61,
+    "text": "Extra Point Good",
+    "abbreviation": "XP"
+  },
+  {
+    "id": 62,
+    "text": "Extra Point Missed",
+    "abbreviation": "EPM"
+  },
+  {
+    "id": 4,
+    "text": "Pass Completion",
+    "abbreviation": "PASS"
+  },
+  {
+    "id": 6,
+    "text": "Pass Interception",
+    "abbreviation": "INT"
+  },
+  {
+    "id": 78,
+    "text": "Offensive 1pt Safety",
+    "abbreviation": "SF"
+  },
+  {
+    "id": 43,
+    "text": "Blocked PAT",
+    "abbreviation": null
+  },
+  {
+    "id": 13,
+    "text": "Kickoff Return (Defense)",
+    "abbreviation": null
+  },
+  {
+    "id": 14,
+    "text": "Punt Return",
+    "abbreviation": null
+  },
+  {
+    "id": 15,
+    "text": "Two Point Pass",
+    "abbreviation": null
+  },
+  {
+    "id": 79,
+    "text": "End of Regulation",
+    "abbreviation": "ER"
+  },
+  {
+    "id": 800,
+    "text": "Start of Period",
+    "abbreviation": null
+  }
+]

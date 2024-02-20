@@ -1,0 +1,87 @@
+{
+  "team1": "Michigan",
+  "team2": "Alabama",
+  "team1Wins": 3,
+  "team2Wins": 3,
+  "ties": 0,
+  "games": [
+    {
+      "season": 1987,
+      "week": 1,
+      "seasonType": "postseason",
+      "date": "1988-01-02T00:00:00.000Z",
+      "neutralSite": true,
+      "venue": null,
+      "homeTeam": "Michigan",
+      "homeScore": 28,
+      "awayTeam": "Alabama",
+      "awayScore": 24,
+      "winner": "Michigan"
+    },
+    {
+      "season": 1996,
+      "week": 1,
+      "seasonType": "postseason",
+      "date": "1997-01-01T00:00:00.000Z",
+      "neutralSite": true,
+      "venue": null,
+      "homeTeam": "Alabama",
+      "homeScore": 17,
+      "awayTeam": "Michigan",
+      "awayScore": 14,
+      "winner": "Alabama"
+    },
+    {
+      "season": 1999,
+      "week": 1,
+      "seasonType": "postseason",
+      "date": "2000-01-01T00:00:00.000Z",
+      "neutralSite": true,
+      "venue": null,
+      "homeTeam": "Michigan",
+      "homeScore": 35,
+      "awayTeam": "Alabama",
+      "awayScore": 34,
+      "winner": "Michigan"
+    },
+    {
+      "season": 2012,
+      "week": 1,
+      "seasonType": "regular",
+      "date": "2012-09-02T00:00:00.000Z",
+      "neutralSite": true,
+      "venue": null,
+      "homeTeam": "Alabama",
+      "homeScore": 41,
+      "awayTeam": "Michigan",
+      "awayScore": 14,
+      "winner": "Alabama"
+    },
+    {
+      "season": 2019,
+      "week": 1,
+      "seasonType": "postseason",
+      "date": "2020-01-01T18:00:00.000Z",
+      "neutralSite": true,
+      "venue": "Camping World Stadium",
+      "homeTeam": "Alabama",
+      "homeScore": 35,
+      "awayTeam": "Michigan",
+      "awayScore": 16,
+      "winner": "Alabama"
+    },
+    {
+      "season": 2023,
+      "week": 1,
+      "seasonType": "postseason",
+      "date": "2024-01-01T22:00:00.000Z",
+      "neutralSite": true,
+      "venue": "Rose Bowl",
+      "homeTeam": "Michigan",
+      "homeScore": 27,
+      "awayTeam": "Alabama",
+      "awayScore": 20,
+      "winner": "Michigan"
+    }
+  ]
+}

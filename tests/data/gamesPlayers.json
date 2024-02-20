@@ -1,0 +1,3818 @@
+[
+  {
+    "id": 401520149,
+    "teams": [
+      {
+        "school": "Alabama",
+        "conference": "SEC",
+        "homeAway": "home",
+        "points": 56,
+        "categories": [
+          {
+            "name": "punting",
+            "types": [
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4880048",
+                    "name": "James Burnip",
+                    "stat": "53"
+                  }
+                ]
+              },
+              {
+                "name": "In 20",
+                "athletes": [
+                  {
+                    "id": "4880048",
+                    "name": "James Burnip",
+                    "stat": "1"
+                  }
+                ]
+              },
+              {
+                "name": "TB",
+                "athletes": [
+                  {
+                    "id": "4880048",
+                    "name": "James Burnip",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4880048",
+                    "name": "James Burnip",
+                    "stat": "46.3"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4880048",
+                    "name": "James Burnip",
+                    "stat": "139"
+                  }
+                ]
+              },
+              {
+                "name": "NO",
+                "athletes": [
+                  {
+                    "id": "4880048",
+                    "name": "James Burnip",
+                    "stat": "3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "kicking",
+            "types": [
+              {
+                "name": "PTS",
+                "athletes": [
+                  {
+                    "id": "5081854",
+                    "name": "Conor Talty",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4567104",
+                    "name": "Will Reichard",
+                    "stat": "7"
+                  }
+                ]
+              },
+              {
+                "name": "XP",
+                "athletes": [
+                  {
+                    "id": "5081854",
+                    "name": "Conor Talty",
+                    "stat": "1/1"
+                  },
+                  {
+                    "id": "4567104",
+                    "name": "Will Reichard",
+                    "stat": "7/7"
+                  }
+                ]
+              },
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "5081854",
+                    "name": "Conor Talty",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4567104",
+                    "name": "Will Reichard",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "PCT",
+                "athletes": [
+                  {
+                    "id": "5081854",
+                    "name": "Conor Talty",
+                    "stat": "0.0"
+                  },
+                  {
+                    "id": "4567104",
+                    "name": "Will Reichard",
+                    "stat": "0.0"
+                  }
+                ]
+              },
+              {
+                "name": "FG",
+                "athletes": [
+                  {
+                    "id": "5081854",
+                    "name": "Conor Talty",
+                    "stat": "0/0"
+                  },
+                  {
+                    "id": "4567104",
+                    "name": "Will Reichard",
+                    "stat": "0/0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "puntReturns",
+            "types": [
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "33"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "1.0"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "13.2"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "66"
+                  }
+                ]
+              },
+              {
+                "name": "NO",
+                "athletes": [
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "kickReturns",
+            "types": [
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4685441",
+                    "name": "Kendrick Law",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4685441",
+                    "name": "Kendrick Law",
+                    "stat": "23"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4685441",
+                    "name": "Kendrick Law",
+                    "stat": "23.0"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4685441",
+                    "name": "Kendrick Law",
+                    "stat": "23"
+                  }
+                ]
+              },
+              {
+                "name": "NO",
+                "athletes": [
+                  {
+                    "id": "4685441",
+                    "name": "Kendrick Law",
+                    "stat": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "interceptions",
+            "types": [
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "13"
+                  }
+                ]
+              },
+              {
+                "name": "INT",
+                "athletes": [
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "defensive",
+            "types": [
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4870856",
+                    "name": "Tony Mitchell",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685243",
+                    "name": "Jeremiah Alexander",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4574689",
+                    "name": "Trey Amos",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870969",
+                    "name": "James Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685500",
+                    "name": "Shawn Murphy",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4567138",
+                    "name": "Justin Eboigbe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4565190",
+                    "name": "Dallas Turner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692024",
+                    "name": "Malachi Moore",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685437",
+                    "name": "Earl Little II",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570039",
+                    "name": "Keanu Koht",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692048",
+                    "name": "Quandarrius Robinson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692023",
+                    "name": "Kristian Story",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685487",
+                    "name": "Jaheim Oatis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428989",
+                    "name": "Chris Braswell",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4426677",
+                    "name": "Trezmen Marshall",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4592837",
+                    "name": "Terrion Arnold",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4432725",
+                    "name": "Deontae Lawson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870706",
+                    "name": "Caleb Downs",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "QB HUR",
+                "athletes": [
+                  {
+                    "id": "4870856",
+                    "name": "Tony Mitchell",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685243",
+                    "name": "Jeremiah Alexander",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4574689",
+                    "name": "Trey Amos",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870969",
+                    "name": "James Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685500",
+                    "name": "Shawn Murphy",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4567138",
+                    "name": "Justin Eboigbe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4565190",
+                    "name": "Dallas Turner",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4692024",
+                    "name": "Malachi Moore",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685437",
+                    "name": "Earl Little II",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570039",
+                    "name": "Keanu Koht",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692048",
+                    "name": "Quandarrius Robinson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692023",
+                    "name": "Kristian Story",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685487",
+                    "name": "Jaheim Oatis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428989",
+                    "name": "Chris Braswell",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4426677",
+                    "name": "Trezmen Marshall",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4592837",
+                    "name": "Terrion Arnold",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4432725",
+                    "name": "Deontae Lawson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4870706",
+                    "name": "Caleb Downs",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "PD",
+                "athletes": [
+                  {
+                    "id": "4870856",
+                    "name": "Tony Mitchell",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685243",
+                    "name": "Jeremiah Alexander",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4574689",
+                    "name": "Trey Amos",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870969",
+                    "name": "James Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685500",
+                    "name": "Shawn Murphy",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4567138",
+                    "name": "Justin Eboigbe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4565190",
+                    "name": "Dallas Turner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692024",
+                    "name": "Malachi Moore",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685437",
+                    "name": "Earl Little II",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570039",
+                    "name": "Keanu Koht",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692048",
+                    "name": "Quandarrius Robinson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692023",
+                    "name": "Kristian Story",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685487",
+                    "name": "Jaheim Oatis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428989",
+                    "name": "Chris Braswell",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4426677",
+                    "name": "Trezmen Marshall",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4592837",
+                    "name": "Terrion Arnold",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4432725",
+                    "name": "Deontae Lawson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870706",
+                    "name": "Caleb Downs",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "SOLO",
+                "athletes": [
+                  {
+                    "id": "4870706",
+                    "name": "Caleb Downs",
+                    "stat": "6"
+                  },
+                  {
+                    "id": "4870856",
+                    "name": "Tony Mitchell",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685243",
+                    "name": "Jeremiah Alexander",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4574689",
+                    "name": "Trey Amos",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870969",
+                    "name": "James Smith",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685500",
+                    "name": "Shawn Murphy",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4567138",
+                    "name": "Justin Eboigbe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4565190",
+                    "name": "Dallas Turner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692024",
+                    "name": "Malachi Moore",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685437",
+                    "name": "Earl Little II",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4570039",
+                    "name": "Keanu Koht",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4692048",
+                    "name": "Quandarrius Robinson",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4692023",
+                    "name": "Kristian Story",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4685487",
+                    "name": "Jaheim Oatis",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4428989",
+                    "name": "Chris Braswell",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4426677",
+                    "name": "Trezmen Marshall",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4592837",
+                    "name": "Terrion Arnold",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4432725",
+                    "name": "Deontae Lawson",
+                    "stat": "4"
+                  }
+                ]
+              },
+              {
+                "name": "TOT",
+                "athletes": [
+                  {
+                    "id": "4870856",
+                    "name": "Tony Mitchell",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685243",
+                    "name": "Jeremiah Alexander",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4574689",
+                    "name": "Trey Amos",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4870969",
+                    "name": "James Smith",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685500",
+                    "name": "Shawn Murphy",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4567138",
+                    "name": "Justin Eboigbe",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4565190",
+                    "name": "Dallas Turner",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4692024",
+                    "name": "Malachi Moore",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4685437",
+                    "name": "Earl Little II",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4570039",
+                    "name": "Keanu Koht",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4692048",
+                    "name": "Quandarrius Robinson",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4692023",
+                    "name": "Kristian Story",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4685487",
+                    "name": "Jaheim Oatis",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4428989",
+                    "name": "Chris Braswell",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4426677",
+                    "name": "Trezmen Marshall",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4592837",
+                    "name": "Terrion Arnold",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4432725",
+                    "name": "Deontae Lawson",
+                    "stat": "7"
+                  },
+                  {
+                    "id": "4870706",
+                    "name": "Caleb Downs",
+                    "stat": "8"
+                  }
+                ]
+              },
+              {
+                "name": "TFL",
+                "athletes": [
+                  {
+                    "id": "4870856",
+                    "name": "Tony Mitchell",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685243",
+                    "name": "Jeremiah Alexander",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4574689",
+                    "name": "Trey Amos",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870969",
+                    "name": "James Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685500",
+                    "name": "Shawn Murphy",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4567138",
+                    "name": "Justin Eboigbe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4565190",
+                    "name": "Dallas Turner",
+                    "stat": "0.5"
+                  },
+                  {
+                    "id": "4692024",
+                    "name": "Malachi Moore",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685437",
+                    "name": "Earl Little II",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570039",
+                    "name": "Keanu Koht",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4692048",
+                    "name": "Quandarrius Robinson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4692023",
+                    "name": "Kristian Story",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685487",
+                    "name": "Jaheim Oatis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428989",
+                    "name": "Chris Braswell",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4426677",
+                    "name": "Trezmen Marshall",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4592837",
+                    "name": "Terrion Arnold",
+                    "stat": "0.5"
+                  },
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4432725",
+                    "name": "Deontae Lawson",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4870706",
+                    "name": "Caleb Downs",
+                    "stat": "1"
+                  }
+                ]
+              },
+              {
+                "name": "SACKS",
+                "athletes": [
+                  {
+                    "id": "4870856",
+                    "name": "Tony Mitchell",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685243",
+                    "name": "Jeremiah Alexander",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4574689",
+                    "name": "Trey Amos",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870969",
+                    "name": "James Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685500",
+                    "name": "Shawn Murphy",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4567138",
+                    "name": "Justin Eboigbe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4565190",
+                    "name": "Dallas Turner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692024",
+                    "name": "Malachi Moore",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685437",
+                    "name": "Earl Little II",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570039",
+                    "name": "Keanu Koht",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4692048",
+                    "name": "Quandarrius Robinson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4692023",
+                    "name": "Kristian Story",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685487",
+                    "name": "Jaheim Oatis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4433975",
+                    "name": "Kool-Aid McKinstry",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363417",
+                    "name": "Jaylen Key",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428989",
+                    "name": "Chris Braswell",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4426677",
+                    "name": "Trezmen Marshall",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4592837",
+                    "name": "Terrion Arnold",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4432725",
+                    "name": "Deontae Lawson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4870706",
+                    "name": "Caleb Downs",
+                    "stat": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "fumbles",
+            "types": [
+              {
+                "name": "REC",
+                "athletes": [
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "-5154",
+                    "name": " Team",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "LOST",
+                "athletes": [
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "-5154",
+                    "name": " Team",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "FUM",
+                "athletes": [
+                  {
+                    "id": "4431500",
+                    "name": "Kendrick Blackshire",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "-5154",
+                    "name": " Team",
+                    "stat": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "receiving",
+            "types": [
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "5150247",
+                    "name": "Malik Benson",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4870776",
+                    "name": "Jalen Hale",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4596545",
+                    "name": "C.J. Dippre",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4869965",
+                    "name": "Kobe Prentice",
+                    "stat": "9"
+                  },
+                  {
+                    "id": "4869534",
+                    "name": "Amari Niblack",
+                    "stat": "29"
+                  },
+                  {
+                    "id": "4429033",
+                    "name": "Jermaine Burton",
+                    "stat": "48"
+                  },
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "47"
+                  }
+                ]
+              },
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5150247",
+                    "name": "Malik Benson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870776",
+                    "name": "Jalen Hale",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4596545",
+                    "name": "C.J. Dippre",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4869965",
+                    "name": "Kobe Prentice",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4869534",
+                    "name": "Amari Niblack",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4429033",
+                    "name": "Jermaine Burton",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "1"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "4.0"
+                  },
+                  {
+                    "id": "5150247",
+                    "name": "Malik Benson",
+                    "stat": "5.0"
+                  },
+                  {
+                    "id": "4870776",
+                    "name": "Jalen Hale",
+                    "stat": "5.0"
+                  },
+                  {
+                    "id": "4596545",
+                    "name": "C.J. Dippre",
+                    "stat": "5.0"
+                  },
+                  {
+                    "id": "4869965",
+                    "name": "Kobe Prentice",
+                    "stat": "6.7"
+                  },
+                  {
+                    "id": "4869534",
+                    "name": "Amari Niblack",
+                    "stat": "24.5"
+                  },
+                  {
+                    "id": "4429033",
+                    "name": "Jermaine Burton",
+                    "stat": "20.7"
+                  },
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "15.2"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "5150247",
+                    "name": "Malik Benson",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4870776",
+                    "name": "Jalen Hale",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4596545",
+                    "name": "C.J. Dippre",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4869965",
+                    "name": "Kobe Prentice",
+                    "stat": "20"
+                  },
+                  {
+                    "id": "4869534",
+                    "name": "Amari Niblack",
+                    "stat": "49"
+                  },
+                  {
+                    "id": "4429033",
+                    "name": "Jermaine Burton",
+                    "stat": "62"
+                  },
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "76"
+                  }
+                ]
+              },
+              {
+                "name": "REC",
+                "athletes": [
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "5150247",
+                    "name": "Malik Benson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4870776",
+                    "name": "Jalen Hale",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4596545",
+                    "name": "C.J. Dippre",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4869965",
+                    "name": "Kobe Prentice",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4869534",
+                    "name": "Amari Niblack",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4429033",
+                    "name": "Jermaine Burton",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4808839",
+                    "name": "Isaiah Bond",
+                    "stat": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "rushing",
+            "types": [
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "9"
+                  },
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "11"
+                  },
+                  {
+                    "id": "4685477",
+                    "name": "Jamarion Miller",
+                    "stat": "6"
+                  },
+                  {
+                    "id": "4871081",
+                    "name": "Richard Young",
+                    "stat": "11"
+                  },
+                  {
+                    "id": "4870760",
+                    "name": "Justice Haynes",
+                    "stat": "16"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "11"
+                  },
+                  {
+                    "id": "4429001",
+                    "name": "Jase McClellan",
+                    "stat": "20"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "25"
+                  }
+                ]
+              },
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685477",
+                    "name": "Jamarion Miller",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4871081",
+                    "name": "Richard Young",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4870760",
+                    "name": "Justice Haynes",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429001",
+                    "name": "Jase McClellan",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "2"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "9.0"
+                  },
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "6.0"
+                  },
+                  {
+                    "id": "4685477",
+                    "name": "Jamarion Miller",
+                    "stat": "3.5"
+                  },
+                  {
+                    "id": "4871081",
+                    "name": "Richard Young",
+                    "stat": "3.6"
+                  },
+                  {
+                    "id": "4870760",
+                    "name": "Justice Haynes",
+                    "stat": "7.3"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "5.1"
+                  },
+                  {
+                    "id": "4429001",
+                    "name": "Jase McClellan",
+                    "stat": "3.9"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "6.9"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "9"
+                  },
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "12"
+                  },
+                  {
+                    "id": "4685477",
+                    "name": "Jamarion Miller",
+                    "stat": "14"
+                  },
+                  {
+                    "id": "4871081",
+                    "name": "Richard Young",
+                    "stat": "18"
+                  },
+                  {
+                    "id": "4870760",
+                    "name": "Justice Haynes",
+                    "stat": "29"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "36"
+                  },
+                  {
+                    "id": "4429001",
+                    "name": "Jase McClellan",
+                    "stat": "39"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "48"
+                  }
+                ]
+              },
+              {
+                "name": "CAR",
+                "athletes": [
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4685477",
+                    "name": "Jamarion Miller",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4871081",
+                    "name": "Richard Young",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4870760",
+                    "name": "Justice Haynes",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4685723",
+                    "name": "Roydell Williams",
+                    "stat": "7"
+                  },
+                  {
+                    "id": "4429001",
+                    "name": "Jase McClellan",
+                    "stat": "10"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "7"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "passing",
+            "types": [
+              {
+                "name": "QBR",
+                "athletes": [
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "99.9"
+                  },
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "82.9"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "94.0"
+                  }
+                ]
+              },
+              {
+                "name": "INT",
+                "athletes": [
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "3"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "5.0"
+                  },
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "5.4"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "10.8"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "27"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "194"
+                  }
+                ]
+              },
+              {
+                "name": "C/ATT",
+                "athletes": [
+                  {
+                    "id": "4685522",
+                    "name": "Ty Simpson",
+                    "stat": "1/1"
+                  },
+                  {
+                    "id": "4431513",
+                    "name": "Tyler Buchner",
+                    "stat": "3/5"
+                  },
+                  {
+                    "id": "4432734",
+                    "name": "Jalen Milroe",
+                    "stat": "13/18"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "school": "Middle Tennessee",
+        "conference": "Conference USA",
+        "homeAway": "away",
+        "points": 7,
+        "categories": [
+          {
+            "name": "defensive",
+            "types": [
+              {
+                "name": "SOLO",
+                "athletes": [
+                  {
+                    "id": "4683926",
+                    "name": "Tyrell Raby",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683556",
+                    "name": "Brandon Buckner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570496",
+                    "name": "Richard Kinley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4430232",
+                    "name": "Marvae Myers-Glover",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360839",
+                    "name": "Jordan Branch",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5093332",
+                    "name": "Chris Johnson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4875805",
+                    "name": "Deonte Stanley",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4589519",
+                    "name": "James Stewart",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363418",
+                    "name": "Jalen Rayam",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429465",
+                    "name": "Devyn Curtis",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4428925",
+                    "name": "Zaylin Wood",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4575509",
+                    "name": "Jalen Davis",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4429774",
+                    "name": "Drew Francis",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4880861",
+                    "name": "Parker Hughes",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4426968",
+                    "name": "Marley Cook",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427405",
+                    "name": "Raquon Hartley",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4427117",
+                    "name": "Quindarius Dunnigan",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4714294",
+                    "name": "Damonte Smith",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4570492",
+                    "name": "Jalen Jackson",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "5151008",
+                    "name": "Sam Brumfield",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4573428",
+                    "name": "Tra Fluellen",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4360826",
+                    "name": "Teldrick Ross",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4686515",
+                    "name": "Johnathan Butler",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4710865",
+                    "name": "Jakobe Thomas",
+                    "stat": "6"
+                  },
+                  {
+                    "id": "4839498",
+                    "name": "Keylan Rutledge",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686944",
+                    "name": "Rickey Smith",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "TOT",
+                "athletes": [
+                  {
+                    "id": "4839498",
+                    "name": "Keylan Rutledge",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4686944",
+                    "name": "Rickey Smith",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4683926",
+                    "name": "Tyrell Raby",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4683556",
+                    "name": "Brandon Buckner",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4570496",
+                    "name": "Richard Kinley",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4430232",
+                    "name": "Marvae Myers-Glover",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4360839",
+                    "name": "Jordan Branch",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "5093332",
+                    "name": "Chris Johnson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4875805",
+                    "name": "Deonte Stanley",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4589519",
+                    "name": "James Stewart",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4363418",
+                    "name": "Jalen Rayam",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4429465",
+                    "name": "Devyn Curtis",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4428925",
+                    "name": "Zaylin Wood",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4575509",
+                    "name": "Jalen Davis",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4429774",
+                    "name": "Drew Francis",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4880861",
+                    "name": "Parker Hughes",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4426968",
+                    "name": "Marley Cook",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4427405",
+                    "name": "Raquon Hartley",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4427117",
+                    "name": "Quindarius Dunnigan",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4714294",
+                    "name": "Damonte Smith",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4570492",
+                    "name": "Jalen Jackson",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "5151008",
+                    "name": "Sam Brumfield",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4573428",
+                    "name": "Tra Fluellen",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4360826",
+                    "name": "Teldrick Ross",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4686515",
+                    "name": "Johnathan Butler",
+                    "stat": "6"
+                  },
+                  {
+                    "id": "4710865",
+                    "name": "Jakobe Thomas",
+                    "stat": "8"
+                  }
+                ]
+              },
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4839498",
+                    "name": "Keylan Rutledge",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686944",
+                    "name": "Rickey Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683926",
+                    "name": "Tyrell Raby",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683556",
+                    "name": "Brandon Buckner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570496",
+                    "name": "Richard Kinley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4430232",
+                    "name": "Marvae Myers-Glover",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360839",
+                    "name": "Jordan Branch",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5093332",
+                    "name": "Chris Johnson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4875805",
+                    "name": "Deonte Stanley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4589519",
+                    "name": "James Stewart",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363418",
+                    "name": "Jalen Rayam",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429465",
+                    "name": "Devyn Curtis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428925",
+                    "name": "Zaylin Wood",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4575509",
+                    "name": "Jalen Davis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429774",
+                    "name": "Drew Francis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4880861",
+                    "name": "Parker Hughes",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4426968",
+                    "name": "Marley Cook",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427405",
+                    "name": "Raquon Hartley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427117",
+                    "name": "Quindarius Dunnigan",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4714294",
+                    "name": "Damonte Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570492",
+                    "name": "Jalen Jackson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5151008",
+                    "name": "Sam Brumfield",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4573428",
+                    "name": "Tra Fluellen",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360826",
+                    "name": "Teldrick Ross",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686515",
+                    "name": "Johnathan Butler",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4710865",
+                    "name": "Jakobe Thomas",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "QB HUR",
+                "athletes": [
+                  {
+                    "id": "4839498",
+                    "name": "Keylan Rutledge",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686944",
+                    "name": "Rickey Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683926",
+                    "name": "Tyrell Raby",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683556",
+                    "name": "Brandon Buckner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570496",
+                    "name": "Richard Kinley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4430232",
+                    "name": "Marvae Myers-Glover",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360839",
+                    "name": "Jordan Branch",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5093332",
+                    "name": "Chris Johnson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4875805",
+                    "name": "Deonte Stanley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4589519",
+                    "name": "James Stewart",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363418",
+                    "name": "Jalen Rayam",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429465",
+                    "name": "Devyn Curtis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428925",
+                    "name": "Zaylin Wood",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4575509",
+                    "name": "Jalen Davis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429774",
+                    "name": "Drew Francis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4880861",
+                    "name": "Parker Hughes",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4426968",
+                    "name": "Marley Cook",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427405",
+                    "name": "Raquon Hartley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427117",
+                    "name": "Quindarius Dunnigan",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4714294",
+                    "name": "Damonte Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570492",
+                    "name": "Jalen Jackson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5151008",
+                    "name": "Sam Brumfield",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4573428",
+                    "name": "Tra Fluellen",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360826",
+                    "name": "Teldrick Ross",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686515",
+                    "name": "Johnathan Butler",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4710865",
+                    "name": "Jakobe Thomas",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "PD",
+                "athletes": [
+                  {
+                    "id": "4839498",
+                    "name": "Keylan Rutledge",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686944",
+                    "name": "Rickey Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683926",
+                    "name": "Tyrell Raby",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683556",
+                    "name": "Brandon Buckner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570496",
+                    "name": "Richard Kinley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4430232",
+                    "name": "Marvae Myers-Glover",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360839",
+                    "name": "Jordan Branch",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5093332",
+                    "name": "Chris Johnson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4875805",
+                    "name": "Deonte Stanley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4589519",
+                    "name": "James Stewart",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363418",
+                    "name": "Jalen Rayam",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429465",
+                    "name": "Devyn Curtis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428925",
+                    "name": "Zaylin Wood",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4575509",
+                    "name": "Jalen Davis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429774",
+                    "name": "Drew Francis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4880861",
+                    "name": "Parker Hughes",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4426968",
+                    "name": "Marley Cook",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427405",
+                    "name": "Raquon Hartley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427117",
+                    "name": "Quindarius Dunnigan",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4714294",
+                    "name": "Damonte Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570492",
+                    "name": "Jalen Jackson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "5151008",
+                    "name": "Sam Brumfield",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4573428",
+                    "name": "Tra Fluellen",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360826",
+                    "name": "Teldrick Ross",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686515",
+                    "name": "Johnathan Butler",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4710865",
+                    "name": "Jakobe Thomas",
+                    "stat": "1"
+                  }
+                ]
+              },
+              {
+                "name": "TFL",
+                "athletes": [
+                  {
+                    "id": "4839498",
+                    "name": "Keylan Rutledge",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686944",
+                    "name": "Rickey Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683926",
+                    "name": "Tyrell Raby",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683556",
+                    "name": "Brandon Buckner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570496",
+                    "name": "Richard Kinley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4430232",
+                    "name": "Marvae Myers-Glover",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360839",
+                    "name": "Jordan Branch",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5093332",
+                    "name": "Chris Johnson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4875805",
+                    "name": "Deonte Stanley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4589519",
+                    "name": "James Stewart",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363418",
+                    "name": "Jalen Rayam",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429465",
+                    "name": "Devyn Curtis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428925",
+                    "name": "Zaylin Wood",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4575509",
+                    "name": "Jalen Davis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429774",
+                    "name": "Drew Francis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4880861",
+                    "name": "Parker Hughes",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4426968",
+                    "name": "Marley Cook",
+                    "stat": "0.5"
+                  },
+                  {
+                    "id": "4427405",
+                    "name": "Raquon Hartley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427117",
+                    "name": "Quindarius Dunnigan",
+                    "stat": "0.5"
+                  },
+                  {
+                    "id": "4714294",
+                    "name": "Damonte Smith",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4570492",
+                    "name": "Jalen Jackson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5151008",
+                    "name": "Sam Brumfield",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4573428",
+                    "name": "Tra Fluellen",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360826",
+                    "name": "Teldrick Ross",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686515",
+                    "name": "Johnathan Butler",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4710865",
+                    "name": "Jakobe Thomas",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "SACKS",
+                "athletes": [
+                  {
+                    "id": "4839498",
+                    "name": "Keylan Rutledge",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686944",
+                    "name": "Rickey Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683926",
+                    "name": "Tyrell Raby",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683556",
+                    "name": "Brandon Buckner",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570496",
+                    "name": "Richard Kinley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4430232",
+                    "name": "Marvae Myers-Glover",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360839",
+                    "name": "Jordan Branch",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5093332",
+                    "name": "Chris Johnson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4875805",
+                    "name": "Deonte Stanley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4589519",
+                    "name": "James Stewart",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4363418",
+                    "name": "Jalen Rayam",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429465",
+                    "name": "Devyn Curtis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428925",
+                    "name": "Zaylin Wood",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4575509",
+                    "name": "Jalen Davis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4429774",
+                    "name": "Drew Francis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4880861",
+                    "name": "Parker Hughes",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4426968",
+                    "name": "Marley Cook",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427405",
+                    "name": "Raquon Hartley",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4427117",
+                    "name": "Quindarius Dunnigan",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4714294",
+                    "name": "Damonte Smith",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4570492",
+                    "name": "Jalen Jackson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5151008",
+                    "name": "Sam Brumfield",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4573428",
+                    "name": "Tra Fluellen",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4360826",
+                    "name": "Teldrick Ross",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686515",
+                    "name": "Johnathan Butler",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4710865",
+                    "name": "Jakobe Thomas",
+                    "stat": "0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "fumbles",
+            "types": [
+              {
+                "name": "REC",
+                "athletes": [
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "LOST",
+                "athletes": [
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "1"
+                  }
+                ]
+              },
+              {
+                "name": "FUM",
+                "athletes": [
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "receiving",
+            "types": [
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4428140",
+                    "name": "Kalani Norris",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683658",
+                    "name": "Javonte Sherman",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4572906",
+                    "name": "A.J. Toney",
+                    "stat": "7"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "6"
+                  },
+                  {
+                    "id": "4371758",
+                    "name": "Jeremy Tate Jr.",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4686514",
+                    "name": "Bryce Bailey",
+                    "stat": "7"
+                  },
+                  {
+                    "id": "4431651",
+                    "name": "Elijah Metcalf",
+                    "stat": "9"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "10"
+                  },
+                  {
+                    "id": "4611516",
+                    "name": "Holden Willis",
+                    "stat": "12"
+                  },
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "8"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "21"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "14"
+                  }
+                ]
+              },
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4428140",
+                    "name": "Kalani Norris",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4683658",
+                    "name": "Javonte Sherman",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4572906",
+                    "name": "A.J. Toney",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4371758",
+                    "name": "Jeremy Tate Jr.",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686514",
+                    "name": "Bryce Bailey",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4431651",
+                    "name": "Elijah Metcalf",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4611516",
+                    "name": "Holden Willis",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4428140",
+                    "name": "Kalani Norris",
+                    "stat": "-2.0"
+                  },
+                  {
+                    "id": "4683658",
+                    "name": "Javonte Sherman",
+                    "stat": "4.0"
+                  },
+                  {
+                    "id": "4572906",
+                    "name": "A.J. Toney",
+                    "stat": "3.0"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "6.0"
+                  },
+                  {
+                    "id": "4371758",
+                    "name": "Jeremy Tate Jr.",
+                    "stat": "3.5"
+                  },
+                  {
+                    "id": "4686514",
+                    "name": "Bryce Bailey",
+                    "stat": "5.0"
+                  },
+                  {
+                    "id": "4431651",
+                    "name": "Elijah Metcalf",
+                    "stat": "4.0"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "6.5"
+                  },
+                  {
+                    "id": "4611516",
+                    "name": "Holden Willis",
+                    "stat": "7.5"
+                  },
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "5.3"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "21.0"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "6.3"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4428140",
+                    "name": "Kalani Norris",
+                    "stat": "-2"
+                  },
+                  {
+                    "id": "4683658",
+                    "name": "Javonte Sherman",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4572906",
+                    "name": "A.J. Toney",
+                    "stat": "6"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "6"
+                  },
+                  {
+                    "id": "4371758",
+                    "name": "Jeremy Tate Jr.",
+                    "stat": "7"
+                  },
+                  {
+                    "id": "4686514",
+                    "name": "Bryce Bailey",
+                    "stat": "10"
+                  },
+                  {
+                    "id": "4431651",
+                    "name": "Elijah Metcalf",
+                    "stat": "12"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "13"
+                  },
+                  {
+                    "id": "4611516",
+                    "name": "Holden Willis",
+                    "stat": "15"
+                  },
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "16"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "21"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "25"
+                  }
+                ]
+              },
+              {
+                "name": "REC",
+                "athletes": [
+                  {
+                    "id": "4428140",
+                    "name": "Kalani Norris",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4683658",
+                    "name": "Javonte Sherman",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4572906",
+                    "name": "A.J. Toney",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4428167",
+                    "name": "Justin Olson",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4371758",
+                    "name": "Jeremy Tate Jr.",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4686514",
+                    "name": "Bryce Bailey",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4431651",
+                    "name": "Elijah Metcalf",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4684540",
+                    "name": "Jacob Coleman",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4611516",
+                    "name": "Holden Willis",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "rushing",
+            "types": [
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4689978",
+                    "name": "Jalen Montgomery",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "5"
+                  },
+                  {
+                    "id": "4686513",
+                    "name": "Frank Peasant",
+                    "stat": "9"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "30"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "11"
+                  }
+                ]
+              },
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4689978",
+                    "name": "Jalen Montgomery",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4686513",
+                    "name": "Frank Peasant",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "1.0"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "2.0"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "3.0"
+                  },
+                  {
+                    "id": "4689978",
+                    "name": "Jalen Montgomery",
+                    "stat": "3.0"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "2.0"
+                  },
+                  {
+                    "id": "4686513",
+                    "name": "Frank Peasant",
+                    "stat": "3.3"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "2.7"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "4.0"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4689978",
+                    "name": "Jalen Montgomery",
+                    "stat": "6"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "8"
+                  },
+                  {
+                    "id": "4686513",
+                    "name": "Frank Peasant",
+                    "stat": "10"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "16"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "32"
+                  }
+                ]
+              },
+              {
+                "name": "CAR",
+                "athletes": [
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4689978",
+                    "name": "Jalen Montgomery",
+                    "stat": "2"
+                  },
+                  {
+                    "id": "4837462",
+                    "name": "Jaiden Credle",
+                    "stat": "4"
+                  },
+                  {
+                    "id": "4686513",
+                    "name": "Frank Peasant",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "6"
+                  },
+                  {
+                    "id": "5121721",
+                    "name": "Jekail Middlebrook",
+                    "stat": "8"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "passing",
+            "types": [
+              {
+                "name": "QBR",
+                "athletes": [
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "19.2"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "90.1"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "36.2"
+                  }
+                ]
+              },
+              {
+                "name": "INT",
+                "athletes": [
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "1"
+                  }
+                ]
+              },
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "1"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "-1.0"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "3.5"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "4.0"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "-1"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "7"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "127"
+                  }
+                ]
+              },
+              {
+                "name": "C/ATT",
+                "athletes": [
+                  {
+                    "id": "4685440",
+                    "name": "Kyle Lowe",
+                    "stat": "1/1"
+                  },
+                  {
+                    "id": "4812474",
+                    "name": "DJ Riles",
+                    "stat": "2/2"
+                  },
+                  {
+                    "id": "4682518",
+                    "name": "Nick Vattiato",
+                    "stat": "21/32"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "punting",
+            "types": [
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4877339",
+                    "name": "Trey Turk",
+                    "stat": "51"
+                  },
+                  {
+                    "id": "4689979",
+                    "name": "Miles Tillman",
+                    "stat": "59"
+                  }
+                ]
+              },
+              {
+                "name": "In 20",
+                "athletes": [
+                  {
+                    "id": "4877339",
+                    "name": "Trey Turk",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4689979",
+                    "name": "Miles Tillman",
+                    "stat": "2"
+                  }
+                ]
+              },
+              {
+                "name": "TB",
+                "athletes": [
+                  {
+                    "id": "4877339",
+                    "name": "Trey Turk",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4689979",
+                    "name": "Miles Tillman",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4877339",
+                    "name": "Trey Turk",
+                    "stat": "44.0"
+                  },
+                  {
+                    "id": "4689979",
+                    "name": "Miles Tillman",
+                    "stat": "53.6"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4877339",
+                    "name": "Trey Turk",
+                    "stat": "132"
+                  },
+                  {
+                    "id": "4689979",
+                    "name": "Miles Tillman",
+                    "stat": "268"
+                  }
+                ]
+              },
+              {
+                "name": "NO",
+                "athletes": [
+                  {
+                    "id": "4877339",
+                    "name": "Trey Turk",
+                    "stat": "3"
+                  },
+                  {
+                    "id": "4689979",
+                    "name": "Miles Tillman",
+                    "stat": "5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "kicking",
+            "types": [
+              {
+                "name": "PTS",
+                "athletes": [
+                  {
+                    "id": "4689969",
+                    "name": "Zeke Rankin",
+                    "stat": "1"
+                  }
+                ]
+              },
+              {
+                "name": "XP",
+                "athletes": [
+                  {
+                    "id": "4689969",
+                    "name": "Zeke Rankin",
+                    "stat": "1/1"
+                  }
+                ]
+              },
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4689969",
+                    "name": "Zeke Rankin",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "PCT",
+                "athletes": [
+                  {
+                    "id": "4689969",
+                    "name": "Zeke Rankin",
+                    "stat": "0.0"
+                  }
+                ]
+              },
+              {
+                "name": "FG",
+                "athletes": [
+                  {
+                    "id": "4689969",
+                    "name": "Zeke Rankin",
+                    "stat": "0/1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "kickReturns",
+            "types": [
+              {
+                "name": "TD",
+                "athletes": [
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "0"
+                  },
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "0"
+                  }
+                ]
+              },
+              {
+                "name": "LONG",
+                "athletes": [
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "7"
+                  },
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "14"
+                  }
+                ]
+              },
+              {
+                "name": "AVG",
+                "athletes": [
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "7.0"
+                  },
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "14.0"
+                  }
+                ]
+              },
+              {
+                "name": "YDS",
+                "athletes": [
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "7"
+                  },
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "14"
+                  }
+                ]
+              },
+              {
+                "name": "NO",
+                "athletes": [
+                  {
+                    "id": "4575508",
+                    "name": "DJ England-Chisolm",
+                    "stat": "1"
+                  },
+                  {
+                    "id": "4879287",
+                    "name": "Kellen Stewart",
+                    "stat": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

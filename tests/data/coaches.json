@@ -1,0 +1,2774 @@
+[
+  {
+    "first_name": "Tim",
+    "last_name": "Albin",
+    "hire_date": "2021-07-14T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Ohio",
+        "year": 2023,
+        "games": 3,
+        "wins": 2,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-5.8",
+        "sp_overall": "-1.6",
+        "sp_offense": "18.5",
+        "sp_defense": "18.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Tom",
+    "last_name": "Allen",
+    "hire_date": "2016-12-01T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Indiana",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-3.5",
+        "sp_overall": "-7.4",
+        "sp_offense": "19.6",
+        "sp_defense": "27.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Blake",
+    "last_name": "Anderson",
+    "hire_date": "2020-12-12T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Utah State",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-4.6",
+        "sp_overall": "-10.9",
+        "sp_offense": "28.6",
+        "sp_defense": "38.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Dave",
+    "last_name": "Aranda",
+    "hire_date": "2020-01-22T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Baylor",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-6.9",
+        "sp_overall": "-8.3",
+        "sp_offense": "24.5",
+        "sp_defense": "32.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Zach",
+    "last_name": "Arnett",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Mississippi State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-1.7",
+        "sp_overall": "0.5",
+        "sp_offense": "24.7",
+        "sp_defense": "24.9"
+      }
+    ]
+  },
+  {
+    "first_name": "Andy",
+    "last_name": "Avalos",
+    "hire_date": "2021-01-08T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Boise State",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "6.4",
+        "sp_overall": "5.9",
+        "sp_offense": "32.7",
+        "sp_defense": "28.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Dino",
+    "last_name": "Babers",
+    "hire_date": "2015-12-15T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Syracuse",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-0.4",
+        "sp_overall": "-4.4",
+        "sp_offense": "22.2",
+        "sp_defense": "26.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Harlon",
+    "last_name": "Barnett",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Michigan State",
+        "year": 2023,
+        "games": 0,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-3.2",
+        "sp_overall": "-6.8",
+        "sp_offense": "15.7",
+        "sp_defense": "24"
+      }
+    ]
+  },
+  {
+    "first_name": "Shane",
+    "last_name": "Beamer",
+    "hire_date": "2020-12-06T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "South Carolina",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "2.7",
+        "sp_overall": "4.3",
+        "sp_offense": "28.2",
+        "sp_defense": "25.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Tim",
+    "last_name": "Beck",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Coastal Carolina",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-0.9",
+        "sp_overall": "-1.2",
+        "sp_offense": "27.6",
+        "sp_defense": "27.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Bret",
+    "last_name": "Bielema",
+    "hire_date": "2020-12-19T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Illinois",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-2.3",
+        "sp_overall": "-2.5",
+        "sp_offense": "21.6",
+        "sp_defense": "24.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "Bloomgren",
+    "hire_date": "2017-12-06T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Rice",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-4.3",
+        "sp_overall": "-10.2",
+        "sp_offense": "26",
+        "sp_defense": "34.4"
+      }
+    ]
+  },
+  {
+    "first_name": "Craig",
+    "last_name": "Bohl",
+    "hire_date": "2013-12-08T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Wyoming",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-1.3",
+        "sp_overall": "-3.6",
+        "sp_offense": "23.5",
+        "sp_defense": "26.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Terry",
+    "last_name": "Bowden",
+    "hire_date": "2020-12-23T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Louisiana Monroe",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-17.1",
+        "sp_overall": "-21.6",
+        "sp_offense": "17.6",
+        "sp_defense": "37.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Brent",
+    "last_name": "Brennan",
+    "hire_date": "2016-12-07T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "San José State",
+        "year": 2023,
+        "games": 3,
+        "wins": 1,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "2.8",
+        "sp_overall": "-3.4",
+        "sp_offense": "28.1",
+        "sp_defense": "29.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Jeff",
+    "last_name": "Brohm",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Louisville",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "12.6",
+        "sp_overall": "8",
+        "sp_offense": "30.1",
+        "sp_defense": "22.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Don",
+    "last_name": "Brown",
+    "hire_date": "2021-11-22T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "UMass",
+        "year": 2023,
+        "games": 3,
+        "wins": 1,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-15.2",
+        "sp_overall": "-17.5",
+        "sp_offense": "20.8",
+        "sp_defense": "36.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Mack",
+    "last_name": "Brown",
+    "hire_date": "2018-11-27T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "North Carolina",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 21,
+        "postseason_rank": null,
+        "srs": "8.8",
+        "sp_overall": "7.4",
+        "sp_offense": "34.4",
+        "sp_defense": "27.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Neal",
+    "last_name": "Brown",
+    "hire_date": "2019-01-04T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "West Virginia",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "6.5",
+        "sp_overall": "7.5",
+        "sp_offense": "31.5",
+        "sp_defense": "24.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Kenni",
+    "last_name": "Burns",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Kent State",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-27.0",
+        "sp_overall": "-26.3",
+        "sp_offense": "8.2",
+        "sp_defense": "34.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Troy",
+    "last_name": "Calhoun",
+    "hire_date": "2006-12-22T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Air Force",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "1.1",
+        "sp_overall": "5.9",
+        "sp_offense": "25.6",
+        "sp_defense": "20.9"
+      }
+    ]
+  },
+  {
+    "first_name": "Matt",
+    "last_name": "Campbell",
+    "hire_date": "2015-11-29T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Iowa State",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "9.0",
+        "sp_overall": "7.5",
+        "sp_offense": "26.4",
+        "sp_defense": "20.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Jason",
+    "last_name": "Candle",
+    "hire_date": "2015-12-02T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Toledo",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "0.8",
+        "sp_overall": "3.7",
+        "sp_offense": "25.5",
+        "sp_defense": "21.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Jamey",
+    "last_name": "Chadwell",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Liberty",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "7.3",
+        "sp_overall": "8",
+        "sp_offense": "36.2",
+        "sp_defense": "26.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Timmy",
+    "last_name": "Chang",
+    "hire_date": "2022-01-22T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Hawai'i",
+        "year": 2023,
+        "games": 3,
+        "wins": 1,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-12.7",
+        "sp_overall": "-16.4",
+        "sp_offense": "19.4",
+        "sp_defense": "35.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Curt",
+    "last_name": "Cignetti",
+    "hire_date": "2018-12-14T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "James Madison",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "8.0",
+        "sp_overall": "11.8",
+        "sp_offense": "34.6",
+        "sp_defense": "23.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Shawn",
+    "last_name": "Clark",
+    "hire_date": "2019-12-13T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Appalachian State",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "0.8",
+        "sp_overall": "3.8",
+        "sp_offense": "33.5",
+        "sp_defense": "30.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Dave",
+    "last_name": "Clawson",
+    "hire_date": "2013-12-09T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Wake Forest",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-4.1",
+        "sp_overall": "-7.9",
+        "sp_offense": "20.2",
+        "sp_defense": "26.9"
+      }
+    ]
+  },
+  {
+    "first_name": "Chris",
+    "last_name": "Creighton",
+    "hire_date": "2013-12-11T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Eastern Michigan",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-16.9",
+        "sp_overall": "-12.3",
+        "sp_offense": "13",
+        "sp_defense": "26.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Mario",
+    "last_name": "Cristobal",
+    "hire_date": "2021-12-06T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Miami",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "8.8",
+        "sp_overall": "9.6",
+        "sp_offense": "30.7",
+        "sp_defense": "23.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Sonny",
+    "last_name": "Cumbie",
+    "hire_date": "2021-11-30T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Louisiana Tech",
+        "year": 2023,
+        "games": 3,
+        "wins": 2,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-14.4",
+        "sp_overall": "-12.9",
+        "sp_offense": "22.1",
+        "sp_defense": "36"
+      }
+    ]
+  },
+  {
+    "first_name": "Ryan",
+    "last_name": "Day",
+    "hire_date": "2018-12-04T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Ohio State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 3,
+        "postseason_rank": null,
+        "srs": "23.4",
+        "sp_overall": "25.2",
+        "sp_offense": "31.5",
+        "sp_defense": "7.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Kalen",
+    "last_name": "DeBoer",
+    "hire_date": "2021-11-29T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Washington",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 10,
+        "postseason_rank": null,
+        "srs": "16.5",
+        "sp_overall": "16.4",
+        "sp_offense": "40.3",
+        "sp_defense": "24.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Desormeaux",
+    "hire_date": "2021-12-05T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Louisiana",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-5.9",
+        "sp_overall": "0.4",
+        "sp_offense": "32.4",
+        "sp_defense": "33.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Jake",
+    "last_name": "Dickert",
+    "hire_date": "2021-10-18T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Washington State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "6.2",
+        "sp_overall": "4.9",
+        "sp_offense": "31",
+        "sp_defense": "27.4"
+      }
+    ]
+  },
+  {
+    "first_name": "Trent",
+    "last_name": "Dilfer",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "UAB",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-14.3",
+        "sp_overall": "-14.7",
+        "sp_offense": "26.9",
+        "sp_defense": "39.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Kenny",
+    "last_name": "Dillingham",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Arizona State",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-4.5",
+        "sp_overall": "-11.3",
+        "sp_offense": "20.2",
+        "sp_defense": "29.9"
+      }
+    ]
+  },
+  {
+    "first_name": "Dana",
+    "last_name": "Dimel",
+    "hire_date": "2017-12-06T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "UTEP",
+        "year": 2023,
+        "games": 3,
+        "wins": 1,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-13.7",
+        "sp_overall": "-16.2",
+        "sp_offense": "16.9",
+        "sp_defense": "32"
+      }
+    ]
+  },
+  {
+    "first_name": "Dave",
+    "last_name": "Doeren",
+    "hire_date": "2012-12-01T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "NC State",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "7.0",
+        "sp_overall": "7.4",
+        "sp_offense": "25.5",
+        "sp_defense": "19.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Stan",
+    "last_name": "Drayton",
+    "hire_date": "2021-12-15T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Temple",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-19.6",
+        "sp_overall": "-21",
+        "sp_offense": "18.6",
+        "sp_defense": "37.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Eli",
+    "last_name": "Drinkwitz",
+    "hire_date": "2019-12-09T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Missouri",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "14.7",
+        "sp_overall": "19.3",
+        "sp_offense": "36.5",
+        "sp_defense": "18"
+      }
+    ]
+  },
+  {
+    "first_name": "Sonny",
+    "last_name": "Dykes",
+    "hire_date": "2021-11-29T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "TCU",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": 17,
+        "postseason_rank": null,
+        "srs": "8.6",
+        "sp_overall": "7.9",
+        "sp_offense": "33.5",
+        "sp_defense": "25.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "Elko",
+    "hire_date": "2021-12-10T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Duke",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "9.8",
+        "sp_overall": "9.4",
+        "sp_offense": "27.3",
+        "sp_defense": "19.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Shawn",
+    "last_name": "Elliott",
+    "hire_date": "2016-12-08T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Georgia State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-7.7",
+        "sp_overall": "-6.8",
+        "sp_offense": "28.2",
+        "sp_defense": "33.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Tony",
+    "last_name": "Elliott",
+    "hire_date": "2021-12-10T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Virginia",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-4.4",
+        "sp_overall": "-10.8",
+        "sp_offense": "21",
+        "sp_defense": "31.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Kirk",
+    "last_name": "Ferentz",
+    "hire_date": "1998-12-02T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Iowa",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 25,
+        "postseason_rank": null,
+        "srs": "5.7",
+        "sp_overall": "5.8",
+        "sp_offense": "13.8",
+        "sp_defense": "9.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Luke",
+    "last_name": "Fickell",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Wisconsin",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": 19,
+        "postseason_rank": null,
+        "srs": "4.0",
+        "sp_overall": "9.4",
+        "sp_offense": "22.2",
+        "sp_defense": "14.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Jedd",
+    "last_name": "Fisch",
+    "hire_date": "2020-12-23T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Arizona",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "13.3",
+        "sp_overall": "14.1",
+        "sp_offense": "37.3",
+        "sp_defense": "23.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Jimbo",
+    "last_name": "Fisher",
+    "hire_date": "2017-12-01T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Texas A&M",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": 23,
+        "postseason_rank": null,
+        "srs": "11.5",
+        "sp_overall": "15.6",
+        "sp_offense": "34.5",
+        "sp_defense": "18.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Pat",
+    "last_name": "Fitzgerald",
+    "hire_date": "2006-07-07T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Northwestern",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-0.3",
+        "sp_overall": "-1.3",
+        "sp_offense": "18.5",
+        "sp_defense": "18.5"
+      }
+    ]
+  },
+  {
+    "first_name": "P.J.",
+    "last_name": "Fleck",
+    "hire_date": "2017-01-06T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Minnesota",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-2.3",
+        "sp_overall": "0.4",
+        "sp_offense": "20",
+        "sp_defense": "21.1"
+      }
+    ]
+  },
+  {
+    "first_name": "James",
+    "last_name": "Franklin",
+    "hire_date": "2014-01-11T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Penn State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 7,
+        "postseason_rank": null,
+        "srs": "22.8",
+        "sp_overall": "23.5",
+        "sp_offense": "32.7",
+        "sp_defense": "10.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Marcus",
+    "last_name": "Freeman",
+    "hire_date": "2021-12-03T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Notre Dame",
+        "year": 2023,
+        "games": 3,
+        "wins": 3,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 13,
+        "postseason_rank": null,
+        "srs": "18.3",
+        "sp_overall": "20.1",
+        "sp_offense": "36.3",
+        "sp_defense": "16.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Hugh",
+    "last_name": "Freeze",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Auburn",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "5.3",
+        "sp_overall": "7.6",
+        "sp_offense": "26.4",
+        "sp_defense": "20.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Willie",
+    "last_name": "Fritz",
+    "hire_date": "2015-12-11T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Tulane",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": 24,
+        "postseason_rank": null,
+        "srs": "2.0",
+        "sp_overall": "2.8",
+        "sp_offense": "26.5",
+        "sp_defense": "24.4"
+      }
+    ]
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "Golesh",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "South Florida",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-10.5",
+        "sp_overall": "-6.6",
+        "sp_offense": "28.4",
+        "sp_defense": "34.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Danny",
+    "last_name": "Gonzales",
+    "hire_date": "2020-01-12T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "New Mexico",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-11.1",
+        "sp_overall": "-16.5",
+        "sp_offense": "22.5",
+        "sp_defense": "37.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "Gundy",
+    "hire_date": "2005-01-03T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Oklahoma State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "6.1",
+        "sp_overall": "6.7",
+        "sp_offense": "32.8",
+        "sp_defense": "27.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Jeff",
+    "last_name": "Hafley",
+    "hire_date": "2019-12-14T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Boston College",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-4.8",
+        "sp_overall": "-5.9",
+        "sp_offense": "22.2",
+        "sp_defense": "27.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Will",
+    "last_name": "Hall",
+    "hire_date": "2020-12-02T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Southern Mississippi",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-13.1",
+        "sp_overall": "-14.4",
+        "sp_offense": "23.5",
+        "sp_defense": "36.4"
+      }
+    ]
+  },
+  {
+    "first_name": "Thomas",
+    "last_name": "Hammock",
+    "hire_date": "2019-01-18T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Northern Illinois",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-8.8",
+        "sp_overall": "-7.5",
+        "sp_offense": "18.3",
+        "sp_defense": "24.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Jim",
+    "last_name": "Harbaugh",
+    "hire_date": "2014-12-30T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Michigan",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 2,
+        "postseason_rank": null,
+        "srs": "25.9",
+        "sp_overall": "31.3",
+        "sp_offense": "36.6",
+        "sp_defense": "7.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Clay",
+    "last_name": "Helton",
+    "hire_date": "2021-11-02T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Georgia Southern",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-8.6",
+        "sp_overall": "-5.2",
+        "sp_offense": "30.8",
+        "sp_defense": "36.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Tyson",
+    "last_name": "Helton",
+    "hire_date": "2018-11-27T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Western Kentucky",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-2.8",
+        "sp_overall": "-2",
+        "sp_offense": "28.7",
+        "sp_defense": "30.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Tom",
+    "last_name": "Herman",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Florida Atlantic",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-9.8",
+        "sp_overall": "-9.4",
+        "sp_offense": "19.8",
+        "sp_defense": "27.9"
+      }
+    ]
+  },
+  {
+    "first_name": "Josh",
+    "last_name": "Heupel",
+    "hire_date": "2021-01-27T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Tennessee",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 12,
+        "postseason_rank": null,
+        "srs": "9.1",
+        "sp_overall": "16.2",
+        "sp_offense": "34.9",
+        "sp_defense": "19.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Brady",
+    "last_name": "Hoke",
+    "hire_date": "2020-01-08T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "San Diego State",
+        "year": 2023,
+        "games": 3,
+        "wins": 2,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-9.8",
+        "sp_overall": "-10.3",
+        "sp_offense": "19.4",
+        "sp_defense": "30.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Dana",
+    "last_name": "Holgorsen",
+    "hire_date": "2019-01-01T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Houston",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-3.3",
+        "sp_overall": "-7.8",
+        "sp_offense": "25.6",
+        "sp_defense": "32.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "Houston",
+    "hire_date": "2018-12-03T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "East Carolina",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-9.2",
+        "sp_overall": "-12.8",
+        "sp_offense": "15.4",
+        "sp_defense": "28.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Charles",
+    "last_name": "Huff",
+    "hire_date": "2021-01-16T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Marshall",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-7.5",
+        "sp_overall": "-9",
+        "sp_offense": "24.4",
+        "sp_defense": "31.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Butch",
+    "last_name": "Jones",
+    "hire_date": "2020-12-12T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Arkansas State",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-6.4",
+        "sp_overall": "-6.3",
+        "sp_offense": "25.8",
+        "sp_defense": "32.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Brian",
+    "last_name": "Kelly",
+    "hire_date": "2021-11-30T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "LSU",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": 5,
+        "postseason_rank": null,
+        "srs": "17.1",
+        "sp_overall": "19.1",
+        "sp_offense": "44.6",
+        "sp_defense": "25"
+      }
+    ]
+  },
+  {
+    "first_name": "Chip",
+    "last_name": "Kelly",
+    "hire_date": "2017-11-27T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "UCLA",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "7.7",
+        "sp_overall": "9.7",
+        "sp_offense": "29.6",
+        "sp_defense": "18.4"
+      }
+    ]
+  },
+  {
+    "first_name": "Brent",
+    "last_name": "Key",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Georgia Tech",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "2.1",
+        "sp_overall": "0.3",
+        "sp_offense": "29.4",
+        "sp_defense": "29.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Lane",
+    "last_name": "Kiffin",
+    "hire_date": "2019-12-07T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Ole Miss",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 22,
+        "postseason_rank": null,
+        "srs": "14.0",
+        "sp_overall": "18.4",
+        "sp_offense": "36.3",
+        "sp_defense": "19.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Jerry",
+    "last_name": "Kill",
+    "hire_date": "2021-11-24T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "New Mexico State",
+        "year": 2023,
+        "games": 3,
+        "wins": 1,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-3.0",
+        "sp_overall": "-1.8",
+        "sp_offense": "23.3",
+        "sp_defense": "25.8"
+      }
+    ]
+  },
+  {
+    "first_name": "G.J.",
+    "last_name": "Kinne",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Texas State",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-4.9",
+        "sp_overall": "-1.6",
+        "sp_offense": "31.2",
+        "sp_defense": "33.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Chris",
+    "last_name": "Klieman",
+    "hire_date": "2018-12-10T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Kansas State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 16,
+        "postseason_rank": null,
+        "srs": "19.6",
+        "sp_overall": "16.2",
+        "sp_offense": "38.9",
+        "sp_defense": "21.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Dan",
+    "last_name": "Lanning",
+    "hire_date": "2021-12-11T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Oregon",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 15,
+        "postseason_rank": null,
+        "srs": "22.3",
+        "sp_overall": "26.2",
+        "sp_offense": "45",
+        "sp_defense": "18.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Rhett",
+    "last_name": "Lashlee",
+    "hire_date": "2021-11-30T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "SMU",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "8.9",
+        "sp_overall": "10.1",
+        "sp_offense": "34.1",
+        "sp_defense": "23"
+      }
+    ]
+  },
+  {
+    "first_name": "Clark",
+    "last_name": "Lea",
+    "hire_date": "2020-12-14T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Vanderbilt",
+        "year": 2023,
+        "games": 3,
+        "wins": 2,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-11.0",
+        "sp_overall": "-12.7",
+        "sp_offense": "23.6",
+        "sp_defense": "36.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Lance",
+    "last_name": "Leipold",
+    "hire_date": "2021-04-30T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Kansas",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "11.0",
+        "sp_overall": "9.9",
+        "sp_offense": "35.6",
+        "sp_defense": "26.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Maurice",
+    "last_name": "Linguist",
+    "hire_date": "2014-12-01T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Buffalo",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-15.3",
+        "sp_overall": "-15.2",
+        "sp_offense": "15.3",
+        "sp_defense": "29.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "Locksley",
+    "hire_date": "2018-12-04T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Maryland",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "8.4",
+        "sp_overall": "11",
+        "sp_offense": "28.3",
+        "sp_defense": "17.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Scot",
+    "last_name": "Loeffler",
+    "hire_date": "2018-11-28T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Bowling Green",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-3.8",
+        "sp_overall": "-7.8",
+        "sp_offense": "21.5",
+        "sp_defense": "27.4"
+      }
+    ]
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "MacIntyre",
+    "hire_date": "2021-12-09T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Florida International",
+        "year": 2023,
+        "games": 3,
+        "wins": 2,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-19.4",
+        "sp_overall": "-21.2",
+        "sp_offense": "16",
+        "sp_defense": "35.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Gus",
+    "last_name": "Malzahn",
+    "hire_date": "2021-02-15T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "UCF",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "6.9",
+        "sp_overall": "3.4",
+        "sp_offense": "30.3",
+        "sp_defense": "25.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Chuck",
+    "last_name": "Martin",
+    "hire_date": "2013-12-03T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Miami (OH)",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-1.2",
+        "sp_overall": "2.8",
+        "sp_offense": "18.5",
+        "sp_defense": "17.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Jim",
+    "last_name": "McElwain",
+    "hire_date": "2018-12-03T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Central Michigan",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-15.5",
+        "sp_overall": "-19.1",
+        "sp_offense": "16.8",
+        "sp_defense": "34"
+      }
+    ]
+  },
+  {
+    "first_name": "Joey",
+    "last_name": "McGuire",
+    "hire_date": "2021-11-08T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Texas Tech",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "7.3",
+        "sp_overall": "6.1",
+        "sp_offense": "29.6",
+        "sp_defense": "24.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Jeff",
+    "last_name": "Monken",
+    "hire_date": "2013-12-24T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Army",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-5.3",
+        "sp_overall": "-4",
+        "sp_offense": "18.4",
+        "sp_defense": "22.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Joe",
+    "last_name": "Moorhead",
+    "hire_date": "2021-12-04T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Akron",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-21.8",
+        "sp_overall": "-21.6",
+        "sp_offense": "10.5",
+        "sp_defense": "30.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Jim",
+    "last_name": "Mora",
+    "hire_date": "2021-11-11T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Connecticut",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-13.5",
+        "sp_overall": "-15.6",
+        "sp_offense": "17",
+        "sp_defense": "31"
+      }
+    ]
+  },
+  {
+    "first_name": "Eric",
+    "last_name": "Morris",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "North Texas",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-9.6",
+        "sp_overall": "-6.7",
+        "sp_offense": "32.9",
+        "sp_defense": "41.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Billy",
+    "last_name": "Napier",
+    "hire_date": "2021-11-28T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Florida",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "3.0",
+        "sp_overall": "6.8",
+        "sp_offense": "31.1",
+        "sp_defense": "26"
+      }
+    ]
+  },
+  {
+    "first_name": "Pat",
+    "last_name": "Narduzzi",
+    "hire_date": "2014-12-16T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Pittsburgh",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-3.3",
+        "sp_overall": "-7.3",
+        "sp_offense": "19.3",
+        "sp_defense": "26"
+      }
+    ]
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "Neu",
+    "hire_date": "2016-01-17T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Ball State",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-12.8",
+        "sp_overall": "-14.9",
+        "sp_offense": "12.6",
+        "sp_defense": "26.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Brian",
+    "last_name": "Newberry",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Navy",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-11.4",
+        "sp_overall": "-13.7",
+        "sp_offense": "15",
+        "sp_defense": "27.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Jay",
+    "last_name": "Norvell",
+    "hire_date": "2021-12-06T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Colorado State",
+        "year": 2023,
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-8.8",
+        "sp_overall": "-8.9",
+        "sp_offense": "21.9",
+        "sp_defense": "32"
+      }
+    ]
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "Norvell",
+    "hire_date": "2019-12-07T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Florida State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 8,
+        "postseason_rank": null,
+        "srs": "19.6",
+        "sp_overall": "19.4",
+        "sp_offense": "34.1",
+        "sp_defense": "16.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Barry",
+    "last_name": "Odom",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "UNLV",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "0.9",
+        "sp_overall": "1.4",
+        "sp_offense": "32.1",
+        "sp_defense": "32.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Sam",
+    "last_name": "Pittman",
+    "hire_date": "2019-12-08T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Arkansas",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "1.1",
+        "sp_overall": "3.5",
+        "sp_offense": "28.3",
+        "sp_defense": "26.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Biff",
+    "last_name": "Poggi",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Charlotte",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-17.4",
+        "sp_overall": "-21.4",
+        "sp_offense": "14.8",
+        "sp_defense": "34.4"
+      }
+    ]
+  },
+  {
+    "first_name": "Brent",
+    "last_name": "Pry",
+    "hire_date": "2021-11-30T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Virginia Tech",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "3.9",
+        "sp_overall": "5.8",
+        "sp_offense": "27.5",
+        "sp_defense": "23.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Ricky",
+    "last_name": "Rahne",
+    "hire_date": "2019-12-07T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Old Dominion",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-8.7",
+        "sp_overall": "-10.1",
+        "sp_offense": "23.1",
+        "sp_defense": "31.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Matt",
+    "last_name": "Rhule",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Nebraska",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "1.3",
+        "sp_overall": "0.3",
+        "sp_offense": "15.6",
+        "sp_defense": "13.9"
+      }
+    ]
+  },
+  {
+    "first_name": "Lincoln",
+    "last_name": "Riley",
+    "hire_date": "2021-11-28T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "USC",
+        "year": 2023,
+        "games": 3,
+        "wins": 3,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 6,
+        "postseason_rank": null,
+        "srs": "9.0",
+        "sp_overall": "9.4",
+        "sp_offense": "43.3",
+        "sp_defense": "32.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Nick",
+    "last_name": "Saban",
+    "hire_date": "2007-01-03T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Alabama",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": 4,
+        "postseason_rank": null,
+        "srs": "19.6",
+        "sp_overall": "23.1",
+        "sp_offense": "36.8",
+        "sp_defense": "15.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Deion",
+    "last_name": "Sanders",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Colorado",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "0.8",
+        "sp_overall": "-4.9",
+        "sp_offense": "29.6",
+        "sp_defense": "34.4"
+      }
+    ]
+  },
+  {
+    "first_name": "Steve",
+    "last_name": "Sarkisian",
+    "hire_date": "2021-01-02T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Texas",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 11,
+        "postseason_rank": null,
+        "srs": "22.0",
+        "sp_overall": "23.2",
+        "sp_offense": "39.3",
+        "sp_defense": "17.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Scott",
+    "last_name": "Satterfield",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Cincinnati",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-3.7",
+        "sp_overall": "-6.8",
+        "sp_offense": "21.3",
+        "sp_defense": "28.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Greg",
+    "last_name": "Schiano",
+    "hire_date": "2019-11-30T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Rutgers",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "3.1",
+        "sp_overall": "3.5",
+        "sp_offense": "21",
+        "sp_defense": "18.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Ryan",
+    "last_name": "Silverfield",
+    "hire_date": "2019-12-13T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Memphis",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "1.8",
+        "sp_overall": "3.5",
+        "sp_offense": "37.1",
+        "sp_defense": "33.8"
+      }
+    ]
+  },
+  {
+    "first_name": "Kalani",
+    "last_name": "Sitake",
+    "hire_date": "2015-12-19T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "BYU",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-0.8",
+        "sp_overall": "-3.3",
+        "sp_offense": "25.3",
+        "sp_defense": "30.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Kirby",
+    "last_name": "Smart",
+    "hire_date": "2015-12-06T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Georgia",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 1,
+        "postseason_rank": null,
+        "srs": "20.7",
+        "sp_overall": "31.2",
+        "sp_offense": "41.5",
+        "sp_defense": "12.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Jonathan",
+    "last_name": "Smith",
+    "hire_date": "2017-11-29T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Oregon State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 18,
+        "postseason_rank": null,
+        "srs": "15.3",
+        "sp_overall": "12.6",
+        "sp_offense": "33.2",
+        "sp_defense": "22.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Rick",
+    "last_name": "Stockstill",
+    "hire_date": "2005-12-12T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Middle Tennessee",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-8.1",
+        "sp_overall": "-9.5",
+        "sp_offense": "21.5",
+        "sp_defense": "30"
+      }
+    ]
+  },
+  {
+    "first_name": "Mark",
+    "last_name": "Stoops",
+    "hire_date": "2012-11-27T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Kentucky",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "5.3",
+        "sp_overall": "10.5",
+        "sp_offense": "31.6",
+        "sp_defense": "22.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Jon",
+    "last_name": "Sumrall",
+    "hire_date": "2021-12-02T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Troy",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "8.7",
+        "sp_overall": "9.8",
+        "sp_offense": "30.7",
+        "sp_defense": "20.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Dabo",
+    "last_name": "Swinney",
+    "hire_date": "2008-10-15T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Clemson",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": 9,
+        "postseason_rank": null,
+        "srs": "10.8",
+        "sp_overall": "10.5",
+        "sp_offense": "29.3",
+        "sp_defense": "19"
+      }
+    ]
+  },
+  {
+    "first_name": "Lance",
+    "last_name": "Taylor",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Western Michigan",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-14.6",
+        "sp_overall": "-15.9",
+        "sp_offense": "19.1",
+        "sp_defense": "33.2"
+      }
+    ]
+  },
+  {
+    "first_name": "Troy",
+    "last_name": "Taylor",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Stanford",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-5.5",
+        "sp_overall": "-11.9",
+        "sp_offense": "21.4",
+        "sp_defense": "34.5"
+      }
+    ]
+  },
+  {
+    "first_name": "Jeff",
+    "last_name": "Tedford",
+    "hire_date": "2019-12-17T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Fresno State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-3.2",
+        "sp_overall": "2.5",
+        "sp_offense": "28.9",
+        "sp_defense": "27.9"
+      }
+    ]
+  },
+  {
+    "first_name": "Jeff",
+    "last_name": "Traylor",
+    "hire_date": "2019-12-09T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "UT San Antonio",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "0.4",
+        "sp_overall": "5.4",
+        "sp_offense": "31.3",
+        "sp_defense": "27.3"
+      }
+    ]
+  },
+  {
+    "first_name": "Mel",
+    "last_name": "Tucker",
+    "hire_date": "2020-02-11T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Michigan State",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-3.2",
+        "sp_overall": "-6.8",
+        "sp_offense": "15.7",
+        "sp_defense": "24"
+      }
+    ]
+  },
+  {
+    "first_name": "Brent",
+    "last_name": "Venables",
+    "hire_date": "2021-12-05T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Oklahoma",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 20,
+        "postseason_rank": null,
+        "srs": "19.1",
+        "sp_overall": "15",
+        "sp_offense": "38.5",
+        "sp_defense": "22.6"
+      }
+    ]
+  },
+  {
+    "first_name": "Ryan",
+    "last_name": "Walters",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Purdue",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-1.9",
+        "sp_overall": "-7.3",
+        "sp_offense": "21.8",
+        "sp_defense": "27.1"
+      }
+    ]
+  },
+  {
+    "first_name": "Kyle",
+    "last_name": "Whittingham",
+    "hire_date": "2004-12-08T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Utah",
+        "year": 2023,
+        "games": 2,
+        "wins": 2,
+        "losses": 0,
+        "ties": 0,
+        "preseason_rank": 14,
+        "postseason_rank": null,
+        "srs": "8.1",
+        "sp_overall": "8.5",
+        "sp_offense": "26.7",
+        "sp_defense": "19.4"
+      }
+    ]
+  },
+  {
+    "first_name": "Justin",
+    "last_name": "Wilcox",
+    "hire_date": "2017-01-14T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "California",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "4.3",
+        "sp_overall": "-0.1",
+        "sp_offense": "30.6",
+        "sp_defense": "28.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Ken",
+    "last_name": "Wilson",
+    "hire_date": "2021-12-10T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "Nevada",
+        "year": 2023,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-17.0",
+        "sp_overall": "-22",
+        "sp_offense": "14.6",
+        "sp_defense": "37"
+      }
+    ]
+  },
+  {
+    "first_name": "Kevin",
+    "last_name": "Wilson",
+    "hire_date": null,
+    "seasons": [
+      {
+        "school": "Tulsa",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-12.7",
+        "sp_overall": "-13.7",
+        "sp_offense": "20.9",
+        "sp_defense": "34.7"
+      }
+    ]
+  },
+  {
+    "first_name": "Kane",
+    "last_name": "Wommack",
+    "hire_date": "2020-12-12T00:00:00.000Z",
+    "seasons": [
+      {
+        "school": "South Alabama",
+        "year": 2023,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "ties": 0,
+        "preseason_rank": null,
+        "postseason_rank": null,
+        "srs": "-0.8",
+        "sp_overall": "5.1",
+        "sp_offense": "30.6",
+        "sp_defense": "26"
+      }
+    ]
+  }
+]

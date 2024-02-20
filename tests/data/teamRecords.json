@@ -1,0 +1,4258 @@
+[
+  {
+    "year": 2023,
+    "teamId": 2,
+    "team": "Auburn",
+    "conference": "SEC",
+    "division": "West",
+    "expectedWins": 6.4,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 5,
+    "team": "UAB",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 6.1,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 0,
+      "losses": 6,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 6,
+    "team": "South Alabama",
+    "conference": "Sun Belt",
+    "division": "West",
+    "expectedWins": 7.8,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 8,
+    "team": "Arkansas",
+    "conference": "SEC",
+    "division": "West",
+    "expectedWins": 5.5,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 9,
+    "team": "Arizona State",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 3.6,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 12,
+    "team": "Arizona",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 8.7,
+    "total": {
+      "games": 13,
+      "wins": 10,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 21,
+    "team": "San Diego State",
+    "conference": "Mountain West",
+    "division": "West",
+    "expectedWins": 5.6,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 23,
+    "team": "San José State",
+    "conference": "Mountain West",
+    "division": "West",
+    "expectedWins": 7.1,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 24,
+    "team": "Stanford",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 2.4,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 0,
+      "losses": 7,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 25,
+    "team": "California",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 6.4,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 26,
+    "team": "UCLA",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 8.6,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 30,
+    "team": "USC",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 6.3,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 36,
+    "team": "Colorado State",
+    "conference": "Mountain West",
+    "division": "Mountain",
+    "expectedWins": 4.6,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 38,
+    "team": "Colorado",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 3.3,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 41,
+    "team": "Connecticut",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 3.6,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 52,
+    "team": "Florida State",
+    "conference": "ACC",
+    "division": "Atlantic",
+    "expectedWins": 10.5,
+    "total": {
+      "games": 14,
+      "wins": 13,
+      "losses": 1,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 9,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 55,
+    "team": "Jacksonville State",
+    "conference": "Conference USA",
+    "division": "",
+    "expectedWins": 7.6,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 57,
+    "team": "Florida",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 5.9,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 58,
+    "team": "South Florida",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 6.8,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 59,
+    "team": "Georgia Tech",
+    "conference": "ACC",
+    "division": "Coastal",
+    "expectedWins": 5.8,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 61,
+    "team": "Georgia",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 12.6,
+    "total": {
+      "games": 14,
+      "wins": 13,
+      "losses": 1,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 8,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 7,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 4,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 62,
+    "team": "Hawai'i",
+    "conference": "Mountain West",
+    "division": "West",
+    "expectedWins": 4,
+    "total": {
+      "games": 13,
+      "wins": 5,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 66,
+    "team": "Iowa State",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 8,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 68,
+    "team": "Boise State",
+    "conference": "Mountain West",
+    "division": "Mountain",
+    "expectedWins": 9.1,
+    "total": {
+      "games": 14,
+      "wins": 8,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 77,
+    "team": "Northwestern",
+    "conference": "Big Ten",
+    "division": "West",
+    "expectedWins": 4.9,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 84,
+    "team": "Indiana",
+    "conference": "Big Ten",
+    "division": "East",
+    "expectedWins": 4.2,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 0,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 87,
+    "team": "Notre Dame",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 10.6,
+    "total": {
+      "games": 13,
+      "wins": 10,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 96,
+    "team": "Kentucky",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 6.9,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 97,
+    "team": "Louisville",
+    "conference": "ACC",
+    "division": "Atlantic",
+    "expectedWins": 9.7,
+    "total": {
+      "games": 14,
+      "wins": 10,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 3,
+      "wins": 2,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 98,
+    "team": "Western Kentucky",
+    "conference": "Conference USA",
+    "division": "",
+    "expectedWins": 6.2,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 99,
+    "team": "LSU",
+    "conference": "SEC",
+    "division": "West",
+    "expectedWins": 8.9,
+    "total": {
+      "games": 13,
+      "wins": 10,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 7,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 103,
+    "team": "Boston College",
+    "conference": "ACC",
+    "division": "Atlantic",
+    "expectedWins": 6,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 113,
+    "team": "UMass",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 4.2,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 2,
+      "wins": 1,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 120,
+    "team": "Maryland",
+    "conference": "Big Ten",
+    "division": "East",
+    "expectedWins": 8.7,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 127,
+    "team": "Michigan State",
+    "conference": "Big Ten",
+    "division": "East",
+    "expectedWins": 4.3,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 130,
+    "team": "Michigan",
+    "conference": "Big Ten",
+    "division": "East",
+    "expectedWins": 14.1,
+    "total": {
+      "games": 15,
+      "wins": 15,
+      "losses": 0,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 10,
+      "wins": 10,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 7,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 135,
+    "team": "Minnesota",
+    "conference": "Big Ten",
+    "division": "West",
+    "expectedWins": 6.3,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 142,
+    "team": "Missouri",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 10.4,
+    "total": {
+      "games": 13,
+      "wins": 11,
+      "losses": 2,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 3,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 145,
+    "team": "Ole Miss",
+    "conference": "SEC",
+    "division": "West",
+    "expectedWins": 8.4,
+    "total": {
+      "games": 13,
+      "wins": 11,
+      "losses": 2,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 7,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 150,
+    "team": "Duke",
+    "conference": "ACC",
+    "division": "Coastal",
+    "expectedWins": 6.9,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 151,
+    "team": "East Carolina",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 3.5,
+    "total": {
+      "games": 12,
+      "wins": 2,
+      "losses": 10,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 152,
+    "team": "NC State",
+    "conference": "ACC",
+    "division": "Atlantic",
+    "expectedWins": 7.4,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 153,
+    "team": "North Carolina",
+    "conference": "ACC",
+    "division": "Coastal",
+    "expectedWins": 6.9,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 154,
+    "team": "Wake Forest",
+    "conference": "ACC",
+    "division": "Atlantic",
+    "expectedWins": 4.2,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 158,
+    "team": "Nebraska",
+    "conference": "Big Ten",
+    "division": "West",
+    "expectedWins": 8.1,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 164,
+    "team": "Rutgers",
+    "conference": "Big Ten",
+    "division": "East",
+    "expectedWins": 6.3,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 166,
+    "team": "New Mexico State",
+    "conference": "Conference USA",
+    "division": "",
+    "expectedWins": 10.3,
+    "total": {
+      "games": 15,
+      "wins": 10,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 167,
+    "team": "New Mexico",
+    "conference": "Mountain West",
+    "division": "Mountain",
+    "expectedWins": 4.5,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 183,
+    "team": "Syracuse",
+    "conference": "ACC",
+    "division": "Atlantic",
+    "expectedWins": 6.1,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 189,
+    "team": "Bowling Green",
+    "conference": "Mid-American",
+    "division": "East",
+    "expectedWins": 6.8,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 193,
+    "team": "Miami (OH)",
+    "conference": "Mid-American",
+    "division": "East",
+    "expectedWins": 9,
+    "total": {
+      "games": 14,
+      "wins": 11,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 8,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 194,
+    "team": "Ohio State",
+    "conference": "Big Ten",
+    "division": "East",
+    "expectedWins": 10.1,
+    "total": {
+      "games": 13,
+      "wins": 11,
+      "losses": 2,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 8,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 195,
+    "team": "Ohio",
+    "conference": "Mid-American",
+    "division": "East",
+    "expectedWins": 9.2,
+    "total": {
+      "games": 13,
+      "wins": 10,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 197,
+    "team": "Oklahoma State",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 5.8,
+    "total": {
+      "games": 14,
+      "wins": 10,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 201,
+    "team": "Oklahoma",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 10.9,
+    "total": {
+      "games": 13,
+      "wins": 10,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 202,
+    "team": "Tulsa",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 5.4,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 204,
+    "team": "Oregon State",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 9.3,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 213,
+    "team": "Penn State",
+    "conference": "Big Ten",
+    "division": "East",
+    "expectedWins": 9.1,
+    "total": {
+      "games": 13,
+      "wins": 10,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 3,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 218,
+    "team": "Temple",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 2.8,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 0,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 221,
+    "team": "Pittsburgh",
+    "conference": "ACC",
+    "division": "Coastal",
+    "expectedWins": 4.3,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 0,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 228,
+    "team": "Clemson",
+    "conference": "ACC",
+    "division": "Atlantic",
+    "expectedWins": 8.8,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 235,
+    "team": "Memphis",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 7.8,
+    "total": {
+      "games": 13,
+      "wins": 10,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 238,
+    "team": "Vanderbilt",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 1.3,
+    "total": {
+      "games": 12,
+      "wins": 2,
+      "losses": 10,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 0,
+      "losses": 8,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 0,
+      "losses": 6,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 239,
+    "team": "Baylor",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 2.4,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 242,
+    "team": "Rice",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 5.3,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 245,
+    "team": "Texas A&M",
+    "conference": "SEC",
+    "division": "West",
+    "expectedWins": 8.4,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 0,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 248,
+    "team": "Houston",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 2.8,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 249,
+    "team": "North Texas",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 3.8,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 251,
+    "team": "Texas",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 11.3,
+    "total": {
+      "games": 14,
+      "wins": 12,
+      "losses": 2,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 10,
+      "wins": 9,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 252,
+    "team": "BYU",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 3.6,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 254,
+    "team": "Utah",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 8.7,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 256,
+    "team": "James Madison",
+    "conference": "Sun Belt",
+    "division": "East",
+    "expectedWins": 9.7,
+    "total": {
+      "games": 13,
+      "wins": 11,
+      "losses": 2,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 258,
+    "team": "Virginia",
+    "conference": "ACC",
+    "division": "Coastal",
+    "expectedWins": 5.3,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 259,
+    "team": "Virginia Tech",
+    "conference": "ACC",
+    "division": "Coastal",
+    "expectedWins": 7.1,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 264,
+    "team": "Washington",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 10.6,
+    "total": {
+      "games": 15,
+      "wins": 14,
+      "losses": 1,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 10,
+      "wins": 10,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 7,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 265,
+    "team": "Washington State",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 5.6,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 275,
+    "team": "Wisconsin",
+    "conference": "Big Ten",
+    "division": "West",
+    "expectedWins": 6.4,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 276,
+    "team": "Marshall",
+    "conference": "Sun Belt",
+    "division": "East",
+    "expectedWins": 6.2,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 277,
+    "team": "West Virginia",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 8.8,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 278,
+    "team": "Fresno State",
+    "conference": "Mountain West",
+    "division": "West",
+    "expectedWins": 6.2,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 290,
+    "team": "Georgia Southern",
+    "conference": "Sun Belt",
+    "division": "East",
+    "expectedWins": 4.9,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 295,
+    "team": "Old Dominion",
+    "conference": "Sun Belt",
+    "division": "East",
+    "expectedWins": 5.4,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 309,
+    "team": "Louisiana",
+    "conference": "Sun Belt",
+    "division": "West",
+    "expectedWins": 6.6,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 324,
+    "team": "Coastal Carolina",
+    "conference": "Sun Belt",
+    "division": "East",
+    "expectedWins": 7.7,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 326,
+    "team": "Texas State",
+    "conference": "Sun Belt",
+    "division": "West",
+    "expectedWins": 8.5,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 328,
+    "team": "Utah State",
+    "conference": "Mountain West",
+    "division": "Mountain",
+    "expectedWins": 6.2,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 333,
+    "team": "Alabama",
+    "conference": "SEC",
+    "division": "West",
+    "expectedWins": 11.3,
+    "total": {
+      "games": 14,
+      "wins": 12,
+      "losses": 2,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 9,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 344,
+    "team": "Mississippi State",
+    "conference": "SEC",
+    "division": "West",
+    "expectedWins": 4.8,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 349,
+    "team": "Army",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 6.6,
+    "total": {
+      "games": 12,
+      "wins": 6,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 356,
+    "team": "Illinois",
+    "conference": "Big Ten",
+    "division": "West",
+    "expectedWins": 5.8,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2005,
+    "team": "Air Force",
+    "conference": "Mountain West",
+    "division": "Mountain",
+    "expectedWins": 10.7,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2006,
+    "team": "Akron",
+    "conference": "Mid-American",
+    "division": "East",
+    "expectedWins": 3.8,
+    "total": {
+      "games": 12,
+      "wins": 2,
+      "losses": 10,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 0,
+      "losses": 7,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2026,
+    "team": "Appalachian State",
+    "conference": "Sun Belt",
+    "division": "East",
+    "expectedWins": 9.7,
+    "total": {
+      "games": 14,
+      "wins": 9,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2032,
+    "team": "Arkansas State",
+    "conference": "Sun Belt",
+    "division": "West",
+    "expectedWins": 5.6,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2050,
+    "team": "Ball State",
+    "conference": "Mid-American",
+    "division": "West",
+    "expectedWins": 5.7,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2084,
+    "team": "Buffalo",
+    "conference": "Mid-American",
+    "division": "East",
+    "expectedWins": 2.8,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2116,
+    "team": "UCF",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 9.3,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2117,
+    "team": "Central Michigan",
+    "conference": "Mid-American",
+    "division": "West",
+    "expectedWins": 3.8,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 1,
+      "losses": 6,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2132,
+    "team": "Cincinnati",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 5,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 1,
+      "losses": 6,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2199,
+    "team": "Eastern Michigan",
+    "conference": "Mid-American",
+    "division": "West",
+    "expectedWins": 4.5,
+    "total": {
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2226,
+    "team": "Florida Atlantic",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 3.9,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2229,
+    "team": "Florida International",
+    "conference": "Conference USA",
+    "division": "",
+    "expectedWins": 3.2,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2247,
+    "team": "Georgia State",
+    "conference": "Sun Belt",
+    "division": "East",
+    "expectedWins": 7.4,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2294,
+    "team": "Iowa",
+    "conference": "Big Ten",
+    "division": "West",
+    "expectedWins": 7.8,
+    "total": {
+      "games": 14,
+      "wins": 10,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 3,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2305,
+    "team": "Kansas",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 10.7,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2306,
+    "team": "Kansas State",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 7.6,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2309,
+    "team": "Kent State",
+    "conference": "Mid-American",
+    "division": "East",
+    "expectedWins": 2.1,
+    "total": {
+      "games": 12,
+      "wins": 1,
+      "losses": 11,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 0,
+      "losses": 8,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 0,
+      "losses": 7,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2335,
+    "team": "Liberty",
+    "conference": "Conference USA",
+    "division": "",
+    "expectedWins": 12.8,
+    "total": {
+      "games": 14,
+      "wins": 13,
+      "losses": 1,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 9,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 8,
+      "wins": 8,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2348,
+    "team": "Louisiana Tech",
+    "conference": "Conference USA",
+    "division": "",
+    "expectedWins": 4.2,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2390,
+    "team": "Miami",
+    "conference": "ACC",
+    "division": "Coastal",
+    "expectedWins": 8.4,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2393,
+    "team": "Middle Tennessee",
+    "conference": "Conference USA",
+    "division": "",
+    "expectedWins": 4.6,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 0,
+      "losses": 6,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2426,
+    "team": "Navy",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 5.8,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2429,
+    "team": "Charlotte",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 3.2,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2433,
+    "team": "Louisiana Monroe",
+    "conference": "Sun Belt",
+    "division": "West",
+    "expectedWins": 1.3,
+    "total": {
+      "games": 12,
+      "wins": 2,
+      "losses": 10,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 0,
+      "losses": 8,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 0,
+      "losses": 6,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2439,
+    "team": "UNLV",
+    "conference": "Mountain West",
+    "division": "West",
+    "expectedWins": 8.4,
+    "total": {
+      "games": 14,
+      "wins": 9,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2440,
+    "team": "Nevada",
+    "conference": "Mountain West",
+    "division": "West",
+    "expectedWins": 2.5,
+    "total": {
+      "games": 12,
+      "wins": 2,
+      "losses": 10,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2459,
+    "team": "Northern Illinois",
+    "conference": "Mid-American",
+    "division": "West",
+    "expectedWins": 7.9,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2483,
+    "team": "Oregon",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 12.7,
+    "total": {
+      "games": 14,
+      "wins": 12,
+      "losses": 2,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 10,
+      "wins": 8,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 7,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2509,
+    "team": "Purdue",
+    "conference": "Big Ten",
+    "division": "West",
+    "expectedWins": 5.2,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 3,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2534,
+    "team": "Sam Houston State",
+    "conference": "Conference USA",
+    "division": "",
+    "expectedWins": 3.5,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2567,
+    "team": "SMU",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 10.7,
+    "total": {
+      "games": 14,
+      "wins": 11,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 9,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2572,
+    "team": "Southern Mississippi",
+    "conference": "Sun Belt",
+    "division": "West",
+    "expectedWins": 4.1,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2579,
+    "team": "South Carolina",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 5.6,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 0,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2628,
+    "team": "TCU",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 6.2,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2633,
+    "team": "Tennessee",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 8.8,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2636,
+    "team": "UT San Antonio",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 9.1,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2638,
+    "team": "UTEP",
+    "conference": "Conference USA",
+    "division": "",
+    "expectedWins": 4.7,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2641,
+    "team": "Texas Tech",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 6,
+    "total": {
+      "games": 13,
+      "wins": 7,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2649,
+    "team": "Toledo",
+    "conference": "Mid-American",
+    "division": "West",
+    "expectedWins": 10.7,
+    "total": {
+      "games": 14,
+      "wins": 11,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 8,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2653,
+    "team": "Troy",
+    "conference": "Sun Belt",
+    "division": "West",
+    "expectedWins": 10.1,
+    "total": {
+      "games": 14,
+      "wins": 11,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 8,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2655,
+    "team": "Tulane",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 9.9,
+    "total": {
+      "games": 14,
+      "wins": 11,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 8,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2711,
+    "team": "Western Michigan",
+    "conference": "Mid-American",
+    "division": "West",
+    "expectedWins": 4.5,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 1,
+      "losses": 6,
+      "ties": 0
+    }
+  },
+  {
+    "year": 2023,
+    "teamId": 2751,
+    "team": "Wyoming",
+    "conference": "Mountain West",
+    "division": "Mountain",
+    "expectedWins": 7.3,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 7,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  }
+]

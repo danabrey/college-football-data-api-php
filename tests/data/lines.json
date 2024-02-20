@@ -1,0 +1,57 @@
+[
+  {
+    "id": 401520149,
+    "season": 2023,
+    "seasonType": "regular",
+    "week": 1,
+    "startDate": "2023-09-02T23:30:00.000Z",
+    "homeTeam": "Alabama",
+    "homeConference": "SEC",
+    "homeScore": 56,
+    "awayTeam": "Middle Tennessee",
+    "awayConference": "Conference USA",
+    "awayScore": 7,
+    "lines": [
+      {
+        "provider": "William Hill (New Jersey)",
+        "spread": "-39.5",
+        "formattedSpread": "Alabama -39.5",
+        "spreadOpen": null,
+        "overUnder": "52",
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "teamrankings",
+        "spread": "-39",
+        "formattedSpread": "Alabama -39",
+        "spreadOpen": null,
+        "overUnder": "54.5",
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "DraftKings",
+        "spread": "-39.5",
+        "formattedSpread": "Alabama -39.5",
+        "spreadOpen": "-39",
+        "overUnder": "51.5",
+        "overUnderOpen": "55",
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Bovada",
+        "spread": "-39.5",
+        "formattedSpread": "Alabama -39.5",
+        "spreadOpen": "-39.0",
+        "overUnder": "51.5",
+        "overUnderOpen": "54.0",
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  }
+]
