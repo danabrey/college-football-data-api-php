@@ -8,6 +8,7 @@ use DanAbrey\CollegeFootballDataApi\Model\Game;
 use DanAbrey\CollegeFootballDataApi\Model\GameMedia;
 use DanAbrey\CollegeFootballDataApi\Model\PlayerGame;
 use DanAbrey\CollegeFootballDataApi\Model\PlayerSearchResult;
+use DanAbrey\CollegeFootballDataApi\Model\PlayerSeasonStat;
 use DanAbrey\CollegeFootballDataApi\Model\Team;
 use DanAbrey\CollegeFootballDataApi\Model\TeamRecord;
 use DanAbrey\CollegeFootballDataApi\Model\Week;
@@ -16,6 +17,7 @@ use DanAbrey\CollegeFootballDataApi\Parameter\GameMediaParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\PlayerGameStatsParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\GamesParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\PlayerSearchParameters;
+use DanAbrey\CollegeFootballDataApi\Parameter\PlayerSeasonStatsParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\TeamRecordParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\TeamsParameters;
 use Symfony\Component\HttpClient\HttpClient;
@@ -101,5 +103,12 @@ class CollegeFootballData
         $response = $this->request('conferences');
 
         return $this->serializer->denormalize($response, Conference::class. '[]');
+    }
+    
+    public function playerSeasonStats(PlayerSeasonStatsParameters $parameters)
+    {
+        $response = $this->request('stats/player/season', $parameters->toQueryString());
+
+        return $this->serializer->denormalize($response, PlayerSeasonStat::class. '[]');
     }
 }

@@ -1,0 +1,5204 @@
+[
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692046",
+    "player": "Jamil Burroughs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "8"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "12.9"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "6.5"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "YDS",
+    "stat": "3"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "17.3"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "TD",
+    "stat": "4"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "YDS",
+    "stat": "21"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "1"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "CAR",
+    "stat": "151"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "YDS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4869965",
+    "player": "Kobe Prentice",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "337"
+  },
+  {
+    "playerId": "4900374",
+    "player": "Isaiah Hastings",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431500",
+    "player": "Kendrick Blackshire",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "2"
+  },
+  {
+    "playerId": "4429172",
+    "player": "Traeshon Holden",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "6"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "YDS",
+    "stat": "3"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "220"
+  },
+  {
+    "playerId": "4685287",
+    "player": "Jihaad Campbell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "YDS",
+    "stat": "254"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "8.0"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692023",
+    "player": "Kristian Story",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4695287",
+    "player": "Jonathan Bennett",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YPC",
+    "stat": "6.0"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "LONG",
+    "stat": "4"
+  },
+  {
+    "playerId": "4900374",
+    "player": "Isaiah Hastings",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432725",
+    "player": "Deontae Lawson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "45"
+  },
+  {
+    "playerId": "4431500",
+    "player": "Kendrick Blackshire",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692023",
+    "player": "Kristian Story",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "YDS",
+    "stat": "8"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685243",
+    "player": "Jeremiah Alexander",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4430823",
+    "player": "Thaiu Jones-Bell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "5.0"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "YDS",
+    "stat": "297"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "INT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "15"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "AVG",
+    "stat": "34.0"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YPC",
+    "stat": "8.5"
+  },
+  {
+    "playerId": "4685243",
+    "player": "Jeremiah Alexander",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YPC",
+    "stat": "5.8"
+  },
+  {
+    "playerId": "4880041",
+    "player": "Kneeland Hibbett",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "3"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "2"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "4869534",
+    "player": "Amari Niblack",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "15"
+  },
+  {
+    "playerId": "4592570",
+    "player": "Ian Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "6"
+  },
+  {
+    "playerId": "4695287",
+    "player": "Jonathan Bennett",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YDS",
+    "stat": "12"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "YDS",
+    "stat": "21"
+  },
+  {
+    "playerId": "4431414",
+    "player": "Tim Keenan III",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "49"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4372026",
+    "player": "Cameron Latu",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "377"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kicking",
+    "statType": "XPA",
+    "stat": "64"
+  },
+  {
+    "playerId": "4685500",
+    "player": "Shawn Murphy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "-1"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "LONG",
+    "stat": "24"
+  },
+  {
+    "playerId": "4688806",
+    "player": "Khyree Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567138",
+    "player": "Justin Eboigbe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "48"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "17"
+  },
+  {
+    "playerId": "4592570",
+    "player": "Ian Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4567138",
+    "player": "Justin Eboigbe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0.5"
+  },
+  {
+    "playerId": "4592570",
+    "player": "Ian Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "5"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432694",
+    "player": "JoJo Earle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "2"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "3.5"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692033",
+    "player": "Tim Smith",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "19"
+  },
+  {
+    "playerId": "4685522",
+    "player": "Ty Simpson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "COMPLETIONS",
+    "stat": "4"
+  },
+  {
+    "playerId": "4685243",
+    "player": "Jeremiah Alexander",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4431500",
+    "player": "Kendrick Blackshire",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "6"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "LONG",
+    "stat": "81"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "3"
+  },
+  {
+    "playerId": "4430823",
+    "player": "Thaiu Jones-Bell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "5"
+  },
+  {
+    "playerId": "4426350",
+    "player": "Henry To'o To'o",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "7.0"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "LONG",
+    "stat": "40"
+  },
+  {
+    "playerId": "4692044",
+    "player": "Jah-Marien Latham",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "1"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "37"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "LONG",
+    "stat": "34"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "1"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YDS",
+    "stat": "655"
+  },
+  {
+    "playerId": "4692046",
+    "player": "Jamil Burroughs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "4"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YPC",
+    "stat": "3.8"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "INT",
+    "stat": "3"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "3"
+  },
+  {
+    "playerId": "4429033",
+    "player": "Jermaine Burton",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "7"
+  },
+  {
+    "playerId": "4880048",
+    "player": "James Burnip",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "punting",
+    "statType": "YPP",
+    "stat": "42.3"
+  },
+  {
+    "playerId": "4685287",
+    "player": "Jihaad Campbell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "CAR",
+    "stat": "31"
+  },
+  {
+    "playerId": "4692023",
+    "player": "Kristian Story",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685500",
+    "player": "Shawn Murphy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "6"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433887",
+    "player": "Jahquez Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "2"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "TD",
+    "stat": "32"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "2.5"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "CAR",
+    "stat": "14"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "AVG",
+    "stat": "4.0"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YPC",
+    "stat": "6.1"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "TD",
+    "stat": "5"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YPC",
+    "stat": "4.5"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "COMPLETIONS",
+    "stat": "245"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685487",
+    "player": "Jaheim Oatis",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "2.0"
+  },
+  {
+    "playerId": "4692023",
+    "player": "Kristian Story",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "NO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "LONG",
+    "stat": "16"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4869534",
+    "player": "Amari Niblack",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432694",
+    "player": "JoJo Earle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "12"
+  },
+  {
+    "playerId": "5089453",
+    "player": "Miles Kitselman",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "9.0"
+  },
+  {
+    "playerId": "4429011",
+    "player": "Eli Ricks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "5"
+  },
+  {
+    "playerId": "4372026",
+    "player": "Cameron Latu",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "12.6"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "YDS",
+    "stat": "332"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "3"
+  },
+  {
+    "playerId": "4685487",
+    "player": "Jaheim Oatis",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "10"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "11.0"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "1.5"
+  },
+  {
+    "playerId": "4429045",
+    "player": "Demouy Kennedy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692046",
+    "player": "Jamil Burroughs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431414",
+    "player": "Tim Keenan III",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0.5"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "2"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "3"
+  },
+  {
+    "playerId": "4567123",
+    "player": "Byron Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "18"
+  },
+  {
+    "playerId": "4432694",
+    "player": "JoJo Earle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "5"
+  },
+  {
+    "playerId": "4567138",
+    "player": "Justin Eboigbe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kicking",
+    "statType": "FGA",
+    "stat": "26"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4869534",
+    "player": "Amari Niblack",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "15"
+  },
+  {
+    "playerId": "4426350",
+    "player": "Henry To'o To'o",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "2.5"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432694",
+    "player": "JoJo Earle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "155"
+  },
+  {
+    "playerId": "4431414",
+    "player": "Tim Keenan III",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "LONG",
+    "stat": "3"
+  },
+  {
+    "playerId": "4430823",
+    "player": "Thaiu Jones-Bell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "5"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "14"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "10.1"
+  },
+  {
+    "playerId": "4692044",
+    "player": "Jah-Marien Latham",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4428989",
+    "player": "Chris Braswell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "3.0"
+  },
+  {
+    "playerId": "4685487",
+    "player": "Jaheim Oatis",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "27"
+  },
+  {
+    "playerId": "4692033",
+    "player": "Tim Smith",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "2.5"
+  },
+  {
+    "playerId": "4360818",
+    "player": "Tyler Harrell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "2"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "LONG",
+    "stat": "8"
+  },
+  {
+    "playerId": "4360818",
+    "player": "Tyler Harrell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "9.0"
+  },
+  {
+    "playerId": "4432725",
+    "player": "Deontae Lawson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "22"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "0"
+  },
+  {
+    "playerId": "4360818",
+    "player": "Tyler Harrell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "18"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "AVG",
+    "stat": "32.5"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "YDS",
+    "stat": "106"
+  },
+  {
+    "playerId": "4431414",
+    "player": "Tim Keenan III",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "YDS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431414",
+    "player": "Tim Keenan III",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "NO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4428989",
+    "player": "Chris Braswell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "7"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "LONG",
+    "stat": "45"
+  },
+  {
+    "playerId": "4433887",
+    "player": "Jahquez Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "1"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "NO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "3"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "2"
+  },
+  {
+    "playerId": "4426350",
+    "player": "Henry To'o To'o",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "5089453",
+    "player": "Miles Kitselman",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "18"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "4.0"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "ATT",
+    "stat": "380"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "INT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4688806",
+    "player": "Khyree Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "6"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "AVG",
+    "stat": "25.0"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "YDS",
+    "stat": "34"
+  },
+  {
+    "playerId": "4685522",
+    "player": "Ty Simpson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "YDS",
+    "stat": "35"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "1"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kicking",
+    "statType": "PTS",
+    "stat": "130"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685487",
+    "player": "Jaheim Oatis",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "4"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "LONG",
+    "stat": "57"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "1"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "6"
+  },
+  {
+    "playerId": "4567123",
+    "player": "Byron Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "6"
+  },
+  {
+    "playerId": "4592570",
+    "player": "Ian Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432694",
+    "player": "JoJo Earle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "1"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4431500",
+    "player": "Kendrick Blackshire",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "1"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "8"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "INT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "5"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YDS",
+    "stat": "250"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "NO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4880041",
+    "player": "Kneeland Hibbett",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "29"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "AVG",
+    "stat": "3.0"
+  },
+  {
+    "playerId": "4869965",
+    "player": "Kobe Prentice",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "10.9"
+  },
+  {
+    "playerId": "4431500",
+    "player": "Kendrick Blackshire",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "44"
+  },
+  {
+    "playerId": "4685243",
+    "player": "Jeremiah Alexander",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692023",
+    "player": "Kristian Story",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "2"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "YDS",
+    "stat": "26"
+  },
+  {
+    "playerId": "4430823",
+    "player": "Thaiu Jones-Bell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "LONG",
+    "stat": "11"
+  },
+  {
+    "playerId": "4685287",
+    "player": "Jihaad Campbell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kicking",
+    "statType": "XPM",
+    "stat": "64"
+  },
+  {
+    "playerId": "4685243",
+    "player": "Jeremiah Alexander",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "14.0"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "1"
+  },
+  {
+    "playerId": "4567138",
+    "player": "Justin Eboigbe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "INT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692046",
+    "player": "Jamil Burroughs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "2"
+  },
+  {
+    "playerId": "4685487",
+    "player": "Jaheim Oatis",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "TD",
+    "stat": "7"
+  },
+  {
+    "playerId": "4426350",
+    "player": "Henry To'o To'o",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "7.4"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "16"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "103"
+  },
+  {
+    "playerId": "4428989",
+    "player": "Chris Braswell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "14"
+  },
+  {
+    "playerId": "4688806",
+    "player": "Khyree Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4691688",
+    "player": "Robbie Ouzts",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "43"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "60"
+  },
+  {
+    "playerId": "4433887",
+    "player": "Jahquez Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "2"
+  },
+  {
+    "playerId": "4431414",
+    "player": "Tim Keenan III",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567138",
+    "player": "Justin Eboigbe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "11"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "1"
+  },
+  {
+    "playerId": "4592570",
+    "player": "Ian Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "COMPLETIONS",
+    "stat": "31"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692033",
+    "player": "Tim Smith",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692033",
+    "player": "Tim Smith",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "9"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YDS",
+    "stat": "265"
+  },
+  {
+    "playerId": "4433887",
+    "player": "Jahquez Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "7"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "1"
+  },
+  {
+    "playerId": "4429172",
+    "player": "Traeshon Holden",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "331"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "12"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "PCT",
+    "stat": "0.585"
+  },
+  {
+    "playerId": "4372026",
+    "player": "Cameron Latu",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "38"
+  },
+  {
+    "playerId": "4433887",
+    "player": "Jahquez Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "1"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "53"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "AVG",
+    "stat": "21.2"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "12.4"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "NO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "8"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685287",
+    "player": "Jihaad Campbell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "YPA",
+    "stat": "8.8"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4592570",
+    "player": "Ian Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685500",
+    "player": "Shawn Murphy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4695287",
+    "player": "Jonathan Bennett",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692033",
+    "player": "Tim Smith",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "10.0"
+  },
+  {
+    "playerId": "4429045",
+    "player": "Demouy Kennedy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "28"
+  },
+  {
+    "playerId": "4360818",
+    "player": "Tyler Harrell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "13"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429045",
+    "player": "Demouy Kennedy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429172",
+    "player": "Traeshon Holden",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "13.2"
+  },
+  {
+    "playerId": "-5154",
+    "player": " Team",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "LONG",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4880048",
+    "player": "James Burnip",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "punting",
+    "statType": "NO",
+    "stat": "44"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "PCT",
+    "stat": "0.645"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "NO",
+    "stat": "2"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692044",
+    "player": "Jah-Marien Latham",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433887",
+    "player": "Jahquez Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4428989",
+    "player": "Chris Braswell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "6"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "51"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "37"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567123",
+    "player": "Byron Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "3.5"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YPC",
+    "stat": "6.8"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "6"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "NO",
+    "stat": "12"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "-1.0"
+  },
+  {
+    "playerId": "4880048",
+    "player": "James Burnip",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "punting",
+    "statType": "In 20",
+    "stat": "14"
+  },
+  {
+    "playerId": "4429045",
+    "player": "Demouy Kennedy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567138",
+    "player": "Justin Eboigbe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "5"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "1"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "4"
+  },
+  {
+    "playerId": "4692033",
+    "player": "Tim Smith",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429045",
+    "player": "Demouy Kennedy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432694",
+    "player": "JoJo Earle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "12.9"
+  },
+  {
+    "playerId": "4692046",
+    "player": "Jamil Burroughs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "1.0"
+  },
+  {
+    "playerId": "4567123",
+    "player": "Byron Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kicking",
+    "statType": "FGM",
+    "stat": "22"
+  },
+  {
+    "playerId": "4869534",
+    "player": "Amari Niblack",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "4900374",
+    "player": "Isaiah Hastings",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433887",
+    "player": "Jahquez Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692046",
+    "player": "Jamil Burroughs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "2.0"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "YDS",
+    "stat": "65"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "AVG",
+    "stat": "8.0"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "LONG",
+    "stat": "68"
+  },
+  {
+    "playerId": "4431500",
+    "player": "Kendrick Blackshire",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "1"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "674"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "TD",
+    "stat": "4"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0.5"
+  },
+  {
+    "playerId": "4691688",
+    "player": "Robbie Ouzts",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kicking",
+    "statType": "PCT",
+    "stat": "0.846"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567123",
+    "player": "Byron Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "2"
+  },
+  {
+    "playerId": "4691688",
+    "player": "Robbie Ouzts",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "4"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "10"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "3"
+  },
+  {
+    "playerId": "4685522",
+    "player": "Ty Simpson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "ATT",
+    "stat": "5"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4695287",
+    "player": "Jonathan Bennett",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "CAR",
+    "stat": "2"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4360818",
+    "player": "Tyler Harrell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "12"
+  },
+  {
+    "playerId": "4431500",
+    "player": "Kendrick Blackshire",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685522",
+    "player": "Ty Simpson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4900374",
+    "player": "Isaiah Hastings",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685243",
+    "player": "Jeremiah Alexander",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "LONG",
+    "stat": "3"
+  },
+  {
+    "playerId": "4688806",
+    "player": "Khyree Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "7"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "LONG",
+    "stat": "63"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "AVG",
+    "stat": "15.1"
+  },
+  {
+    "playerId": "4426350",
+    "player": "Henry To'o To'o",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "43"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "41"
+  },
+  {
+    "playerId": "4692044",
+    "player": "Jah-Marien Latham",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "16"
+  },
+  {
+    "playerId": "4432725",
+    "player": "Deontae Lawson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "4"
+  },
+  {
+    "playerId": "4685522",
+    "player": "Ty Simpson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "INT",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685500",
+    "player": "Shawn Murphy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "8"
+  },
+  {
+    "playerId": "4429011",
+    "player": "Eli Ricks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4869965",
+    "player": "Kobe Prentice",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "47"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "AVG",
+    "stat": "14.4"
+  },
+  {
+    "playerId": "4430823",
+    "player": "Thaiu Jones-Bell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "-5154",
+    "player": " Team",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "CAR",
+    "stat": "10"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "TD",
+    "stat": "7"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "YDS",
+    "stat": "4"
+  },
+  {
+    "playerId": "4429011",
+    "player": "Eli Ricks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "4"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "-5154",
+    "player": " Team",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "4592570",
+    "player": "Ian Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4429033",
+    "player": "Jermaine Burton",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "52"
+  },
+  {
+    "playerId": "4432694",
+    "player": "JoJo Earle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "42"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "-5154",
+    "player": " Team",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "YDS",
+    "stat": "2"
+  },
+  {
+    "playerId": "4692044",
+    "player": "Jah-Marien Latham",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "4"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "NO",
+    "stat": "7"
+  },
+  {
+    "playerId": "4692023",
+    "player": "Kristian Story",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "2"
+  },
+  {
+    "playerId": "4688806",
+    "player": "Khyree Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567123",
+    "player": "Byron Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "45"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692033",
+    "player": "Tim Smith",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "1.0"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "24"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "AVG",
+    "stat": "21.0"
+  },
+  {
+    "playerId": "4685287",
+    "player": "Jihaad Campbell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "YDS",
+    "stat": "25"
+  },
+  {
+    "playerId": "4372026",
+    "player": "Cameron Latu",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "4"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "3"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "LONG",
+    "stat": "21"
+  },
+  {
+    "playerId": "4880041",
+    "player": "Kneeland Hibbett",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "0"
+  },
+  {
+    "playerId": "4688806",
+    "player": "Khyree Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "17"
+  },
+  {
+    "playerId": "4432725",
+    "player": "Deontae Lawson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "1.0"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "12.9"
+  },
+  {
+    "playerId": "4429033",
+    "player": "Jermaine Burton",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "40"
+  },
+  {
+    "playerId": "4429011",
+    "player": "Eli Ricks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "1"
+  },
+  {
+    "playerId": "4692046",
+    "player": "Jamil Burroughs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "0"
+  },
+  {
+    "playerId": "4426350",
+    "player": "Henry To'o To'o",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "5089453",
+    "player": "Miles Kitselman",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "2"
+  },
+  {
+    "playerId": "4567123",
+    "player": "Byron Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "5.0"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "3"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "AVG",
+    "stat": "3.0"
+  },
+  {
+    "playerId": "-5154",
+    "player": " Team",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "INT",
+    "stat": "2"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "2"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "AVG",
+    "stat": "26.0"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "TD",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "CAR",
+    "stat": "56"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YDS",
+    "stat": "185"
+  },
+  {
+    "playerId": "4429045",
+    "player": "Demouy Kennedy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692044",
+    "player": "Jah-Marien Latham",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "59"
+  },
+  {
+    "playerId": "4695287",
+    "player": "Jonathan Bennett",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "LONG",
+    "stat": "10"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "-5154",
+    "player": " Team",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YPC",
+    "stat": "-5.2"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "YPA",
+    "stat": "5.6"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "YDS",
+    "stat": "-2"
+  },
+  {
+    "playerId": "4880048",
+    "player": "James Burnip",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "punting",
+    "statType": "LONG",
+    "stat": "58"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "INT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685487",
+    "player": "Jaheim Oatis",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "1"
+  },
+  {
+    "playerId": "4869534",
+    "player": "Amari Niblack",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "15.0"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "LONG",
+    "stat": "76"
+  },
+  {
+    "playerId": "4692023",
+    "player": "Kristian Story",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "3"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "LONG",
+    "stat": "-2"
+  },
+  {
+    "playerId": "4685522",
+    "player": "Ty Simpson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "PCT",
+    "stat": "0.800"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "7.5"
+  },
+  {
+    "playerId": "4567138",
+    "player": "Justin Eboigbe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "2"
+  },
+  {
+    "playerId": "4685287",
+    "player": "Jihaad Campbell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692044",
+    "player": "Jah-Marien Latham",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "34"
+  },
+  {
+    "playerId": "-5154",
+    "player": " Team",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "5"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685287",
+    "player": "Jihaad Campbell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "CAR",
+    "stat": "112"
+  },
+  {
+    "playerId": "4431414",
+    "player": "Tim Keenan III",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4900374",
+    "player": "Isaiah Hastings",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429011",
+    "player": "Eli Ricks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "7"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432725",
+    "player": "Deontae Lawson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429011",
+    "player": "Eli Ricks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "0"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "34"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "14"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "2"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "AVG",
+    "stat": "-2.0"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4691688",
+    "player": "Robbie Ouzts",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "10.8"
+  },
+  {
+    "playerId": "4691688",
+    "player": "Robbie Ouzts",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "17"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YDS",
+    "stat": "223"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "95"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "CAR",
+    "stat": "49"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "65"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "2"
+  },
+  {
+    "playerId": "-5154",
+    "player": " Team",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YDS",
+    "stat": "-52"
+  },
+  {
+    "playerId": "4880048",
+    "player": "James Burnip",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "punting",
+    "statType": "YDS",
+    "stat": "1861"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "TD",
+    "stat": "2"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4428989",
+    "player": "Chris Braswell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "17"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "AVG",
+    "stat": "21.0"
+  },
+  {
+    "playerId": "5089453",
+    "player": "Miles Kitselman",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "LONG",
+    "stat": "77"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "1"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YPC",
+    "stat": "5.7"
+  },
+  {
+    "playerId": "4685500",
+    "player": "Shawn Murphy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685500",
+    "player": "Shawn Murphy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4880048",
+    "player": "James Burnip",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "punting",
+    "statType": "TB",
+    "stat": "2"
+  },
+  {
+    "playerId": "4685500",
+    "player": "Shawn Murphy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4688806",
+    "player": "Khyree Jackson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "3"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "NO",
+    "stat": "23"
+  },
+  {
+    "playerId": "4692048",
+    "player": "Quandarrius Robinson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "12"
+  },
+  {
+    "playerId": "4685243",
+    "player": "Jeremiah Alexander",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567140",
+    "player": "DJ Dale",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4429045",
+    "player": "Demouy Kennedy",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567111",
+    "player": "DeMarcco Hellams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "AVG",
+    "stat": "0.0"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "1"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "5"
+  },
+  {
+    "playerId": "4429172",
+    "player": "Traeshon Holden",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "25"
+  },
+  {
+    "playerId": "4432694",
+    "player": "JoJo Earle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "0"
+  },
+  {
+    "playerId": "4428989",
+    "player": "Chris Braswell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "4.5"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YDS",
+    "stat": "926"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "39"
+  },
+  {
+    "playerId": "4685723",
+    "player": "Roydell Williams",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kicking",
+    "statType": "LONG",
+    "stat": "52"
+  },
+  {
+    "playerId": "4429172",
+    "player": "Traeshon Holden",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "33"
+  },
+  {
+    "playerId": "4685441",
+    "player": "Kendrick Law",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "8"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "YDS",
+    "stat": "3328"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "puntReturns",
+    "statType": "NO",
+    "stat": "1"
+  },
+  {
+    "playerId": "5089453",
+    "player": "Miles Kitselman",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "LONG",
+    "stat": "13"
+  },
+  {
+    "playerId": "4692024",
+    "player": "Malachi Moore",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SACKS",
+    "stat": "1.5"
+  },
+  {
+    "playerId": "4685720",
+    "player": "Bryce Young",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "INT",
+    "stat": "5"
+  },
+  {
+    "playerId": "4685381",
+    "player": "Emmanuel Henderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4429033",
+    "player": "Jermaine Burton",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "677"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "45"
+  },
+  {
+    "playerId": "4426350",
+    "player": "Henry To'o To'o",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "89"
+  },
+  {
+    "playerId": "4429795",
+    "player": "Jahmyr Gibbs",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "444"
+  },
+  {
+    "playerId": "4900374",
+    "player": "Isaiah Hastings",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "8"
+  },
+  {
+    "playerId": "4428989",
+    "player": "Chris Braswell",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "PD",
+    "stat": "0"
+  },
+  {
+    "playerId": "107494",
+    "player": "Trey Sanders",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "YDS",
+    "stat": "80"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "1"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "30"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "NO",
+    "stat": "1"
+  },
+  {
+    "playerId": "4429001",
+    "player": "Jase McClellan",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YDS",
+    "stat": "174"
+  },
+  {
+    "playerId": "4431506",
+    "player": "Ja'Corey Brooks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "39"
+  },
+  {
+    "playerId": "4372026",
+    "player": "Cameron Latu",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "30"
+  },
+  {
+    "playerId": "4685522",
+    "player": "Ty Simpson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "YPA",
+    "stat": "7.0"
+  },
+  {
+    "playerId": "4432734",
+    "player": "Jalen Milroe",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "passing",
+    "statType": "ATT",
+    "stat": "53"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "AVG",
+    "stat": "0.0"
+  },
+  {
+    "playerId": "4429033",
+    "player": "Jermaine Burton",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "16.9"
+  },
+  {
+    "playerId": "4372025",
+    "player": "Jaylen Moody",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "SOLO",
+    "stat": "24"
+  },
+  {
+    "playerId": "4685477",
+    "player": "Jamarion Miller",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "rushing",
+    "statType": "CAR",
+    "stat": "33"
+  },
+  {
+    "playerId": "4592837",
+    "player": "Terrion Arnold",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "REC",
+    "stat": "2"
+  },
+  {
+    "playerId": "4429011",
+    "player": "Eli Ricks",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4869965",
+    "player": "Kobe Prentice",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "REC",
+    "stat": "31"
+  },
+  {
+    "playerId": "4565190",
+    "player": "Dallas Turner",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "interceptions",
+    "statType": "AVG",
+    "stat": "1.0"
+  },
+  {
+    "playerId": "4685487",
+    "player": "Jaheim Oatis",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567104",
+    "player": "Will Reichard",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4900374",
+    "player": "Isaiah Hastings",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "FUM",
+    "stat": "1"
+  },
+  {
+    "playerId": "4685724",
+    "player": "Will Anderson Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TFL",
+    "stat": "17.0"
+  },
+  {
+    "playerId": "4432725",
+    "player": "Deontae Lawson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4808839",
+    "player": "Isaiah Bond",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "1"
+  },
+  {
+    "playerId": "4869965",
+    "player": "Kobe Prentice",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "TD",
+    "stat": "2"
+  },
+  {
+    "playerId": "4692025",
+    "player": "Brian Branch",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "79"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "1"
+  },
+  {
+    "playerId": "4587702",
+    "player": "Christian Leary",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "receiving",
+    "statType": "YPR",
+    "stat": "6.0"
+  },
+  {
+    "playerId": "4432725",
+    "player": "Deontae Lawson",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "QB HUR",
+    "stat": "0"
+  },
+  {
+    "playerId": "4567098",
+    "player": "Jordan Battle",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "defensive",
+    "statType": "TOT",
+    "stat": "62"
+  },
+  {
+    "playerId": "4433975",
+    "player": "Kool-Aid McKinstry",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "kickReturns",
+    "statType": "TD",
+    "stat": "0"
+  },
+  {
+    "playerId": "4431503",
+    "player": "Damon Payne Jr.",
+    "team": "Alabama",
+    "conference": "SEC",
+    "category": "fumbles",
+    "statType": "LOST",
+    "stat": "0"
+  }
+]
