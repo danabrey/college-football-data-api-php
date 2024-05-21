@@ -1,7 +1,6 @@
 {
     "name": "danabrey/college-football-data-api-php",
     "description": "PHP package for the College Football Data (collegefootballdata.com) NCAA statistics API",
-    "version": "1.0.0",
     "type": "library",
     "autoload": {
         "psr-4": {
