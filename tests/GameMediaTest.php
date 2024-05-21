@@ -23,13 +23,13 @@ GameMediaTest extends TestCase
         self::assertSame('https://api.collegefootballdata.com/games/media?year=2023', $mockResponse->getRequestUrl());
 
         $this->assertIsArray($gameMedia);
-        $this->assertCount(335, $gameMedia);
+        $this->assertCount(2358, $gameMedia);
 
         $this->assertInstanceOf(\DanAbrey\CollegeFootballDataApi\Model\GameMedia::class, $gameMedia[0]);
 
         $game = $gameMedia[0];
 
-        $this->assertEquals(401550883, $game->id);
+        $this->assertEquals(401525434, $game->id);
     }
 
     /**
