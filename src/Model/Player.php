@@ -11,7 +11,7 @@ class Player
         public readonly string $team,
         public readonly int $height,
         public readonly int $weight,
-        public readonly int $jersey,
+        public readonly ?int $jersey,
         public readonly int $year,
         public readonly string $position,
         public readonly ?string $home_city,
