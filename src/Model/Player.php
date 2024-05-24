@@ -13,7 +13,7 @@ class Player
         public readonly ?int $weight,
         public readonly ?int $jersey,
         public readonly ?int $year,
-        public readonly string $position,
+        public readonly ?string $position,
         public readonly ?string $home_city,
         public readonly ?string $home_state,
         public readonly ?string $home_country,
