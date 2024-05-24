@@ -14,12 +14,12 @@ class Player
         public readonly int $jersey,
         public readonly int $year,
         public readonly string $position,
-        public readonly string $home_city,
-        public readonly string $home_state,
-        public readonly string $home_country,
-        public readonly float $home_latitude,
-        public readonly float $home_longitude,
-        public readonly string $home_county_fips,
+        public readonly ?string $home_city,
+        public readonly ?string $home_state,
+        public readonly ?string $home_country,
+        public readonly ?float $home_latitude,
+        public readonly ?float $home_longitude,
+        public readonly ?string $home_county_fips,
         public readonly array $recruit_ids,
     ) {}
 }
