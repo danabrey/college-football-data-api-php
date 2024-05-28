@@ -12,6 +12,7 @@ use DanAbrey\CollegeFootballDataApi\Model\PlayerSearchResult;
 use DanAbrey\CollegeFootballDataApi\Model\PlayerSeasonStat;
 use DanAbrey\CollegeFootballDataApi\Model\Team;
 use DanAbrey\CollegeFootballDataApi\Model\TeamRecord;
+use DanAbrey\CollegeFootballDataApi\Model\TeamSeasonStat;
 use DanAbrey\CollegeFootballDataApi\Model\Week;
 use DanAbrey\CollegeFootballDataApi\Parameter\CalendarParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\GameMediaParameters;
@@ -21,6 +22,7 @@ use DanAbrey\CollegeFootballDataApi\Parameter\PlayerSearchParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\PlayerSeasonStatsParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\RosterParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\TeamRecordParameters;
+use DanAbrey\CollegeFootballDataApi\Parameter\TeamSeasonStatsParameters;
 use DanAbrey\CollegeFootballDataApi\Parameter\TeamsParameters;
 use Symfony\Component\HttpClient\HttpClient;
 use Symfony\Component\PropertyInfo\Extractor\ReflectionExtractor;
@@ -91,6 +93,13 @@ class CollegeFootballData
         $response = $this->request('teams', $parameters?->toQueryString());
         
         return $this->serializer->denormalize($response, Team::class. '[]');
+    }
+
+    public function teamSeasonStats(?TeamSeasonStatsParameters $parameters = null): array
+    {
+        $response = $this->request('stats/season', $parameters?->toQueryString());
+
+        return $this->serializer->denormalize($response, TeamSeasonStat::class. '[]');
     }
 
     public function playerSearch(?PlayerSearchParameters $parameters = null): array
