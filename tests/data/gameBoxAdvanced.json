@@ -1,507 +1,544 @@
 {
   "gameInfo": {
-    "homeTeam": "Auburn",
-    "homePoints": 24,
-    "homeWinProb": "0.14676618348576967",
-    "awayTeam": "Alabama",
-    "awayPoints": 27,
-    "awayWinProb": "0.8532338165142304",
-    "homeWinner": false,
-    "excitement": "7.3620010608"
+    "homeTeam": "Alabama",
+    "homePoints": 56,
+    "homeWinProb": 0.9984904999606786,
+    "awayTeam": "Middle Tennessee",
+    "awayPoints": 7,
+    "awayWinProb": 0.0015095000393213764,
+    "homeWinner": true,
+    "excitement": 3.3884154201
   },
   "teams": {
     "ppa": [
       {
-        "team": "Alabama",
-        "plays": 64,
+        "team": "Middle Tennessee",
+        "plays": 36,
         "overall": {
-          "total": 0.3641,
-          "quarter1": 0.551,
-          "quarter2": 0.335,
-          "quarter3": 0.341,
-          "quarter4": 0.168
+          "total": 0.0839,
+          "quarter1": 0.106,
+          "quarter2": -0.057,
+          "quarter3": 2.885,
+          "quarter4": 0
         },
         "passing": {
-          "total": 0.719,
-          "quarter1": 0.878,
-          "quarter2": 0.835,
-          "quarter3": 0.307,
-          "quarter4": 0.818
+          "total": 0.03,
+          "quarter1": 0.133,
+          "quarter2": -0.269,
+          "quarter3": 2.885,
+          "quarter4": 0
         },
         "rushing": {
-          "total": 0.137,
-          "quarter1": 0.314,
-          "quarter2": 0.002,
-          "quarter3": 0.361,
-          "quarter4": -0.194
+          "total": 0.414,
+          "quarter1": 0.017,
+          "quarter2": 0.562,
+          "quarter3": null,
+          "quarter4": 0
         }
       },
       {
-        "team": "Auburn",
-        "plays": 58,
+        "team": "Alabama",
+        "plays": 41,
         "overall": {
-          "total": 0.2434,
-          "quarter1": 0.414,
-          "quarter2": 0.165,
-          "quarter3": 0.768,
-          "quarter4": -0.18
+          "total": 0.5351,
+          "quarter1": 0.635,
+          "quarter2": 0.26,
+          "quarter3": 1.013,
+          "quarter4": 0
         },
         "passing": {
-          "total": 0.077,
-          "quarter1": -0.377,
-          "quarter2": -0.227,
-          "quarter3": 2.406,
-          "quarter4": -0.404
+          "total": 0.475,
+          "quarter1": 0.659,
+          "quarter2": 0.053,
+          "quarter3": 1.372,
+          "quarter4": 0
         },
         "rushing": {
-          "total": 0.338,
-          "quarter1": 0.754,
-          "quarter2": 0.459,
-          "quarter3": 0.222,
-          "quarter4": -0.032
+          "total": 0.582,
+          "quarter1": 0.623,
+          "quarter2": 0.493,
+          "quarter3": 0.654,
+          "quarter4": 0
         }
       }
     ],
     "cumulativePpa": [
       {
-        "team": "Alabama",
-        "plays": 64,
+        "team": "Middle Tennessee",
+        "plays": 36,
         "overall": {
-          "total": 23.3,
-          "quarter1": 10.5,
-          "quarter2": 5,
-          "quarter3": 5.5,
-          "quarter4": 2.3
+          "total": 3,
+          "quarter1": 1.4,
+          "quarter2": -1.2,
+          "quarter3": 2.9,
+          "quarter4": 0
         },
         "passing": {
-          "total": 18,
-          "quarter1": 7,
-          "quarter2": 5,
-          "quarter3": 1.8,
-          "quarter4": 4.1
+          "total": 0.7,
+          "quarter1": 1.3,
+          "quarter2": -3.5,
+          "quarter3": 2.9,
+          "quarter4": 0
         },
         "rushing": {
-          "total": 5.3,
-          "quarter1": 3.4,
-          "quarter2": 0,
-          "quarter3": 3.6,
-          "quarter4": -1.7
+          "total": 4.5,
+          "quarter1": 0.1,
+          "quarter2": 4.5,
+          "quarter3": null,
+          "quarter4": 0
         }
       },
       {
-        "team": "Auburn",
-        "plays": 58,
+        "team": "Alabama",
+        "plays": 41,
         "overall": {
-          "total": 14.1,
-          "quarter1": 4.1,
-          "quarter2": 3.5,
-          "quarter3": 9.2,
-          "quarter4": -2.7
+          "total": 21.9,
+          "quarter1": 11.4,
+          "quarter2": 4.4,
+          "quarter3": 6.1,
+          "quarter4": 0
         },
         "passing": {
-          "total": 1.6,
-          "quarter1": -1.1,
-          "quarter2": -2,
-          "quarter3": 7.2,
-          "quarter4": -2.4
+          "total": 8.5,
+          "quarter1": 4,
+          "quarter2": 0.5,
+          "quarter3": 4.1,
+          "quarter4": 0
         },
         "rushing": {
-          "total": 12.5,
-          "quarter1": 5.3,
-          "quarter2": 5.5,
+          "total": 13.4,
+          "quarter1": 7.5,
+          "quarter2": 3.9,
           "quarter3": 2,
-          "quarter4": -0.3
+          "quarter4": 0
         }
       }
     ],
     "successRates": [
       {
-        "team": "Alabama",
+        "team": "Middle Tennessee",
         "overall": {
-          "total": 0.484,
-          "quarter1": 0.684,
-          "quarter2": 0.467,
-          "quarter3": 0.5,
-          "quarter4": 0.214
+          "total": 0.389,
+          "quarter1": 0.385,
+          "quarter2": 0.364,
+          "quarter3": 1,
+          "quarter4": null
         },
         "standardDowns": {
-          "total": 0.563,
-          "quarter1": 0.733,
-          "quarter2": 0.6,
-          "quarter3": 0.533,
-          "quarter4": 0.25
+          "total": 0.545,
+          "quarter1": 0.714,
+          "quarter2": 0.467,
+          "quarter3": null,
+          "quarter4": null
         },
         "passingDowns": {
-          "total": 0.25,
-          "quarter1": 0.5,
-          "quarter2": 0.2,
-          "quarter3": 0,
-          "quarter4": 0.167
+          "total": 0.143,
+          "quarter1": 0,
+          "quarter2": 0.143,
+          "quarter3": 1,
+          "quarter4": null
         }
       },
       {
-        "team": "Auburn",
+        "team": "Alabama",
         "overall": {
-          "total": 0.397,
-          "quarter1": 0.5,
-          "quarter2": 0.429,
-          "quarter3": 0.583,
-          "quarter4": 0.133
+          "total": 0.585,
+          "quarter1": 0.833,
+          "quarter2": 0.412,
+          "quarter3": 0.333,
+          "quarter4": null
         },
         "standardDowns": {
-          "total": 0.465,
-          "quarter1": 0.625,
+          "total": 0.645,
+          "quarter1": 0.824,
           "quarter2": 0.5,
-          "quarter3": 0.636,
-          "quarter4": 0.1
+          "quarter3": 0,
+          "quarter4": null
         },
         "passingDowns": {
-          "total": 0.2,
-          "quarter1": 0,
-          "quarter2": 0.286,
-          "quarter3": 0,
-          "quarter4": 0.2
+          "total": 0.4,
+          "quarter1": 1,
+          "quarter2": 0.2,
+          "quarter3": 0.5,
+          "quarter4": null
         }
       }
     ],
     "explosiveness": [
       {
-        "team": "Alabama",
+        "team": "Middle Tennessee",
         "overall": {
-          "total": 1.19,
-          "quarter1": 0.96,
-          "quarter2": 1.1,
-          "quarter3": 1.11,
-          "quarter4": 2.64
+          "total": 1.01,
+          "quarter1": 0.67,
+          "quarter2": 0.99,
+          "quarter3": 2.88,
+          "quarter4": 0
         }
       },
       {
-        "team": "Auburn",
+        "team": "Alabama",
         "overall": {
-          "total": 1.4,
-          "quarter1": 1.1,
-          "quarter2": 1.52,
-          "quarter3": 1.47,
-          "quarter4": 1.4
+          "total": 1.26,
+          "quarter1": 0.8,
+          "quarter2": 1.34,
+          "quarter3": 4.43,
+          "quarter4": 0
         }
       }
     ],
     "rushing": [
       {
-        "team": "Alabama",
-        "powerSuccess": "0.750",
-        "stuffRate": "0.154",
-        "lineYards": "108",
-        "lineYardsAverage": "2.8",
-        "secondLevelYards": "46",
-        "secondLevelYardsAverage": "1.2",
-        "openFieldYards": "43",
-        "openFieldYardsAverage": "1.1"
+        "team": "Middle Tennessee",
+        "powerSuccess": 1,
+        "stuffRate": 0.091,
+        "lineYards": 37,
+        "lineYardsAverage": 3.3,
+        "secondLevelYards": 15,
+        "secondLevelYardsAverage": 1.4,
+        "openFieldYards": 21,
+        "openFieldYardsAverage": 1.9
       },
       {
-        "team": "Auburn",
-        "powerSuccess": "1.000",
-        "stuffRate": "0.054",
-        "lineYards": "130",
-        "lineYardsAverage": "3.5",
-        "secondLevelYards": "49",
-        "secondLevelYardsAverage": "1.3",
-        "openFieldYards": "106",
-        "openFieldYardsAverage": "2.9"
+        "team": "Alabama",
+        "powerSuccess": 0.833,
+        "stuffRate": 0.087,
+        "lineYards": 89,
+        "lineYardsAverage": 3.8,
+        "secondLevelYards": 31,
+        "secondLevelYardsAverage": 1.3,
+        "openFieldYards": 40,
+        "openFieldYardsAverage": 1.7
       }
     ],
     "havoc": [
       {
-        "team": "Auburn",
-        "total": "0.125",
-        "frontSeven": "0.078",
-        "db": "0.047"
+        "team": "Alabama",
+        "total": 0.333,
+        "frontSeven": 0.278,
+        "db": 0.056
       },
       {
-        "team": "Alabama",
-        "total": "0.207",
-        "frontSeven": "0.138",
-        "db": "0.069"
+        "team": "Middle Tennessee",
+        "total": 0.171,
+        "frontSeven": 0.122,
+        "db": 0.049
       }
     ],
     "scoringOpportunities": [
       {
-        "team": "Alabama",
-        "opportunities": 6,
-        "points": 20,
-        "pointsPerOpportunity": 3.33
+        "team": "Middle Tennessee",
+        "opportunities": 2,
+        "points": 7,
+        "pointsPerOpportunity": 3.5
       },
       {
-        "team": "Auburn",
+        "team": "Alabama",
         "opportunities": 6,
-        "points": 24,
-        "pointsPerOpportunity": 4
+        "points": 42,
+        "pointsPerOpportunity": 7
       }
     ],
     "fieldPosition": [
       {
-        "team": "Alabama",
-        "averageStart": "70.9",
-        "averageStartingPredictedPoints": "1.35"
+        "team": "Middle Tennessee",
+        "averageStart": 76.6,
+        "averageStartingPredictedPoints": 0.87
       },
       {
-        "team": "Auburn",
-        "averageStart": "78.7",
-        "averageStartingPredictedPoints": "0.77"
+        "team": "Alabama",
+        "averageStart": 64.6,
+        "averageStartingPredictedPoints": 1.89
       }
     ]
   },
   "players": {
     "usage": [
       {
-        "player": "Jalen Milroe",
-        "team": "Alabama",
+        "player": "Nick Vattiato",
+        "team": "Middle Tennessee",
         "position": "QB",
-        "total": 0.609,
-        "quarter1": 0.526,
-        "quarter2": 0.667,
-        "quarter3": 0.625,
-        "quarter4": 0.643,
-        "rushing": 0.359,
+        "total": 0.778,
+        "quarter1": 0.923,
+        "quarter2": 0.682,
+        "quarter3": 1,
+        "quarter4": 0,
+        "rushing": 0.364,
         "passing": 1
       },
       {
-        "player": "Payton Thorne",
-        "team": "Auburn",
+        "player": "Jalen Milroe",
+        "team": "Alabama",
         "position": "QB",
-        "total": 0.517,
-        "quarter1": 0.3,
-        "quarter2": 0.524,
-        "quarter3": 0.583,
-        "quarter4": 0.6,
-        "rushing": 0.27,
-        "passing": 0.952
-      },
-      {
-        "player": "Jarquez Hunter",
-        "team": "Auburn",
-        "position": "RB",
-        "total": 0.259,
-        "quarter1": 0.4,
-        "quarter2": 0.286,
-        "quarter3": 0.083,
-        "quarter4": 0.267,
-        "rushing": 0.378,
-        "passing": 0.048
+        "total": 0.561,
+        "quarter1": 0.444,
+        "quarter2": 0.647,
+        "quarter3": 0.667,
+        "quarter4": 0,
+        "rushing": 0.217,
+        "passing": 1
       },
       {
         "player": "Jase McClellan",
         "team": "Alabama",
         "position": "RB",
-        "total": 0.234,
-        "quarter1": 0.263,
-        "quarter2": 0.333,
-        "quarter3": 0.188,
-        "quarter4": 0.143,
-        "rushing": 0.359,
-        "passing": 0.04
-      },
-      {
-        "player": "Damari Alston",
-        "team": "Auburn",
-        "position": "RB",
-        "total": 0.172,
-        "quarter1": 0.3,
-        "quarter2": 0.143,
-        "quarter3": 0.25,
-        "quarter4": 0.067,
-        "rushing": 0.27,
+        "total": 0.244,
+        "quarter1": 0.389,
+        "quarter2": 0.118,
+        "quarter3": 0.167,
+        "quarter4": 0,
+        "rushing": 0.435,
         "passing": 0
       },
       {
         "player": "Roydell Williams",
         "team": "Alabama",
         "position": "RB",
-        "total": 0.125,
-        "quarter1": 0.105,
-        "quarter2": 0.067,
-        "quarter3": 0.188,
-        "quarter4": 0.143,
-        "rushing": 0.205,
+        "total": 0.195,
+        "quarter1": 0.222,
+        "quarter2": 0.235,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0.304,
+        "passing": 0.056
+      },
+      {
+        "player": "Jaiden Credle",
+        "team": "Middle Tennessee",
+        "position": "RB",
+        "total": 0.139,
+        "quarter1": 0.154,
+        "quarter2": 0.136,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0.182,
+        "passing": 0.125
+      },
+      {
+        "player": "Jeremy Tate Jr.",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "total": 0.111,
+        "quarter1": 0.077,
+        "quarter2": 0.136,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.167
+      },
+      {
+        "player": "Jekail Middlebrook",
+        "team": "Middle Tennessee",
+        "position": "RB",
+        "total": 0.111,
+        "quarter1": 0,
+        "quarter2": 0.182,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0.364,
         "passing": 0
       },
       {
-        "player": "Ja'Varrius Johnson",
-        "team": "Auburn",
+        "player": "DJ England-Chisolm",
+        "team": "Middle Tennessee",
         "position": "WR",
-        "total": 0.086,
-        "quarter1": 0,
-        "quarter2": 0.095,
-        "quarter3": 0.25,
+        "total": 0.111,
+        "quarter1": 0.154,
+        "quarter2": 0.091,
+        "quarter3": 0,
         "quarter4": 0,
-        "rushing": 0.027,
-        "passing": 0.19
+        "rushing": 0,
+        "passing": 0.167
       },
       {
         "player": "Isaiah Bond",
         "team": "Alabama",
         "position": "WR",
-        "total": 0.078,
-        "quarter1": 0.053,
-        "quarter2": 0,
-        "quarter3": 0.125,
-        "quarter4": 0.143,
+        "total": 0.098,
+        "quarter1": 0.111,
+        "quarter2": 0.118,
+        "quarter3": 0,
+        "quarter4": 0,
         "rushing": 0,
-        "passing": 0.2
+        "passing": 0.222
+      },
+      {
+        "player": "Kobe Prentice",
+        "team": "Alabama",
+        "position": "WR",
+        "total": 0.098,
+        "quarter1": 0.056,
+        "quarter2": 0.176,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.222
+      },
+      {
+        "player": "Frank Peasant",
+        "team": "Middle Tennessee",
+        "position": "RB",
+        "total": 0.083,
+        "quarter1": 0.077,
+        "quarter2": 0.091,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0.091,
+        "passing": 0.083
+      },
+      {
+        "player": "Javonte Sherman",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "total": 0.056,
+        "quarter1": 0.077,
+        "quarter2": 0.045,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.083
+      },
+      {
+        "player": "Elijah Metcalf",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "total": 0.056,
+        "quarter1": 0.154,
+        "quarter2": 0,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.083
       },
       {
         "player": "Jermaine Burton",
         "team": "Alabama",
         "position": "WR",
-        "total": 0.063,
-        "quarter1": 0.158,
-        "quarter2": 0.067,
-        "quarter3": 0,
-        "quarter4": 0,
-        "rushing": 0,
-        "passing": 0.16
-      },
-      {
-        "player": "Robby Ashford",
-        "team": "Auburn",
-        "position": "QB",
-        "total": 0.052,
-        "quarter1": 0,
+        "total": 0.049,
+        "quarter1": 0.056,
         "quarter2": 0,
-        "quarter3": 0.083,
-        "quarter4": 0.133,
-        "rushing": 0.054,
-        "passing": 0.048
-      },
-      {
-        "player": "Kendrick Law",
-        "team": "Alabama",
-        "position": "WR",
-        "total": 0.047,
-        "quarter1": 0.105,
-        "quarter2": 0,
-        "quarter3": 0.063,
+        "quarter3": 0.167,
         "quarter4": 0,
         "rushing": 0,
-        "passing": 0.12
-      },
-      {
-        "player": "Jamarion Miller",
-        "team": "Alabama",
-        "position": "RB",
-        "total": 0.031,
-        "quarter1": 0.105,
-        "quarter2": 0,
-        "quarter3": 0,
-        "quarter4": 0,
-        "rushing": 0.051,
-        "passing": 0
-      },
-      {
-        "player": "Amari Niblack",
-        "team": "Alabama",
-        "position": "TE",
-        "total": 0.031,
-        "quarter1": 0,
-        "quarter2": 0.067,
-        "quarter3": 0.063,
-        "quarter4": 0,
-        "rushing": 0,
-        "passing": 0.08
-      },
-      {
-        "player": "Caleb Burton",
-        "team": "Auburn",
-        "position": "WR",
-        "total": 0.017,
-        "quarter1": 0,
-        "quarter2": 0.048,
-        "quarter3": 0,
-        "quarter4": 0,
-        "rushing": 0,
-        "passing": 0.048
+        "passing": 0.111
       },
       {
         "player": "Malik Benson",
         "team": "Alabama",
         "position": "WR",
-        "total": 0.016,
-        "quarter1": 0.053,
+        "total": 0.049,
+        "quarter1": 0,
+        "quarter2": 0.118,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.111
+      },
+      {
+        "player": "Justin Olson",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "total": 0.028,
+        "quarter1": 0.077,
         "quarter2": 0,
         "quarter3": 0,
         "quarter4": 0,
         "rushing": 0,
-        "passing": 0.04
+        "passing": 0.042
+      },
+      {
+        "player": "Kalani Norris",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "total": 0.028,
+        "quarter1": 0,
+        "quarter2": 0.045,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.042
+      },
+      {
+        "player": "Bryce Bailey",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "total": 0.028,
+        "quarter1": 0,
+        "quarter2": 0,
+        "quarter3": 1,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.042
+      },
+      {
+        "player": "C.J. Dippre",
+        "team": "Alabama",
+        "position": "TE",
+        "total": 0.024,
+        "quarter1": 0.056,
+        "quarter2": 0,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0.056
+      },
+      {
+        "player": "Jamarion Miller",
+        "team": "Alabama",
+        "position": "RB",
+        "total": 0.024,
+        "quarter1": 0,
+        "quarter2": 0,
+        "quarter3": 0.167,
+        "quarter4": 0,
+        "rushing": 0.043,
+        "passing": 0
       }
     ],
     "ppa": [
       {
+        "player": "Nick Vattiato",
+        "team": "Middle Tennessee",
+        "position": "QB",
+        "average": {
+          "total": 0.119,
+          "quarter1": 0.15,
+          "quarter2": -0.09,
+          "quarter3": 2.885,
+          "quarter4": 0,
+          "rushing": 0.654,
+          "passing": 0.03
+        },
+        "cumulative": {
+          "total": 3.3,
+          "quarter1": 1.8,
+          "quarter2": -1.4,
+          "quarter3": 2.9,
+          "quarter4": 0,
+          "rushing": 2.6,
+          "passing": 0.7
+        }
+      },
+      {
         "player": "Jalen Milroe",
         "team": "Alabama",
         "position": "QB",
         "average": {
-          "total": 0.614,
-          "quarter1": 0.77,
-          "quarter2": 0.478,
-          "quarter3": 0.593,
-          "quarter4": 0.615,
-          "rushing": 0.427,
-          "passing": 0.719
-        },
-        "cumulative": {
-          "total": 24,
-          "quarter1": 7.7,
-          "quarter2": 4.8,
-          "quarter3": 5.9,
-          "quarter4": 5.5,
-          "rushing": 6,
-          "passing": 18
-        }
-      },
-      {
-        "player": "Payton Thorne",
-        "team": "Auburn",
-        "position": "QB",
-        "average": {
-          "total": 0.23,
-          "quarter1": -0.377,
-          "quarter2": -0.04,
-          "quarter3": 1.215,
-          "quarter4": -0.005,
-          "rushing": 0.478,
-          "passing": 0.106
-        },
-        "cumulative": {
-          "total": 6.9,
-          "quarter1": -1.1,
-          "quarter2": -0.4,
-          "quarter3": 8.5,
+          "total": 0.752,
+          "quarter1": 0.902,
+          "quarter2": 0.244,
+          "quarter3": 1.85,
           "quarter4": 0,
-          "rushing": 4.8,
-          "passing": 2.1
-        }
-      },
-      {
-        "player": "Jarquez Hunter",
-        "team": "Auburn",
-        "position": "RB",
-        "average": {
-          "total": 0.078,
-          "quarter1": 0.679,
-          "quarter2": -0.113,
-          "quarter3": 0.063,
-          "quarter4": -0.233,
-          "rushing": 0.119,
-          "passing": -0.491
+          "rushing": 1.751,
+          "passing": 0.475
         },
         "cumulative": {
-          "total": 1.2,
-          "quarter1": 2.7,
-          "quarter2": -0.7,
-          "quarter3": 0.1,
-          "quarter4": -0.9,
-          "rushing": 1.7,
-          "passing": -0.5
+          "total": 17.3,
+          "quarter1": 7.2,
+          "quarter2": 2.7,
+          "quarter3": 7.4,
+          "quarter4": 0,
+          "rushing": 8.8,
+          "passing": 8.5
         }
       },
       {
@@ -509,44 +546,21 @@
         "team": "Alabama",
         "position": "RB",
         "average": {
-          "total": 0.013,
-          "quarter1": -0.026,
-          "quarter2": 0.207,
-          "quarter3": -0.034,
-          "quarter4": -0.307,
-          "rushing": -0.046,
-          "passing": 0.836
-        },
-        "cumulative": {
-          "total": 0.2,
-          "quarter1": -0.1,
-          "quarter2": 1,
-          "quarter3": -0.1,
-          "quarter4": -0.6,
-          "rushing": -0.6,
-          "passing": 0.8
-        }
-      },
-      {
-        "player": "Damari Alston",
-        "team": "Auburn",
-        "position": "RB",
-        "average": {
-          "total": 0.49,
-          "quarter1": 0.853,
-          "quarter2": 0.686,
-          "quarter3": 0.233,
-          "quarter4": -0.413,
-          "rushing": 0.49,
+          "total": 0.326,
+          "quarter1": 0.554,
+          "quarter2": 0.041,
+          "quarter3": -0.703,
+          "quarter4": 0,
+          "rushing": 0.326,
           "passing": 0
         },
         "cumulative": {
-          "total": 4.9,
-          "quarter1": 2.6,
-          "quarter2": 2.1,
-          "quarter3": 0.7,
-          "quarter4": -0.4,
-          "rushing": 4.9,
+          "total": 3.3,
+          "quarter1": 3.9,
+          "quarter2": 0.1,
+          "quarter3": -0.7,
+          "quarter4": 0,
+          "rushing": 3.3,
           "passing": 0
         }
       },
@@ -555,45 +569,114 @@
         "team": "Alabama",
         "position": "RB",
         "average": {
-          "total": 0.311,
-          "quarter1": 1.261,
-          "quarter2": 0.044,
-          "quarter3": -0.124,
-          "quarter4": 0.146,
-          "rushing": 0.311,
+          "total": 0.235,
+          "quarter1": 0.055,
+          "quarter2": 0.415,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0.286,
+          "passing": -0.124
+        },
+        "cumulative": {
+          "total": 1.9,
+          "quarter1": 0.2,
+          "quarter2": 1.7,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 2,
+          "passing": -0.1
+        }
+      },
+      {
+        "player": "Jaiden Credle",
+        "team": "Middle Tennessee",
+        "position": "RB",
+        "average": {
+          "total": 0.415,
+          "quarter1": 1.029,
+          "quarter2": 0.005,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": -0.17,
+          "passing": 0.804
+        },
+        "cumulative": {
+          "total": 2.1,
+          "quarter1": 2.1,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": -0.3,
+          "passing": 2.4
+        }
+      },
+      {
+        "player": "Jeremy Tate Jr.",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "average": {
+          "total": -0.273,
+          "quarter1": -0.144,
+          "quarter2": -0.317,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -0.273
+        },
+        "cumulative": {
+          "total": -1.1,
+          "quarter1": -0.1,
+          "quarter2": -0.9,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -1.1
+        }
+      },
+      {
+        "player": "Jekail Middlebrook",
+        "team": "Middle Tennessee",
+        "position": "RB",
+        "average": {
+          "total": 0.226,
+          "quarter1": 0,
+          "quarter2": 0.226,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0.226,
           "passing": 0
         },
         "cumulative": {
-          "total": 2.5,
-          "quarter1": 2.5,
-          "quarter2": 0,
-          "quarter3": -0.4,
-          "quarter4": 0.3,
-          "rushing": 2.5,
+          "total": 0.9,
+          "quarter1": 0,
+          "quarter2": 0.9,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0.9,
           "passing": 0
         }
       },
       {
-        "player": "Ja'Varrius Johnson",
-        "team": "Auburn",
+        "player": "DJ England-Chisolm",
+        "team": "Middle Tennessee",
         "position": "WR",
         "average": {
-          "total": 2.34,
-          "quarter1": 0,
-          "quarter2": 2.243,
-          "quarter3": 2.406,
+          "total": 0.052,
+          "quarter1": -0.375,
+          "quarter2": 0.479,
+          "quarter3": 0,
           "quarter4": 0,
-          "rushing": 2.53,
-          "passing": 2.293
+          "rushing": 0,
+          "passing": 0.052
         },
         "cumulative": {
-          "total": 11.7,
-          "quarter1": 0,
-          "quarter2": 4.5,
-          "quarter3": 7.2,
+          "total": 0.2,
+          "quarter1": -0.7,
+          "quarter2": 1,
+          "quarter3": 0,
           "quarter4": 0,
-          "rushing": 2.5,
-          "passing": 9.2
+          "rushing": 0,
+          "passing": 0.2
         }
       },
       {
@@ -601,22 +684,114 @@
         "team": "Alabama",
         "position": "WR",
         "average": {
-          "total": 1.864,
-          "quarter1": 1.508,
-          "quarter2": 0,
-          "quarter3": 0.551,
-          "quarter4": 3.356,
+          "total": 1.689,
+          "quarter1": 1.817,
+          "quarter2": 1.561,
+          "quarter3": 0,
+          "quarter4": 0,
           "rushing": 0,
-          "passing": 1.864
+          "passing": 1.689
         },
         "cumulative": {
-          "total": 9.3,
-          "quarter1": 1.5,
-          "quarter2": 0,
-          "quarter3": 1.1,
-          "quarter4": 6.7,
+          "total": 6.8,
+          "quarter1": 3.6,
+          "quarter2": 3.1,
+          "quarter3": 0,
+          "quarter4": 0,
           "rushing": 0,
-          "passing": 9.3
+          "passing": 6.8
+        }
+      },
+      {
+        "player": "Kobe Prentice",
+        "team": "Alabama",
+        "position": "WR",
+        "average": {
+          "total": -0.229,
+          "quarter1": -0.28,
+          "quarter2": -0.211,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -0.229
+        },
+        "cumulative": {
+          "total": -0.9,
+          "quarter1": -0.3,
+          "quarter2": -0.6,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -0.9
+        }
+      },
+      {
+        "player": "Frank Peasant",
+        "team": "Middle Tennessee",
+        "position": "RB",
+        "average": {
+          "total": 0.427,
+          "quarter1": -0.066,
+          "quarter2": 0.673,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 1.365,
+          "passing": -0.042
+        },
+        "cumulative": {
+          "total": 1.3,
+          "quarter1": -0.1,
+          "quarter2": 1.3,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 1.4,
+          "passing": -0.1
+        }
+      },
+      {
+        "player": "Javonte Sherman",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "average": {
+          "total": -0.137,
+          "quarter1": -0.224,
+          "quarter2": -0.049,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -0.137
+        },
+        "cumulative": {
+          "total": -0.3,
+          "quarter1": -0.2,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -0.3
+        }
+      },
+      {
+        "player": "Elijah Metcalf",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "average": {
+          "total": 0.093,
+          "quarter1": 0.093,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 0.093
+        },
+        "cumulative": {
+          "total": 0.2,
+          "quarter1": 0.2,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 0.2
         }
       },
       {
@@ -624,137 +799,22 @@
         "team": "Alabama",
         "position": "WR",
         "average": {
-          "total": 1.924,
-          "quarter1": 0.725,
-          "quarter2": 5.519,
-          "quarter3": 0,
+          "total": 3.109,
+          "quarter1": 0.642,
+          "quarter2": 0,
+          "quarter3": 5.576,
           "quarter4": 0,
           "rushing": 0,
-          "passing": 1.924
+          "passing": 3.109
         },
         "cumulative": {
-          "total": 7.7,
-          "quarter1": 2.2,
-          "quarter2": 5.5,
-          "quarter3": 0,
-          "quarter4": 0,
-          "rushing": 0,
-          "passing": 7.7
-        }
-      },
-      {
-        "player": "Robby Ashford",
-        "team": "Auburn",
-        "position": "QB",
-        "average": {
-          "total": -0.622,
-          "quarter1": 0,
+          "total": 6.2,
+          "quarter1": 0.6,
           "quarter2": 0,
-          "quarter3": -0.052,
-          "quarter4": -0.907,
-          "rushing": -0.687,
-          "passing": -0.491
-        },
-        "cumulative": {
-          "total": -1.9,
-          "quarter1": 0,
-          "quarter2": 0,
-          "quarter3": -0.1,
-          "quarter4": -1.8,
-          "rushing": -1.4,
-          "passing": -0.5
-        }
-      },
-      {
-        "player": "Kendrick Law",
-        "team": "Alabama",
-        "position": "WR",
-        "average": {
-          "total": -0.02,
-          "quarter1": -0.19,
-          "quarter2": 0,
-          "quarter3": 0.32,
+          "quarter3": 5.6,
           "quarter4": 0,
           "rushing": 0,
-          "passing": -0.02
-        },
-        "cumulative": {
-          "total": -0.1,
-          "quarter1": -0.4,
-          "quarter2": 0,
-          "quarter3": 0.3,
-          "quarter4": 0,
-          "rushing": 0,
-          "passing": -0.1
-        }
-      },
-      {
-        "player": "Jamarion Miller",
-        "team": "Alabama",
-        "position": "RB",
-        "average": {
-          "total": 0.191,
-          "quarter1": 0.191,
-          "quarter2": 0,
-          "quarter3": 0,
-          "quarter4": 0,
-          "rushing": 0.191,
-          "passing": 0
-        },
-        "cumulative": {
-          "total": 0.4,
-          "quarter1": 0.4,
-          "quarter2": 0,
-          "quarter3": 0,
-          "quarter4": 0,
-          "rushing": 0.4,
-          "passing": 0
-        }
-      },
-      {
-        "player": "Amari Niblack",
-        "team": "Alabama",
-        "position": "TE",
-        "average": {
-          "total": 1.047,
-          "quarter1": 0,
-          "quarter2": 0.481,
-          "quarter3": 1.612,
-          "quarter4": 0,
-          "rushing": 0,
-          "passing": 1.047
-        },
-        "cumulative": {
-          "total": 2.1,
-          "quarter1": 0,
-          "quarter2": 0.5,
-          "quarter3": 1.6,
-          "quarter4": 0,
-          "rushing": 0,
-          "passing": 2.1
-        }
-      },
-      {
-        "player": "Caleb Burton",
-        "team": "Auburn",
-        "position": "WR",
-        "average": {
-          "total": 2.447,
-          "quarter1": 0,
-          "quarter2": 2.447,
-          "quarter3": 0,
-          "quarter4": 0,
-          "rushing": 0,
-          "passing": 2.447
-        },
-        "cumulative": {
-          "total": 2.4,
-          "quarter1": 0,
-          "quarter2": 2.4,
-          "quarter3": 0,
-          "quarter4": 0,
-          "rushing": 0,
-          "passing": 2.4
+          "passing": 6.2
         }
       },
       {
@@ -762,22 +822,137 @@
         "team": "Alabama",
         "position": "WR",
         "average": {
-          "total": 4.174,
-          "quarter1": 4.174,
-          "quarter2": 0,
+          "total": -0.022,
+          "quarter1": 0,
+          "quarter2": -0.022,
           "quarter3": 0,
           "quarter4": 0,
           "rushing": 0,
-          "passing": 4.174
+          "passing": -0.022
         },
         "cumulative": {
-          "total": 4.2,
-          "quarter1": 4.2,
+          "total": 0,
+          "quarter1": 0,
           "quarter2": 0,
           "quarter3": 0,
           "quarter4": 0,
           "rushing": 0,
-          "passing": 4.2
+          "passing": 0
+        }
+      },
+      {
+        "player": "Justin Olson",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "average": {
+          "total": 0.836,
+          "quarter1": 0.836,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 0.836
+        },
+        "cumulative": {
+          "total": 0.8,
+          "quarter1": 0.8,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 0.8
+        }
+      },
+      {
+        "player": "Kalani Norris",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "average": {
+          "total": -0.668,
+          "quarter1": 0,
+          "quarter2": -0.668,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -0.668
+        },
+        "cumulative": {
+          "total": -0.7,
+          "quarter1": 0,
+          "quarter2": -0.7,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": -0.7
+        }
+      },
+      {
+        "player": "Bryce Bailey",
+        "team": "Middle Tennessee",
+        "position": "WR",
+        "average": {
+          "total": 2.885,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 2.885,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 2.885
+        },
+        "cumulative": {
+          "total": 2.9,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 2.9,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 2.9
+        }
+      },
+      {
+        "player": "C.J. Dippre",
+        "team": "Alabama",
+        "position": "TE",
+        "average": {
+          "total": 0.084,
+          "quarter1": 0.084,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 0.084
+        },
+        "cumulative": {
+          "total": 0.1,
+          "quarter1": 0.1,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 0.1
+        }
+      },
+      {
+        "player": "Jamarion Miller",
+        "team": "Alabama",
+        "position": "RB",
+        "average": {
+          "total": -0.621,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": -0.621,
+          "quarter4": 0,
+          "rushing": -0.621,
+          "passing": 0
+        },
+        "cumulative": {
+          "total": -0.6,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": -0.6,
+          "quarter4": 0,
+          "rushing": -0.6,
+          "passing": 0
         }
       }
     ]

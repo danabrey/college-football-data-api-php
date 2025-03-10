@@ -44,7 +44,7 @@ class CollegeFootballData
     
     protected function request(string $path, ?string $queryString = null)
     {
-        $response = $this->client->request('GET', 'https://api.collegefootballdata.com/' . $path . $queryString, [
+        $response = $this->client->request('GET', 'https://apinext.collegefootballdata.com/' . $path . $queryString, [
             'headers' => [
                 'Authorization' => 'Bearer ' . $this->apiToken,
             ],

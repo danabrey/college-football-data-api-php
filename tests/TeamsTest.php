@@ -22,10 +22,10 @@ class TeamsTest extends TestCase
         
         $teams = $testApi->teams();
         
-        self::assertSame('https://api.collegefootballdata.com/teams', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/teams', $mockResponse->getRequestUrl());
         
         $this->assertIsArray($teams);
-        $this->assertCount(1818, $teams);
+        $this->assertCount(674, $teams);
         
         $this->assertInstanceOf(Team::class, $teams[0]);
     }
@@ -41,6 +41,6 @@ class TeamsTest extends TestCase
         $parameters = new TeamsParameters(conference: 'SEC');
         $teams = $testApi->teams($parameters);
 
-        self::assertSame('https://api.collegefootballdata.com/teams?conference=SEC', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/teams?conference=SEC', $mockResponse->getRequestUrl());
     }
 }

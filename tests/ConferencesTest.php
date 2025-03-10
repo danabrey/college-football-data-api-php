@@ -21,7 +21,7 @@ class ConferencesTest extends TestCase
 
         $conferences = $testApi->conferences();
         
-        self::assertSame('https://api.collegefootballdata.com/conferences', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/conferences', $mockResponse->getRequestUrl());
         
         $this->assertIsArray($conferences);
         $this->assertCount(105, $conferences);
@@ -30,7 +30,7 @@ class ConferencesTest extends TestCase
         
         $this->assertEquals('1', $conferences[0]->id);
         $this->assertEquals('ACC', $conferences[0]->name);
-        $this->assertEquals('Atlantic Coast Conference', $conferences[0]->short_name);
+        $this->assertEquals('Atlantic Coast Conference', $conferences[0]->shortName);
         $this->assertEquals('ACC', $conferences[0]->abbreviation);
         $this->assertEquals('fbs', $conferences[0]->classification);
 

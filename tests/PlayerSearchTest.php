@@ -21,7 +21,7 @@ class PlayerSearchTest extends TestCase
         
         $playerSearchResults = $testApi->playerSearch(new PlayerSearchParameters('Joe Burrow'));
         
-        self::assertSame('https://api.collegefootballdata.com/player/search?searchTerm=Joe%20Burrow', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/player/search?searchTerm=Joe%20Burrow', $mockResponse->getRequestUrl());
         
         $this->assertIsArray($playerSearchResults);
         $this->assertCount(100, $playerSearchResults);
@@ -37,15 +37,15 @@ class PlayerSearchTest extends TestCase
         $this->assertEquals(74, $playerSearchResults[0]->height);
         $this->assertEquals(1, $playerSearchResults[0]->jersey);
         $this->assertEquals('S', $playerSearchResults[0]->position);
-        $this->assertEquals('Port Gibson, MS', $playerSearchResults[0]->hometown);
+        $this->assertEquals('Port Gibson', $playerSearchResults[0]->hometown);
         $this->assertEquals('#790000', $playerSearchResults[0]->teamColor);
         $this->assertEquals('#ffffff', $playerSearchResults[0]->teamColorSecondary);
     }
 
     /**
-     * @testWith ["position", "QB", "https://api.collegefootballdata.com/player/search?searchTerm=Joe%20Burrow&position=QB"]
-     *           ["team", "LSU", "https://api.collegefootballdata.com/player/search?searchTerm=Joe%20Burrow&team=LSU"]
-     *           ["year", 2020, "https://api.collegefootballdata.com/player/search?searchTerm=Joe%20Burrow&year=2020"]
+     * @testWith ["position", "QB", "https://apinext.collegefootballdata.com/player/search?searchTerm=Joe%20Burrow&position=QB"]
+     *           ["team", "LSU", "https://apinext.collegefootballdata.com/player/search?searchTerm=Joe%20Burrow&team=LSU"]
+     *           ["year", 2020, "https://apinext.collegefootballdata.com/player/search?searchTerm=Joe%20Burrow&year=2020"]
      */
     public function test_player_search_filter($key, $value, $url)
     {

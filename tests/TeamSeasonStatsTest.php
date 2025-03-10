@@ -19,7 +19,7 @@ class TeamSeasonStatsTest extends TestCase
             year: 2023,
         ));
         
-        self::assertSame('https://api.collegefootballdata.com/stats/season?year=2023', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/stats/season?year=2023', $mockResponse->getRequestUrl());
         
         $this->assertIsArray($teamSeasonStats);
         $this->assertCount(32, $teamSeasonStats);
@@ -32,13 +32,13 @@ class TeamSeasonStatsTest extends TestCase
         $this->assertEquals(2023, $teamSeasonStat->season);
         $this->assertEquals('Alabama', $teamSeasonStat->team);
         $this->assertEquals('SEC', $teamSeasonStat->conference);
-        $this->assertEquals('turnovers', $teamSeasonStat->statName);
-        $this->assertEquals(11, $teamSeasonStat->statValue);
+        $this->assertEquals('fumblesLost', $teamSeasonStat->statName);
+        $this->assertEquals(5, $teamSeasonStat->statValue);
     }
 
     /**
-     * @testWith ["team", "Florida", "https://api.collegefootballdata.com/stats/season?year=2023&team=Florida"]
-     *           ["conference", "SEC", "https://api.collegefootballdata.com/stats/season?year=2023&conference=SEC"]
+     * @testWith ["team", "Florida", "https://apinext.collegefootballdata.com/stats/season?year=2023&team=Florida"]
+     *           ["conference", "SEC", "https://apinext.collegefootballdata.com/stats/season?year=2023&conference=SEC"]
      */
     public function test_team_season_stats_filter($key, $value, $url)
     {

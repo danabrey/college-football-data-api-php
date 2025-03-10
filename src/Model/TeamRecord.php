@@ -10,7 +10,7 @@ class TeamRecord
         public string $team,
         public string $conference,
         public string $division,
-        public float $expectedWins,
+        public ?float $expectedWins,
         public array $total,
         public array $conferenceGames,
         public array $homeGames,

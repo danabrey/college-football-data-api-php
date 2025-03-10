@@ -6,8 +6,8 @@ class Player
 {
     public function __construct(
         public readonly int $id,
-        public readonly string $first_name,
-        public readonly string $last_name,
+        public readonly string $firstName,
+        public readonly string $lastName,
         public readonly string $team,
         public readonly ?int $height,
         public readonly ?int $weight,
@@ -20,6 +20,6 @@ class Player
         public readonly ?float $home_latitude,
         public readonly ?float $home_longitude,
         public readonly ?string $home_county_fips,
-        public readonly array $recruit_ids,
+        public readonly array $recruitIds,
     ) {}
 }

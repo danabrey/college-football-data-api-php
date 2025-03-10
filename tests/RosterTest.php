@@ -21,7 +21,7 @@ class RosterTest extends TestCase
         
         $roster = $testApi->roster();
         
-        self::assertSame('https://api.collegefootballdata.com/roster', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/roster', $mockResponse->getRequestUrl());
         
         $this->assertIsArray($roster);
         $this->assertCount(138, $roster);
@@ -40,6 +40,6 @@ class RosterTest extends TestCase
         $parameters = new RosterParameters(team: 'Alabama');
         $teams = $testApi->roster($parameters);
 
-        self::assertSame('https://api.collegefootballdata.com/roster?team=Alabama', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/roster?team=Alabama', $mockResponse->getRequestUrl());
     }
 }

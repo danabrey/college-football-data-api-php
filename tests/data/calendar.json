@@ -1,149 +1,146 @@
 [
   {
-    "season": "2023",
+    "season": 2023,
     "week": 1,
     "seasonType": "regular",
-    "firstGameStart": "2023-08-26T17:00:00.000Z",
-    "lastGameStart": "2023-09-05T00:00:00.000Z"
+    "startDate": "2023-08-26T07:00:00.000Z",
+    "endDate": "2023-09-05T06:59:00.000Z",
+    "firstGameStart": "2023-08-26T07:00:00.000Z",
+    "lastGameStart": "2023-09-05T06:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 2,
     "seasonType": "regular",
-    "firstGameStart": "2023-09-07T22:00:00.000Z",
-    "lastGameStart": "2023-09-10T03:59:00.000Z"
+    "startDate": "2023-09-05T07:00:00.000Z",
+    "endDate": "2023-09-11T06:59:00.000Z",
+    "firstGameStart": "2023-09-05T07:00:00.000Z",
+    "lastGameStart": "2023-09-11T06:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 3,
     "seasonType": "regular",
-    "firstGameStart": "2023-09-14T23:30:00.000Z",
-    "lastGameStart": "2023-09-17T03:00:00.000Z"
+    "startDate": "2023-09-11T07:00:00.000Z",
+    "endDate": "2023-09-18T06:59:00.000Z",
+    "firstGameStart": "2023-09-11T07:00:00.000Z",
+    "lastGameStart": "2023-09-18T06:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 4,
     "seasonType": "regular",
-    "firstGameStart": "2023-09-21T23:00:00.000Z",
-    "lastGameStart": "2023-09-24T18:00:00.000Z"
+    "startDate": "2023-09-18T07:00:00.000Z",
+    "endDate": "2023-09-25T06:59:00.000Z",
+    "firstGameStart": "2023-09-18T07:00:00.000Z",
+    "lastGameStart": "2023-09-25T06:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 5,
     "seasonType": "regular",
-    "firstGameStart": "2023-09-28T23:30:00.000Z",
-    "lastGameStart": "2023-10-01T02:30:00.000Z"
+    "startDate": "2023-09-25T07:00:00.000Z",
+    "endDate": "2023-10-02T06:59:00.000Z",
+    "firstGameStart": "2023-09-25T07:00:00.000Z",
+    "lastGameStart": "2023-10-02T06:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 6,
     "seasonType": "regular",
-    "firstGameStart": "2023-10-05T00:00:00.000Z",
-    "lastGameStart": "2023-10-08T02:30:00.000Z"
+    "startDate": "2023-10-02T07:00:00.000Z",
+    "endDate": "2023-10-09T06:59:00.000Z",
+    "firstGameStart": "2023-10-02T07:00:00.000Z",
+    "lastGameStart": "2023-10-09T06:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 7,
     "seasonType": "regular",
-    "firstGameStart": "2023-10-10T23:00:00.000Z",
-    "lastGameStart": "2023-10-15T03:00:00.000Z"
+    "startDate": "2023-10-09T07:00:00.000Z",
+    "endDate": "2023-10-16T06:59:00.000Z",
+    "firstGameStart": "2023-10-09T07:00:00.000Z",
+    "lastGameStart": "2023-10-16T06:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 8,
     "seasonType": "regular",
-    "firstGameStart": "2023-10-17T23:00:00.000Z",
-    "lastGameStart": "2023-10-22T02:30:00.000Z"
+    "startDate": "2023-10-16T07:00:00.000Z",
+    "endDate": "2023-10-23T06:59:00.000Z",
+    "firstGameStart": "2023-10-16T07:00:00.000Z",
+    "lastGameStart": "2023-10-23T06:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 9,
     "seasonType": "regular",
-    "firstGameStart": "2023-10-24T23:00:00.000Z",
-    "lastGameStart": "2023-10-30T19:00:00.000Z"
+    "startDate": "2023-10-23T07:00:00.000Z",
+    "endDate": "2023-10-30T06:59:00.000Z",
+    "firstGameStart": "2023-10-23T07:00:00.000Z",
+    "lastGameStart": "2023-10-30T06:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 10,
     "seasonType": "regular",
-    "firstGameStart": "2023-10-31T23:00:00.000Z",
-    "lastGameStart": "2023-11-05T02:30:00.000Z"
+    "startDate": "2023-10-30T07:00:00.000Z",
+    "endDate": "2023-11-06T07:59:00.000Z",
+    "firstGameStart": "2023-10-30T07:00:00.000Z",
+    "lastGameStart": "2023-11-06T07:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 11,
     "seasonType": "regular",
-    "firstGameStart": "2023-11-08T00:00:00.000Z",
-    "lastGameStart": "2023-11-12T20:00:00.000Z"
+    "startDate": "2023-11-06T08:00:00.000Z",
+    "endDate": "2023-11-13T07:59:00.000Z",
+    "firstGameStart": "2023-11-06T08:00:00.000Z",
+    "lastGameStart": "2023-11-13T07:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 12,
     "seasonType": "regular",
-    "firstGameStart": "2023-11-15T00:00:00.000Z",
-    "lastGameStart": "2023-11-19T03:30:00.000Z"
+    "startDate": "2023-11-13T08:00:00.000Z",
+    "endDate": "2023-11-20T07:59:00.000Z",
+    "firstGameStart": "2023-11-13T08:00:00.000Z",
+    "lastGameStart": "2023-11-20T07:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 13,
     "seasonType": "regular",
-    "firstGameStart": "2023-11-22T00:00:00.000Z",
-    "lastGameStart": "2023-11-26T04:00:00.000Z"
+    "startDate": "2023-11-20T08:00:00.000Z",
+    "endDate": "2023-11-27T07:59:00.000Z",
+    "firstGameStart": "2023-11-20T08:00:00.000Z",
+    "lastGameStart": "2023-11-27T07:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 14,
     "seasonType": "regular",
-    "firstGameStart": "2023-12-02T00:00:00.000Z",
-    "lastGameStart": "2023-12-03T01:00:00.000Z"
+    "startDate": "2023-11-27T08:00:00.000Z",
+    "endDate": "2023-12-04T07:59:00.000Z",
+    "firstGameStart": "2023-11-27T08:00:00.000Z",
+    "lastGameStart": "2023-12-04T07:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 15,
     "seasonType": "regular",
-    "firstGameStart": "2023-12-09T20:00:00.000Z",
-    "lastGameStart": "2023-12-09T20:00:00.000Z"
+    "startDate": "2023-12-04T08:00:00.000Z",
+    "endDate": "2023-12-11T07:59:00.000Z",
+    "firstGameStart": "2023-12-04T08:00:00.000Z",
+    "lastGameStart": "2023-12-11T07:59:00.000Z"
   },
   {
-    "season": "2023",
+    "season": 2023,
     "week": 1,
     "seasonType": "postseason",
-    "firstGameStart": "2023-12-16T00:00:00.000Z",
-    "lastGameStart": "2024-01-09T00:30:00.000Z"
-  },
-  {
-    "season": "2023",
-    "week": 11,
-    "seasonType": "postseason",
-    "firstGameStart": "2023-11-11T17:00:00.000Z",
-    "lastGameStart": "2023-11-11T21:00:00.000Z"
-  },
-  {
-    "season": "2023",
-    "week": 12,
-    "seasonType": "postseason",
-    "firstGameStart": "2023-11-18T17:00:00.000Z",
-    "lastGameStart": "2023-11-18T20:00:00.000Z"
-  },
-  {
-    "season": "2023",
-    "week": 13,
-    "seasonType": "postseason",
-    "firstGameStart": "2023-11-25T17:00:00.000Z",
-    "lastGameStart": "2023-11-25T22:00:00.000Z"
-  },
-  {
-    "season": "2023",
-    "week": 14,
-    "seasonType": "postseason",
-    "firstGameStart": "2023-12-02T17:00:00.000Z",
-    "lastGameStart": "2023-12-03T03:00:00.000Z"
-  },
-  {
-    "season": "2023",
-    "week": 15,
-    "seasonType": "postseason",
-    "firstGameStart": "2023-12-09T02:00:00.000Z",
-    "lastGameStart": "2023-12-10T03:00:00.000Z"
+    "startDate": "2023-12-11T08:00:00.000Z",
+    "endDate": "2024-01-10T07:59:00.000Z",
+    "firstGameStart": "2023-12-11T08:00:00.000Z",
+    "lastGameStart": "2024-01-10T07:59:00.000Z"
   }
 ]

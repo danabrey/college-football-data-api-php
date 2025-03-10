@@ -3,17 +3,17 @@
     "season": 2023,
     "team": "Alabama",
     "conference": "SEC",
-    "totalPPA": 236.2,
-    "totalPassingPPA": 23.9,
-    "totalReceivingPPA": 158.8,
-    "totalRushingPPA": 53.4,
+    "totalPPA": "236.2",
+    "totalPassingPPA": "23.9",
+    "totalReceivingPPA": "158.8",
+    "totalRushingPPA": "53.4",
     "percentPPA": 0.396,
     "percentPassingPPA": 0.131,
     "percentReceivingPPA": 0.515,
     "percentRushingPPA": 0.507,
-    "usage": 0.388,
-    "passingUsage": 0.147,
-    "receivingUsage": 0.494,
-    "rushingUsage": 0.54
+    "usage": "0.388",
+    "passingUsage": "0.147",
+    "receivingUsage": "0.494",
+    "rushingUsage": "0.540"
   }
 ]

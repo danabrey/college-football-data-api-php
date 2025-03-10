@@ -19,10 +19,10 @@ class TeamRecordsTest extends TestCase
         
         $teamRecords = $testApi->teamRecords();
         
-        self::assertSame('https://api.collegefootballdata.com/records', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/records', $mockResponse->getRequestUrl());
         
         $this->assertIsArray($teamRecords);
-        $this->assertCount(133, $teamRecords);
+        $this->assertCount(665, $teamRecords);
         
         $this->assertInstanceOf(\DanAbrey\CollegeFootballDataApi\Model\TeamRecord::class, $teamRecords[0]);
         
@@ -33,7 +33,7 @@ class TeamRecordsTest extends TestCase
         $this->assertEquals('Auburn', $teamRecord->team);
         $this->assertEquals('SEC', $teamRecord->conference);
         $this->assertEquals('West', $teamRecord->division);
-        $this->assertEquals(6.4, $teamRecord->expectedWins);
+        $this->assertEquals(6.402269708738939, $teamRecord->expectedWins);
         $this->assertEquals(13, $teamRecord->total['games']);
         $this->assertEquals(6, $teamRecord->total['wins']);
         $this->assertEquals(7, $teamRecord->total['losses']);
@@ -53,9 +53,9 @@ class TeamRecordsTest extends TestCase
     }
 
     /**
-     * @testWith ["year", 2023, "https://api.collegefootballdata.com/records?year=2023"]
-     *           ["team", "Florida", "https://api.collegefootballdata.com/records?team=Florida"]
-     *           ["conference", "SEC", "https://api.collegefootballdata.com/records?conference=SEC"]
+     * @testWith ["year", 2023, "https://apinext.collegefootballdata.com/records?year=2023"]
+     *           ["team", "Florida", "https://apinext.collegefootballdata.com/records?team=Florida"]
+     *           ["conference", "SEC", "https://apinext.collegefootballdata.com/records?conference=SEC"]
      */
     public function test_team_records_filter($key, $value, $url)
     {

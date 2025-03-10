@@ -9,7 +9,7 @@
     "height": 74,
     "jersey": 1,
     "position": "S",
-    "hometown": "Port Gibson, MS",
+    "hometown": "Port Gibson",
     "teamColor": "#790000",
     "teamColorSecondary": "#ffffff"
   },
@@ -23,9 +23,9 @@
     "height": 74,
     "jersey": 1,
     "position": "S",
-    "hometown": "Port Gibson, MS",
-    "teamColor": "#762123",
-    "teamColorSecondary": "#c8c8c8"
+    "hometown": "Port Gibson",
+    "teamColor": "#5d1725",
+    "teamColorSecondary": "#c1c6c8"
   },
   {
     "id": "5095056",
@@ -37,9 +37,9 @@
     "height": 73,
     "jersey": 42,
     "position": "P",
-    "hometown": "Geelong, VIC",
-    "teamColor": "#ffc72c",
-    "teamColorSecondary": "#ae2531"
+    "hometown": "Geelong",
+    "teamColor": "#9e2237",
+    "teamColorSecondary": "#ffcc00"
   },
   {
     "id": "175404",
@@ -51,23 +51,37 @@
     "height": 71,
     "jersey": 2,
     "position": "DB",
-    "hometown": "Albany, GA",
-    "teamColor": "#03244d",
-    "teamColorSecondary": "#f1f2f3"
+    "hometown": "Albany",
+    "teamColor": "#002b5c",
+    "teamColorSecondary": "#f26522"
   },
   {
     "id": "5088335",
-    "team": "St Francis (PA)",
+    "team": "Central Michigan",
     "name": "Aakeem Snell",
     "firstName": "Aakeem",
     "lastName": "Snell",
-    "weight": 190,
+    "weight": 180,
     "height": 75,
-    "jersey": 13,
+    "jersey": 8,
     "position": "DB",
-    "hometown": "Penn Hills, PA",
+    "hometown": "Penn Hills",
+    "teamColor": "#6a0032",
+    "teamColorSecondary": "#ffc82e"
+  },
+  {
+    "id": "5088335",
+    "team": "St. Francis (PA)",
+    "name": "Aakeem Snell",
+    "firstName": "Aakeem",
+    "lastName": "Snell",
+    "weight": 180,
+    "height": 75,
+    "jersey": 8,
+    "position": "DB",
+    "hometown": "Penn Hills",
     "teamColor": "#a20012",
-    "teamColorSecondary": null
+    "teamColorSecondary": "#null"
   },
   {
     "id": "4608871",
@@ -75,13 +89,27 @@
     "name": "Aakil Washington",
     "firstName": "Aakil",
     "lastName": "Washington",
-    "weight": 235,
+    "weight": 234,
     "height": 74,
     "jersey": 10,
     "position": "LB",
-    "hometown": "Marietta, GA",
+    "hometown": "Marietta",
     "teamColor": "#071740",
     "teamColorSecondary": "#a61f21"
+  },
+  {
+    "id": "4608871",
+    "team": "South Alabama",
+    "name": "Aakil Washington",
+    "firstName": "Aakil",
+    "lastName": "Washington",
+    "weight": 234,
+    "height": 74,
+    "jersey": 10,
+    "position": "LB",
+    "hometown": "Marietta",
+    "teamColor": "#00205B",
+    "teamColorSecondary": "#BF0D3E"
   },
   {
     "id": "4596709",
@@ -93,7 +121,7 @@
     "height": 70,
     "jersey": 2,
     "position": "WR",
-    "hometown": "Valdosta, GA",
+    "hometown": "Valdosta",
     "teamColor": "#123297",
     "teamColorSecondary": "#b5b7ba"
   },
@@ -107,9 +135,9 @@
     "height": 70,
     "jersey": 2,
     "position": "WR",
-    "hometown": "Valdosta, GA",
+    "hometown": "Valdosta",
     "teamColor": "#00529C",
-    "teamColorSecondary": null
+    "teamColorSecondary": "#null"
   },
   {
     "id": "4887460",
@@ -121,8 +149,8 @@
     "height": 76,
     "jersey": 92,
     "position": "DL",
-    "hometown": "Mississauga, AB",
-    "teamColor": "#000000",
+    "hometown": "Mississauga",
+    "teamColor": "#null",
     "teamColorSecondary": "#8c6e4a"
   },
   {
@@ -135,9 +163,9 @@
     "height": 70,
     "jersey": 9,
     "position": "DB",
-    "hometown": "Tampa, FL",
-    "teamColor": "#633194",
-    "teamColorSecondary": "#e7d2ad"
+    "hometown": "Tampa",
+    "teamColor": "#3c0969",
+    "teamColorSecondary": "#e2e3e4"
   },
   {
     "id": "4565445",
@@ -149,7 +177,7 @@
     "height": 70,
     "jersey": 9,
     "position": "DB",
-    "hometown": "Tampa, FL",
+    "hometown": "Tampa",
     "teamColor": "#004A36",
     "teamColorSecondary": "#231f20"
   },
@@ -159,27 +187,27 @@
     "name": "Aamil Wagner",
     "firstName": "Aamil",
     "lastName": "Wagner",
-    "weight": 278,
+    "weight": 290,
     "height": 78,
     "jersey": 59,
     "position": "OL",
-    "hometown": "Yellow Springs, OH",
-    "teamColor": "#00122b",
-    "teamColorSecondary": "#ae9142"
+    "hometown": "Yellow Springs",
+    "teamColor": "#0c2340",
+    "teamColorSecondary": "#c99700"
   },
   {
     "id": "4696209",
-    "team": "Albany",
+    "team": "Michigan",
     "name": "Aamir Hall",
     "firstName": "Aamir",
     "lastName": "Hall",
-    "weight": 195,
-    "height": 74,
-    "jersey": 16,
+    "weight": 201,
+    "height": 73,
+    "jersey": 12,
     "position": "DB",
-    "hometown": "Baltimore, MD",
-    "teamColor": "#3D2777",
-    "teamColorSecondary": "#ffffff"
+    "hometown": "Baltimore",
+    "teamColor": "#00274c",
+    "teamColorSecondary": "#ffcb05"
   },
   {
     "id": "4696209",
@@ -187,13 +215,27 @@
     "name": "Aamir Hall",
     "firstName": "Aamir",
     "lastName": "Hall",
-    "weight": 195,
-    "height": 74,
-    "jersey": 16,
+    "weight": 201,
+    "height": 73,
+    "jersey": 12,
     "position": "DB",
-    "hometown": "Baltimore, MD",
+    "hometown": "Baltimore",
     "teamColor": "#9e0712",
     "teamColorSecondary": "#b90b2e"
+  },
+  {
+    "id": "4696209",
+    "team": "UAlbany",
+    "name": "Aamir Hall",
+    "firstName": "Aamir",
+    "lastName": "Hall",
+    "weight": 201,
+    "height": 73,
+    "jersey": 12,
+    "position": "DB",
+    "hometown": "Baltimore",
+    "teamColor": "#3D2777",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "-1043245",
@@ -205,7 +247,7 @@
     "height": null,
     "jersey": 5,
     "position": "?",
-    "hometown": ", ",
+    "hometown": "",
     "teamColor": "#F32026",
     "teamColorSecondary": "#b3b5b8"
   },
@@ -219,7 +261,7 @@
     "height": 75,
     "jersey": 83,
     "position": "WR",
-    "hometown": "Robesonia, PA",
+    "hometown": "Robesonia",
     "teamColor": "#0a5640",
     "teamColorSecondary": "#56854e"
   },
@@ -233,7 +275,7 @@
     "height": 69,
     "jersey": 22,
     "position": "CB",
-    "hometown": "Charlotte, NC",
+    "hometown": "Charlotte",
     "teamColor": "#041A9B",
     "teamColorSecondary": "#ebebeb"
   },
@@ -247,7 +289,7 @@
     "height": 69,
     "jersey": 22,
     "position": "CB",
-    "hometown": "Charlotte, NC",
+    "hometown": "Charlotte",
     "teamColor": "#4b1869",
     "teamColorSecondary": "#f0907b"
   },
@@ -261,9 +303,9 @@
     "height": 70,
     "jersey": 9,
     "position": "S",
-    "hometown": "Krum, TX",
-    "teamColor": "#4A2184",
-    "teamColorSecondary": "#909090"
+    "hometown": "Krum",
+    "teamColor": "#582c83",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "4879316",
@@ -275,9 +317,9 @@
     "height": 73,
     "jersey": 73,
     "position": "OL",
-    "hometown": "Cordova, TN",
+    "hometown": "Cordova",
     "teamColor": "#8e0b0b",
-    "teamColorSecondary": null
+    "teamColorSecondary": "#null"
   },
   {
     "id": "4259241",
@@ -289,8 +331,8 @@
     "height": 68,
     "jersey": 83,
     "position": "WR",
-    "hometown": "Altadena, CA",
-    "teamColor": "#003263",
+    "hometown": "Altadena",
+    "teamColor": "#00263a",
     "teamColorSecondary": "#949ca1"
   },
   {
@@ -303,9 +345,9 @@
     "height": 72,
     "jersey": null,
     "position": "RB",
-    "hometown": "Las Vegas, NV",
-    "teamColor": "#000000",
-    "teamColorSecondary": "#c2c4c6"
+    "hometown": "Las Vegas",
+    "teamColor": "#b10202",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "4770051",
@@ -317,7 +359,7 @@
     "height": 72,
     "jersey": 58,
     "position": "LS",
-    "hometown": "Patterson, LA",
+    "hometown": "Patterson",
     "teamColor": "#123297",
     "teamColorSecondary": "#b5b7ba"
   },
@@ -331,9 +373,9 @@
     "height": 75,
     "jersey": 57,
     "position": "OL",
-    "hometown": "Chicago, IL",
+    "hometown": "Chicago",
     "teamColor": "#8e0b0b",
-    "teamColorSecondary": null
+    "teamColorSecondary": "#null"
   },
   {
     "id": "4695677",
@@ -345,9 +387,9 @@
     "height": 75,
     "jersey": 57,
     "position": "OL",
-    "hometown": "Chicago, IL",
+    "hometown": "Chicago",
     "teamColor": "#6a0032",
-    "teamColorSecondary": "#ffffff"
+    "teamColorSecondary": "#ffc82e"
   },
   {
     "id": "550102",
@@ -359,9 +401,23 @@
     "height": 70,
     "jersey": 11,
     "position": "DB",
-    "hometown": "St. Louis, MO",
-    "teamColor": "#000000",
+    "hometown": "St. Louis",
+    "teamColor": "#f1b82d",
     "teamColorSecondary": "#000000"
+  },
+  {
+    "id": "5127026",
+    "team": "Rutgers",
+    "name": "Aaris Bethea",
+    "firstName": "Aaris",
+    "lastName": "Bethea",
+    "weight": 258,
+    "height": 74,
+    "jersey": 80,
+    "position": "DL",
+    "hometown": "Brooklyn",
+    "teamColor": "#d21034",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "3139532",
@@ -373,7 +429,7 @@
     "height": 72,
     "jersey": 41,
     "position": "DB",
-    "hometown": "Kettering, OH",
+    "hometown": "Kettering",
     "teamColor": "#00331b",
     "teamColorSecondary": "#f0f0f0"
   },
@@ -387,7 +443,7 @@
     "height": 72,
     "jersey": 90,
     "position": "DL",
-    "hometown": "Mount Laurel, NJ",
+    "hometown": "Mount Laurel",
     "teamColor": "#e53730",
     "teamColorSecondary": "#f0f0f0"
   },
@@ -401,9 +457,9 @@
     "height": 76,
     "jersey": 58,
     "position": "OL",
-    "hometown": "Gray, TN",
-    "teamColor": "#EE9627",
-    "teamColorSecondary": "#ffffff"
+    "hometown": "Gray",
+    "teamColor": "#ff8200",
+    "teamColorSecondary": "#58595b"
   },
   {
     "id": "4689811",
@@ -415,7 +471,7 @@
     "height": 68,
     "jersey": 22,
     "position": "RB",
-    "hometown": "West Palm Beach, FL",
+    "hometown": "West Palm Beach",
     "teamColor": "#ce9c00",
     "teamColorSecondary": "#231f20"
   },
@@ -429,7 +485,7 @@
     "height": 70,
     "jersey": 38,
     "position": "CB",
-    "hometown": "Worcester, MA",
+    "hometown": "Worcester",
     "teamColor": "#A80532",
     "teamColorSecondary": "#a7a9ac"
   },
@@ -443,9 +499,23 @@
     "height": 75,
     "jersey": 59,
     "position": "DT",
-    "hometown": "Okinawa, ",
-    "teamColor": "#ad000a",
-    "teamColorSecondary": "#cccccc"
+    "hometown": "Okinawa",
+    "teamColor": "#c9001f",
+    "teamColorSecondary": "#000000"
+  },
+  {
+    "id": "4869240",
+    "team": "Massachusetts",
+    "name": "Aaron Alexander",
+    "firstName": "Aaron",
+    "lastName": "Alexander",
+    "weight": 233,
+    "height": 73,
+    "jersey": 33,
+    "position": "LB",
+    "hometown": "Belleville",
+    "teamColor": "#971B2F",
+    "teamColorSecondary": "#B1B3B3"
   },
   {
     "id": "4869240",
@@ -453,27 +523,13 @@
     "name": "Aaron Alexander",
     "firstName": "Aaron",
     "lastName": "Alexander",
-    "weight": 225,
+    "weight": 233,
     "height": 73,
     "jersey": 33,
     "position": "LB",
-    "hometown": "Belleville, MI",
-    "teamColor": "#18453B",
+    "hometown": "Belleville",
+    "teamColor": "#18453b",
     "teamColorSecondary": "#ffffff"
-  },
-  {
-    "id": "4869240",
-    "team": "UMass",
-    "name": "Aaron Alexander",
-    "firstName": "Aaron",
-    "lastName": "Alexander",
-    "weight": 225,
-    "height": 73,
-    "jersey": 33,
-    "position": "LB",
-    "hometown": "Belleville, MI",
-    "teamColor": "#971B2F",
-    "teamColorSecondary": "#572932"
   },
   {
     "id": "4384187",
@@ -485,7 +541,7 @@
     "height": 73,
     "jersey": 4,
     "position": "QB",
-    "hometown": "Missouri City, TX",
+    "hometown": "Missouri City",
     "teamColor": "#4b0058",
     "teamColorSecondary": "#46166a"
   },
@@ -499,7 +555,7 @@
     "height": 73,
     "jersey": 4,
     "position": "QB",
-    "hometown": "Missouri City, TX",
+    "hometown": "Missouri City",
     "teamColor": "#002d65",
     "teamColorSecondary": "#d3313a"
   },
@@ -513,7 +569,7 @@
     "height": 72,
     "jersey": 54,
     "position": "LB",
-    "hometown": "Lexington, TX",
+    "hometown": "Lexington",
     "teamColor": "#4e1719",
     "teamColorSecondary": "#b4975a"
   },
@@ -527,9 +583,9 @@
     "height": 69,
     "jersey": 44,
     "position": "CB",
-    "hometown": "Los Angeles, CA",
-    "teamColor": "#002449",
-    "teamColorSecondary": "#00205b"
+    "hometown": "Los Angeles",
+    "teamColor": "#0c234b",
+    "teamColorSecondary": "#ab0520"
   },
   {
     "id": "-1039875",
@@ -541,9 +597,9 @@
     "height": 73,
     "jersey": 62,
     "position": "OL",
-    "hometown": "Kearns, UT",
-    "teamColor": "#890012",
-    "teamColorSecondary": "#7e8083"
+    "hometown": "Kearns",
+    "teamColor": "#ea002a",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "4691138",
@@ -551,13 +607,13 @@
     "name": "Aaron Anderson",
     "firstName": "Aaron",
     "lastName": "Anderson",
-    "weight": 190,
+    "weight": 185,
     "height": 68,
     "jersey": 1,
     "position": "WR",
-    "hometown": "New Orleans, LA",
-    "teamColor": "#690014",
-    "teamColorSecondary": "#f1f2f3"
+    "hometown": "New Orleans",
+    "teamColor": "#9e1632",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "4691138",
@@ -565,13 +621,13 @@
     "name": "Aaron Anderson",
     "firstName": "Aaron",
     "lastName": "Anderson",
-    "weight": 190,
+    "weight": 185,
     "height": 68,
     "jersey": 1,
     "position": "WR",
-    "hometown": "New Orleans, LA",
-    "teamColor": "#fdd023",
-    "teamColorSecondary": "#2b0d57"
+    "hometown": "New Orleans",
+    "teamColor": "#461d7c",
+    "teamColorSecondary": "#fdd023"
   },
   {
     "id": "5151235",
@@ -581,9 +637,9 @@
     "lastName": "Anderson Jr.",
     "weight": 180,
     "height": 71,
-    "jersey": 45,
+    "jersey": 33,
     "position": "CB",
-    "hometown": "Washington, DC",
+    "hometown": "Washington",
     "teamColor": "#A80532",
     "teamColorSecondary": "#a7a9ac"
   },
@@ -597,7 +653,7 @@
     "height": 74,
     "jersey": 90,
     "position": "DL",
-    "hometown": "Andrews, TX",
+    "hometown": "Andrews",
     "teamColor": "#003976",
     "teamColorSecondary": "#1b3069"
   },
@@ -611,7 +667,7 @@
     "height": 73,
     "jersey": 18,
     "position": "QB",
-    "hometown": "Philadelphia, PA",
+    "hometown": "Philadelphia",
     "teamColor": "#FF3630",
     "teamColorSecondary": "#009cdd"
   },
@@ -625,7 +681,7 @@
     "height": 73,
     "jersey": 18,
     "position": "QB",
-    "hometown": "Philadelphia, PA",
+    "hometown": "Philadelphia",
     "teamColor": "#790000",
     "teamColorSecondary": "#a59474"
   },
@@ -639,9 +695,9 @@
     "height": 73,
     "jersey": 18,
     "position": "QB",
-    "hometown": "Philadelphia, PA",
-    "teamColor": "#94022a",
-    "teamColorSecondary": "#6a747c"
+    "hometown": "Philadelphia",
+    "teamColor": "#981e32",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "-1039258",
@@ -653,7 +709,7 @@
     "height": 70,
     "jersey": 47,
     "position": "LB",
-    "hometown": "El Paso, TX",
+    "hometown": "El Paso",
     "teamColor": "#ff8200",
     "teamColorSecondary": "#041e42"
   },
@@ -667,8 +723,8 @@
     "height": 77,
     "jersey": 9,
     "position": "LB",
-    "hometown": "Ajax, ON",
-    "teamColor": "#A80532",
+    "hometown": "Ajax",
+    "teamColor": "#8c1515",
     "teamColorSecondary": "#ffffff"
   },
   {
@@ -681,9 +737,9 @@
     "height": 79,
     "jersey": 59,
     "position": "OL",
-    "hometown": "Minneapolis, MN",
-    "teamColor": "#000000",
-    "teamColorSecondary": null
+    "hometown": "Minneapolis",
+    "teamColor": "#null",
+    "teamColorSecondary": "#null"
   },
   {
     "id": "-1035263",
@@ -695,8 +751,8 @@
     "height": 74,
     "jersey": 43,
     "position": "LB",
-    "hometown": "Rockwall, TX",
-    "teamColor": "#5C0025",
+    "hometown": "Rockwall",
+    "teamColor": "#500000",
     "teamColorSecondary": "#ffffff"
   },
   {
@@ -709,7 +765,7 @@
     "height": 72,
     "jersey": 24,
     "position": "LB",
-    "hometown": "Chicago, IL",
+    "hometown": "Chicago",
     "teamColor": "#005485",
     "teamColorSecondary": "#bc0023"
   },
@@ -723,9 +779,9 @@
     "height": 71,
     "jersey": 20,
     "position": "LB",
-    "hometown": "Walnut, CA",
-    "teamColor": "#660015",
-    "teamColorSecondary": "#FDCA2F"
+    "hometown": "Walnut",
+    "teamColor": "#822433",
+    "teamColorSecondary": "#fdca2f"
   },
   {
     "id": "4870516",
@@ -737,13 +793,13 @@
     "height": 74,
     "jersey": 92,
     "position": "DL",
-    "hometown": "Fort Worth, TX",
-    "teamColor": "#d1c57e",
-    "teamColorSecondary": "#ffd200"
+    "hometown": "Fort Worth",
+    "teamColor": "#CFB87C",
+    "teamColorSecondary": "#000000"
   },
   {
     "id": "232357",
-    "team": "Connecticut",
+    "team": "UConn",
     "name": "Aaron Bagsby",
     "firstName": "Aaron",
     "lastName": "Bagsby",
@@ -751,8 +807,8 @@
     "height": 72,
     "jersey": 27,
     "position": "S",
-    "hometown": "Henderson, NV",
-    "teamColor": "#001d40",
+    "hometown": "Henderson",
+    "teamColor": "#0c2340",
     "teamColorSecondary": "#f1f2f3"
   },
   {
@@ -765,8 +821,8 @@
     "height": 69,
     "jersey": 41,
     "position": "WR",
-    "hometown": "Round Rock, TX",
-    "teamColor": "#000000",
+    "hometown": "Round Rock",
+    "teamColor": "#f1b82d",
     "teamColorSecondary": "#000000"
   },
   {
@@ -779,9 +835,9 @@
     "height": 74,
     "jersey": 15,
     "position": "QB",
-    "hometown": "Bolingbrook, IL",
-    "teamColor": "#13294B",
-    "teamColorSecondary": "#E84A27"
+    "hometown": "Bolingbrook",
+    "teamColor": "#ff5f05",
+    "teamColorSecondary": "#13294b"
   },
   {
     "id": "546062",
@@ -793,7 +849,7 @@
     "height": 74,
     "jersey": 15,
     "position": "QB",
-    "hometown": "Bolingbrook, IL",
+    "hometown": "Bolingbrook",
     "teamColor": "#473282",
     "teamColorSecondary": "#ffffff"
   },
@@ -807,9 +863,23 @@
     "height": 70,
     "jersey": 55,
     "position": "LB",
-    "hometown": "Pennsauken, NJ",
+    "hometown": "Pennsauken",
     "teamColor": "#d21034",
     "teamColorSecondary": "#ffffff"
+  },
+  {
+    "id": "5221304",
+    "team": "Illinois",
+    "name": "Aaron Ball",
+    "firstName": "Aaron",
+    "lastName": "Ball",
+    "weight": 185,
+    "height": 71,
+    "jersey": 25,
+    "position": "RB",
+    "hometown": "Chicago",
+    "teamColor": "#ff5f05",
+    "teamColorSecondary": "#13294b"
   },
   {
     "id": "546283",
@@ -821,9 +891,9 @@
     "height": 70,
     "jersey": 29,
     "position": "RB",
-    "hometown": "Chula Vista, CA",
-    "teamColor": "#09347A",
-    "teamColorSecondary": "#d8d9da"
+    "hometown": "Chula Vista",
+    "teamColor": "#0033a0",
+    "teamColorSecondary": "#fa4616"
   },
   {
     "id": "550848",
@@ -835,9 +905,9 @@
     "height": 75,
     "jersey": 11,
     "position": "LB",
-    "hometown": "Chicago, IL",
-    "teamColor": "#FE5000",
-    "teamColorSecondary": "#4F2C1D"
+    "hometown": "Chicago",
+    "teamColor": "#2b1000",
+    "teamColorSecondary": "#492000"
   },
   {
     "id": "3929897",
@@ -849,9 +919,9 @@
     "height": 76,
     "jersey": 19,
     "position": "QB",
-    "hometown": "Indianapolis, IN",
-    "teamColor": "#B89D29",
-    "teamColorSecondary": "#a4a9ad"
+    "hometown": "Indianapolis",
+    "teamColor": "#000000",
+    "teamColorSecondary": "#ceb888"
   },
   {
     "id": "4242390",
@@ -863,9 +933,9 @@
     "height": 77,
     "jersey": 69,
     "position": "OL",
-    "hometown": "Alameda, CA",
-    "teamColor": "#00122b",
-    "teamColorSecondary": "#ae9142"
+    "hometown": "Alameda",
+    "teamColor": "#0c2340",
+    "teamColorSecondary": "#c99700"
   },
   {
     "id": "4367326",
@@ -877,7 +947,7 @@
     "height": 71,
     "jersey": 8,
     "position": "DB",
-    "hometown": "Stephens City, VA",
+    "hometown": "Stephens City",
     "teamColor": "#9e0712",
     "teamColorSecondary": "#b90b2e"
   },
@@ -891,9 +961,9 @@
     "height": 73,
     "jersey": 67,
     "position": "DT",
-    "hometown": "Brookfield, WI",
-    "teamColor": "#FF6500",
-    "teamColorSecondary": "#ff9900"
+    "hometown": "Brookfield",
+    "teamColor": "#FF7300",
+    "teamColorSecondary": "#000000"
   },
   {
     "id": "238797",
@@ -905,8 +975,8 @@
     "height": 72,
     "jersey": 18,
     "position": "P",
-    "hometown": "New Concord, OH",
-    "teamColor": "#18453B",
+    "hometown": "New Concord",
+    "teamColor": "#18453b",
     "teamColorSecondary": "#ffffff"
   },
   {
@@ -919,7 +989,7 @@
     "height": 77,
     "jersey": 56,
     "position": "OL",
-    "hometown": "Anderson, IN",
+    "hometown": "Anderson",
     "teamColor": "#ce9c00",
     "teamColorSecondary": "#231f20"
   },
@@ -933,7 +1003,7 @@
     "height": 74,
     "jersey": 39,
     "position": "PK",
-    "hometown": "Orlando, FL",
+    "hometown": "Orlando",
     "teamColor": "#002148",
     "teamColorSecondary": "#000e00"
   },
@@ -947,13 +1017,13 @@
     "height": 73,
     "jersey": 6,
     "position": "LB",
-    "hometown": "Franklin, GA",
-    "teamColor": "#EE9627",
-    "teamColorSecondary": "#ffffff"
+    "hometown": "Franklin",
+    "teamColor": "#ff8200",
+    "teamColorSecondary": "#58595b"
   },
   {
     "id": "4576325",
-    "team": "UMass",
+    "team": "Massachusetts",
     "name": "Aaron Beckwith",
     "firstName": "Aaron",
     "lastName": "Beckwith",
@@ -961,9 +1031,9 @@
     "height": 76,
     "jersey": 44,
     "position": "DT",
-    "hometown": "Germantown, MD",
+    "hometown": "Germantown",
     "teamColor": "#971B2F",
-    "teamColorSecondary": "#572932"
+    "teamColorSecondary": "#B1B3B3"
   },
   {
     "id": "4428612",
@@ -975,7 +1045,7 @@
     "height": 68,
     "jersey": 82,
     "position": "WR",
-    "hometown": "Richmond Hill, GA",
+    "hometown": "Richmond Hill",
     "teamColor": "#007073",
     "teamColorSecondary": "#876447"
   },
@@ -989,7 +1059,7 @@
     "height": 68,
     "jersey": 82,
     "position": "WR",
-    "hometown": "Richmond Hill, GA",
+    "hometown": "Richmond Hill",
     "teamColor": "#071740",
     "teamColorSecondary": "#a61f21"
   },
@@ -1003,8 +1073,8 @@
     "height": 74,
     "jersey": 44,
     "position": "DE",
-    "hometown": "Everman, TX",
-    "teamColor": "#00853D",
+    "hometown": "Everman",
+    "teamColor": "#00853E",
     "teamColorSecondary": "#000000"
   },
   {
@@ -1017,9 +1087,9 @@
     "height": 72,
     "jersey": 54,
     "position": "LB",
-    "hometown": "Thibodaux, LA",
-    "teamColor": "#fdd023",
-    "teamColorSecondary": "#2b0d57"
+    "hometown": "Thibodaux",
+    "teamColor": "#461d7c",
+    "teamColorSecondary": "#fdd023"
   },
   {
     "id": "-1015396",
@@ -1031,9 +1101,9 @@
     "height": 79,
     "jersey": 64,
     "position": "OL",
-    "hometown": "Riverside, CA",
-    "teamColor": "#633194",
-    "teamColorSecondary": "#e7d2ad"
+    "hometown": "Riverside",
+    "teamColor": "#3c0969",
+    "teamColorSecondary": "#e2e3e4"
   },
   {
     "id": "-1034806",
@@ -1045,9 +1115,9 @@
     "height": 74,
     "jersey": 8,
     "position": "LB",
-    "hometown": "Cedar Hill, TX",
-    "teamColor": "#EE7524",
-    "teamColorSecondary": "#f0f0f0"
+    "hometown": "Cedar Hill",
+    "teamColor": "#c15d26",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "183275",
@@ -1059,7 +1129,7 @@
     "height": 71,
     "jersey": 17,
     "position": "DB",
-    "hometown": "Harrisburg, PA",
+    "hometown": "Harrisburg",
     "teamColor": "#003263",
     "teamColorSecondary": "#231f20"
   },
@@ -1073,9 +1143,9 @@
     "height": 75,
     "jersey": 88,
     "position": "TE",
-    "hometown": "Fort Lauderdale, FL",
-    "teamColor": "#4A2184",
-    "teamColorSecondary": "#909090"
+    "hometown": "Fort Lauderdale",
+    "teamColor": "#582c83",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "4689810",
@@ -1083,11 +1153,11 @@
     "name": "Aaron Bibbins",
     "firstName": "Aaron",
     "lastName": "Bibbins",
-    "weight": 195,
+    "weight": 194,
     "height": 73,
     "jersey": 9,
-    "position": "DB",
-    "hometown": "Kennesaw, GA",
+    "position": "S",
+    "hometown": "Kennesaw",
     "teamColor": "#ce9c00",
     "teamColorSecondary": "#231f20"
   },
@@ -1101,9 +1171,9 @@
     "height": 74,
     "jersey": 37,
     "position": "PK",
-    "hometown": "Bonita Springs, FL",
-    "teamColor": "#9e0b0e",
-    "teamColorSecondary": "#6b818d"
+    "hometown": "Bonita Springs",
+    "teamColor": "#003a63",
+    "teamColorSecondary": "#e51937"
   },
   {
     "id": "3124937",
@@ -1115,9 +1185,9 @@
     "height": 72,
     "jersey": 86,
     "position": "PK",
-    "hometown": "New Iberia, LA",
-    "teamColor": "#ce2842",
-    "teamColorSecondary": null
+    "hometown": "New Iberia",
+    "teamColor": "#ce181e",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "4261184",
@@ -1129,9 +1199,9 @@
     "height": 75,
     "jersey": 52,
     "position": "DL",
-    "hometown": "Peoria, AZ",
-    "teamColor": "#002449",
-    "teamColorSecondary": "#00205b"
+    "hometown": "Peoria",
+    "teamColor": "#0c234b",
+    "teamColorSecondary": "#ab0520"
   },
   {
     "id": "4261184",
@@ -1143,9 +1213,9 @@
     "height": 75,
     "jersey": 52,
     "position": "DL",
-    "hometown": "Peoria, AZ",
-    "teamColor": "#000000",
-    "teamColorSecondary": "#231f20"
+    "hometown": "Peoria",
+    "teamColor": "#BA0C2F",
+    "teamColorSecondary": "#a7a8aa"
   },
   {
     "id": "3138772",
@@ -1157,9 +1227,9 @@
     "height": 73,
     "jersey": 4,
     "position": "WR",
-    "hometown": "Sanford, NC",
-    "teamColor": "#000000",
-    "teamColorSecondary": null
+    "hometown": "Sanford",
+    "teamColor": "#null",
+    "teamColorSecondary": "#null"
   },
   {
     "id": "4686887",
@@ -1171,9 +1241,9 @@
     "height": 71,
     "jersey": 1,
     "position": "PK",
-    "hometown": "Oskaloosa, IA",
+    "hometown": "Oskaloosa",
     "teamColor": "#000000",
-    "teamColorSecondary": "#ffe100"
+    "teamColorSecondary": "#FFCD00"
   },
   {
     "id": "534186",
@@ -1185,9 +1255,9 @@
     "height": 77,
     "jersey": 87,
     "position": "TE",
-    "hometown": "Oak Harbor, WA",
-    "teamColor": "#BF2C37",
-    "teamColorSecondary": "#a8996e"
+    "hometown": "Oak Harbor",
+    "teamColor": "#c41230",
+    "teamColorSecondary": "#000000"
   },
   {
     "id": "4361949",
@@ -1199,9 +1269,9 @@
     "height": 71,
     "jersey": 46,
     "position": "LS",
-    "hometown": "Frackville, PA",
-    "teamColor": "#F37321",
-    "teamColorSecondary": "#0d1d37"
+    "hometown": "Frackville",
+    "teamColor": "#ff6500",
+    "teamColorSecondary": "#000e54"
   },
   {
     "id": "-1039994",
@@ -1213,9 +1283,9 @@
     "height": 72,
     "jersey": 34,
     "position": "LB",
-    "hometown": "Scottsdale, AZ",
-    "teamColor": "#890012",
-    "teamColorSecondary": "#7e8083"
+    "hometown": "Scottsdale",
+    "teamColor": "#ea002a",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "3122867",
@@ -1227,9 +1297,9 @@
     "height": 73,
     "jersey": 49,
     "position": "LB",
-    "hometown": "Scottsdale, AZ",
-    "teamColor": "#000000",
-    "teamColorSecondary": "#c2c4c6"
+    "hometown": "Scottsdale",
+    "teamColor": "#b10202",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "4044147",
@@ -1241,9 +1311,9 @@
     "height": 72,
     "jersey": 41,
     "position": "PK",
-    "hometown": "Philipsburg, PA",
-    "teamColor": "#88001a",
-    "teamColorSecondary": "#a39161"
+    "hometown": "Philipsburg",
+    "teamColor": "#8c2232",
+    "teamColorSecondary": "#dbcca6"
   },
   {
     "id": "4044147",
@@ -1255,7 +1325,7 @@
     "height": 72,
     "jersey": 41,
     "position": "PK",
-    "hometown": "Philipsburg, PA",
+    "hometown": "Philipsburg",
     "teamColor": "#A80532",
     "teamColorSecondary": "#a7a9ac"
   },
@@ -1269,8 +1339,8 @@
     "height": 76,
     "jersey": 27,
     "position": "WR",
-    "hometown": "Lexington, KY",
-    "teamColor": "#005DAA",
+    "hometown": "Lexington",
+    "teamColor": "#0033a0",
     "teamColorSecondary": "#ffffff"
   },
   {
@@ -1283,9 +1353,9 @@
     "height": 73,
     "jersey": 81,
     "position": "WR",
-    "hometown": "Cerritos, CA",
-    "teamColor": "#153E5F",
-    "teamColorSecondary": "#8e9295"
+    "hometown": "Cerritos",
+    "teamColor": "#002d62",
+    "teamColorSecondary": "#ffffff"
   },
   {
     "id": "3126046",
@@ -1297,7 +1367,7 @@
     "height": 73,
     "jersey": 89,
     "position": "WR",
-    "hometown": "Cerritos, CA",
+    "hometown": "Cerritos",
     "teamColor": "#295A29",
     "teamColorSecondary": "#e4bb85"
   },
@@ -1311,7 +1381,7 @@
     "height": 74,
     "jersey": 92,
     "position": "LB",
-    "hometown": "Loganville, GA",
+    "hometown": "Loganville",
     "teamColor": "#002b5c",
     "teamColorSecondary": "#f0f0f0"
   },
@@ -1325,78 +1395,8 @@
     "height": 73,
     "jersey": 4,
     "position": "DB",
-    "hometown": "Suwanee, GA",
+    "hometown": "Suwanee",
     "teamColor": "#174785",
     "teamColorSecondary": "#004b85"
-  },
-  {
-    "id": "4429304",
-    "team": "Utah State",
-    "name": "Aaron Bredsguard",
-    "firstName": "Aaron",
-    "lastName": "Bredsguard",
-    "weight": 275,
-    "height": 75,
-    "jersey": 55,
-    "position": "DT",
-    "hometown": "Bountiful, UT",
-    "teamColor": "#003263",
-    "teamColorSecondary": "#949ca1"
-  },
-  {
-    "id": "-1031176",
-    "team": "San Diego State",
-    "name": "Aaron Brewer",
-    "firstName": "Aaron",
-    "lastName": "Brewer",
-    "weight": 225,
-    "height": 77,
-    "jersey": 58,
-    "position": "LS",
-    "hometown": "Fullerton, CA",
-    "teamColor": "#BF2C37",
-    "teamColorSecondary": "#a8996e"
-  },
-  {
-    "id": "4040537",
-    "team": "Texas State",
-    "name": "Aaron Brewer",
-    "firstName": "Aaron",
-    "lastName": "Brewer",
-    "weight": 270,
-    "height": 75,
-    "jersey": 55,
-    "position": "OL",
-    "hometown": "Dallas, TX",
-    "teamColor": "#4e1719",
-    "teamColorSecondary": "#b4975a"
-  },
-  {
-    "id": "-1029416",
-    "team": "Pittsburgh",
-    "name": "Aaron Britton",
-    "firstName": "Aaron",
-    "lastName": "Britton",
-    "weight": 280,
-    "height": 77,
-    "jersey": 64,
-    "position": "OL",
-    "hometown": "Washington, PA",
-    "teamColor": "#003263",
-    "teamColorSecondary": "#231f20"
-  },
-  {
-    "id": "-1023824",
-    "team": "Nevada",
-    "name": "Aaron Brown",
-    "firstName": "Aaron",
-    "lastName": "Brown",
-    "weight": 185,
-    "height": 72,
-    "jersey": 36,
-    "position": "DB",
-    "hometown": "Corona, CA",
-    "teamColor": "#153E5F",
-    "teamColorSecondary": "#8e9295"
   }
 ]

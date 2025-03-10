@@ -8,7 +8,9 @@ class Week
         public int $season,
         public int $week,
         public string $seasonType,
+        public string $startDate,
+        public string $endDate,
         public string $firstGameStart,
-        public string $lastGameStart
+        public string $lastGameStart,
     ) {}
 }

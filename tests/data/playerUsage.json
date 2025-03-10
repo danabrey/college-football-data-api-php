@@ -7,14 +7,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.4955,
-      "pass": 0.8747,
-      "rush": 0.2259,
-      "firstDown": 0.4242,
-      "secondDown": 0.478,
-      "thirdDown": 0.672,
-      "standardDowns": 0.429,
-      "passingDowns": 0.648
+      "overall": "0.5380",
+      "pass": "0.9373",
+      "rush": "0.2549",
+      "firstDown": "0.4660",
+      "secondDown": "0.512",
+      "thirdDown": "0.728",
+      "standardDowns": "0.469",
+      "passingDowns": "0.700"
     }
   },
   {
@@ -25,14 +25,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.2239,
-      "pass": 0.0518,
-      "rush": 0.3497,
-      "firstDown": 0.2601,
-      "secondDown": 0.236,
-      "thirdDown": 0.133,
-      "standardDowns": 0.246,
-      "passingDowns": 0.152
+      "overall": "0.2327",
+      "pass": "0.0518",
+      "rush": "0.3647",
+      "firstDown": "0.2746",
+      "secondDown": "0.236",
+      "thirdDown": "0.144",
+      "standardDowns": "0.263",
+      "passingDowns": "0.152"
     }
   },
   {
@@ -43,14 +43,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.1398,
-      "pass": 0.0327,
-      "rush": 0.2181,
-      "firstDown": 0.1667,
-      "secondDown": 0.138,
-      "thirdDown": 0.078,
-      "standardDowns": 0.165,
-      "passingDowns": 0.078
+      "overall": "0.1464",
+      "pass": "0.0354",
+      "rush": "0.2275",
+      "firstDown": "0.1688",
+      "secondDown": "0.155",
+      "thirdDown": "0.078",
+      "standardDowns": "0.183",
+      "passingDowns": "0.081"
     }
   },
   {
@@ -61,14 +61,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0807,
-      "pass": 0.1907,
-      "rush": 0.002,
-      "firstDown": 0.0934,
-      "secondDown": 0.081,
-      "thirdDown": 0.044,
-      "standardDowns": 0.067,
-      "passingDowns": 0.07
+      "overall": "0.0851",
+      "pass": "0.2016",
+      "rush": "0.0020",
+      "firstDown": "0.0982",
+      "secondDown": "0.084",
+      "thirdDown": "0.044",
+      "standardDowns": "0.067",
+      "passingDowns": "0.078"
     }
   },
   {
@@ -79,14 +79,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0614,
-      "pass": 0.1444,
-      "rush": 0.002,
-      "firstDown": 0.0429,
-      "secondDown": 0.057,
-      "thirdDown": 0.106,
-      "standardDowns": 0.049,
-      "passingDowns": 0.096
+      "overall": "0.0715",
+      "pass": "0.1662",
+      "rush": "0.0039",
+      "firstDown": "0.0453",
+      "secondDown": "0.067",
+      "thirdDown": "0.133",
+      "standardDowns": "0.058",
+      "passingDowns": "0.119"
     }
   },
   {
@@ -97,14 +97,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0534,
-      "pass": 0.0163,
-      "rush": 0.0806,
-      "firstDown": 0.0682,
-      "secondDown": 0.044,
-      "thirdDown": 0.039,
-      "standardDowns": 0.076,
-      "passingDowns": 0.019
+      "overall": "0.0556",
+      "pass": "0.0191",
+      "rush": "0.0824",
+      "firstDown": "0.0730",
+      "secondDown": "0.044",
+      "thirdDown": "0.039",
+      "standardDowns": "0.080",
+      "passingDowns": "0.019"
     }
   },
   {
@@ -115,14 +115,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0375,
-      "pass": 0.0654,
-      "rush": 0.0177,
-      "firstDown": 0.0227,
-      "secondDown": 0.04,
-      "thirdDown": 0.067,
-      "standardDowns": 0.031,
-      "passingDowns": 0.063
+      "overall": "0.0397",
+      "pass": "0.0654",
+      "rush": "0.0216",
+      "firstDown": "0.0227",
+      "secondDown": "0.044",
+      "thirdDown": "0.072",
+      "standardDowns": "0.040",
+      "passingDowns": "0.063"
     }
   },
   {
@@ -133,14 +133,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0318,
-      "pass": 0.0763,
-      "rush": 0,
-      "firstDown": 0.0303,
-      "secondDown": 0.034,
-      "thirdDown": 0.033,
-      "standardDowns": 0.004,
-      "passingDowns": 0.056
+      "overall": "0.0363",
+      "pass": "0.0872",
+      "rush": "0.0000",
+      "firstDown": "0.0353",
+      "secondDown": "0.040",
+      "thirdDown": "0.033",
+      "standardDowns": "0.009",
+      "passingDowns": "0.059"
     }
   },
   {
@@ -151,14 +151,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0284,
-      "pass": 0,
-      "rush": 0.0491,
-      "firstDown": 0.0328,
-      "secondDown": 0.034,
-      "thirdDown": 0.011,
-      "standardDowns": 0.04,
-      "passingDowns": 0.015
+      "overall": "0.0306",
+      "pass": "0.0000",
+      "rush": "0.0529",
+      "firstDown": "0.0378",
+      "secondDown": "0.034",
+      "thirdDown": "0.011",
+      "standardDowns": "0.045",
+      "passingDowns": "0.015"
     }
   },
   {
@@ -169,32 +169,32 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0273,
-      "pass": 0.0654,
-      "rush": 0,
-      "firstDown": 0.0303,
-      "secondDown": 0.02,
-      "thirdDown": 0.033,
-      "standardDowns": 0.013,
-      "passingDowns": 0.033
+      "overall": "0.0295",
+      "pass": "0.0708",
+      "rush": "0.0000",
+      "firstDown": "0.0302",
+      "secondDown": "0.020",
+      "thirdDown": "0.044",
+      "standardDowns": "0.013",
+      "passingDowns": "0.041"
     }
   },
   {
     "season": 2023,
     "id": "4431513",
     "name": "Tyler Buchner",
-    "position": "QB",
+    "position": "WR",
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.025,
-      "pass": 0.0518,
-      "rush": 0.0059,
-      "firstDown": 0.0126,
-      "secondDown": 0.034,
-      "thirdDown": 0.039,
-      "standardDowns": 0.027,
-      "passingDowns": 0.041
+      "overall": "0.0261",
+      "pass": "0.0518",
+      "rush": "0.0078",
+      "firstDown": "0.0126",
+      "secondDown": "0.037",
+      "thirdDown": "0.039",
+      "standardDowns": "0.031",
+      "passingDowns": "0.041"
     }
   },
   {
@@ -205,14 +205,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0193,
-      "pass": 0.0463,
-      "rush": 0,
-      "firstDown": 0.0227,
-      "secondDown": 0.01,
-      "thirdDown": 0.022,
-      "standardDowns": 0.013,
-      "passingDowns": 0.019
+      "overall": "0.0204",
+      "pass": "0.0490",
+      "rush": "0.0000",
+      "firstDown": "0.0252",
+      "secondDown": "0.010",
+      "thirdDown": "0.022",
+      "standardDowns": "0.013",
+      "passingDowns": "0.019"
     }
   },
   {
@@ -223,14 +223,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0182,
-      "pass": 0.0436,
-      "rush": 0,
-      "firstDown": 0.0253,
-      "secondDown": 0.02,
-      "thirdDown": 0,
-      "standardDowns": 0.009,
-      "passingDowns": 0.015
+      "overall": "0.0182",
+      "pass": "0.0436",
+      "rush": "0.0000",
+      "firstDown": "0.0252",
+      "secondDown": "0.020",
+      "thirdDown": "0.000",
+      "standardDowns": "0.009",
+      "passingDowns": "0.015"
     }
   },
   {
@@ -241,14 +241,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0148,
-      "pass": 0.0354,
-      "rush": 0,
-      "firstDown": 0.0076,
-      "secondDown": 0.024,
-      "thirdDown": 0.017,
-      "standardDowns": 0.009,
-      "passingDowns": 0.03
+      "overall": "0.0148",
+      "pass": "0.0354",
+      "rush": "0.0000",
+      "firstDown": "0.0076",
+      "secondDown": "0.024",
+      "thirdDown": "0.017",
+      "standardDowns": "0.009",
+      "passingDowns": "0.030"
     }
   },
   {
@@ -259,14 +259,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0102,
-      "pass": 0,
-      "rush": 0.0177,
-      "firstDown": 0.0126,
-      "secondDown": 0.013,
-      "thirdDown": 0,
-      "standardDowns": 0.018,
-      "passingDowns": 0.004
+      "overall": "0.0114",
+      "pass": "0.0000",
+      "rush": "0.0196",
+      "firstDown": "0.0151",
+      "secondDown": "0.013",
+      "thirdDown": "0.000",
+      "standardDowns": "0.022",
+      "passingDowns": "0.004"
     }
   },
   {
@@ -277,14 +277,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0091,
-      "pass": 0.0218,
-      "rush": 0,
-      "firstDown": 0.0076,
-      "secondDown": 0.01,
-      "thirdDown": 0.011,
-      "standardDowns": 0.009,
-      "passingDowns": 0.011
+      "overall": "0.0102",
+      "pass": "0.0245",
+      "rush": "0.0000",
+      "firstDown": "0.0101",
+      "secondDown": "0.010",
+      "thirdDown": "0.011",
+      "standardDowns": "0.009",
+      "passingDowns": "0.011"
     }
   },
   {
@@ -295,14 +295,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0034,
-      "pass": 0.0082,
-      "rush": 0,
-      "firstDown": 0.0051,
-      "secondDown": 0.003,
-      "thirdDown": 0,
-      "standardDowns": 0.004,
-      "passingDowns": 0
+      "overall": "0.0045",
+      "pass": "0.0109",
+      "rush": "0.0000",
+      "firstDown": "0.0050",
+      "secondDown": "0.007",
+      "thirdDown": "0.000",
+      "standardDowns": "0.009",
+      "passingDowns": "0.000"
     }
   },
   {
@@ -313,14 +313,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0034,
-      "pass": 0.0054,
-      "rush": 0.002,
-      "firstDown": 0.0025,
-      "secondDown": 0.003,
-      "thirdDown": 0.006,
-      "standardDowns": 0.004,
-      "passingDowns": 0.004
+      "overall": "0.0034",
+      "pass": "0.0054",
+      "rush": "0.0020",
+      "firstDown": "0.0025",
+      "secondDown": "0.003",
+      "thirdDown": "0.006",
+      "standardDowns": "0.004",
+      "passingDowns": "0.004"
     }
   },
   {
@@ -331,14 +331,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0034,
-      "pass": 0.0082,
-      "rush": 0,
-      "firstDown": 0.0025,
-      "secondDown": 0,
-      "thirdDown": 0.011,
-      "standardDowns": 0.004,
-      "passingDowns": 0.004
+      "overall": "0.0034",
+      "pass": "0.0082",
+      "rush": "0.0000",
+      "firstDown": "0.0025",
+      "secondDown": "0.000",
+      "thirdDown": "0.011",
+      "standardDowns": "0.004",
+      "passingDowns": "0.004"
     }
   },
   {
@@ -349,14 +349,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0023,
-      "pass": 0.0054,
-      "rush": 0,
-      "firstDown": 0.0025,
-      "secondDown": 0,
-      "thirdDown": 0.006,
-      "standardDowns": 0,
-      "passingDowns": 0.004
+      "overall": "0.0023",
+      "pass": "0.0054",
+      "rush": "0.0000",
+      "firstDown": "0.0025",
+      "secondDown": "0.000",
+      "thirdDown": "0.006",
+      "standardDowns": "0.000",
+      "passingDowns": "0.004"
     }
   },
   {
@@ -367,14 +367,14 @@
     "team": "Alabama",
     "conference": "SEC",
     "usage": {
-      "overall": 0.0011,
-      "pass": 0.0027,
-      "rush": 0,
-      "firstDown": 0,
-      "secondDown": 0.003,
-      "thirdDown": 0,
-      "standardDowns": 0,
-      "passingDowns": 0.004
+      "overall": "0.0011",
+      "pass": "0.0027",
+      "rush": "0.0000",
+      "firstDown": "0.0000",
+      "secondDown": "0.003",
+      "thirdDown": "0.000",
+      "standardDowns": "0.000",
+      "passingDowns": "0.004"
     }
   }
 ]

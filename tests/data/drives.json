@@ -1,902 +1,802 @@
 [
   {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "40152014920",
-    "drive_number": 1,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
     "scoring": true,
-    "start_period": 0,
-    "start_yardline": 68,
-    "start_yards_to_goal": 68,
-    "start_time": {
+    "startPeriod": 0,
+    "startYardline": 68,
+    "startYardsToGoal": 68,
+    "startTime": {
       "minutes": 6,
       "seconds": 30
     },
-    "end_period": 0,
-    "end_yardline": 0,
-    "end_yards_to_goal": 0,
-    "end_time": {
-      "seconds": 32,
-      "minutes": 0
-    },
-    "elapsed": {
-      "minutes": 5,
-      "seconds": 58
+    "endPeriod": 0,
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 32
     },
     "plays": 11,
     "yards": 68,
-    "drive_result": "TD",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 42,
-    "end_offense_score": 7,
-    "end_defense_score": 42
+    "driveResult": "TD",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 42,
+    "endOffenseScore": 7,
+    "endDefenseScore": 42
   },
   {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "4015201491",
-    "drive_number": 2,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
     "scoring": false,
-    "start_period": 1,
-    "start_yardline": 75,
-    "start_yards_to_goal": 75,
-    "start_time": {
+    "startPeriod": 1,
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "startTime": {
       "minutes": 15,
       "seconds": 0
     },
-    "end_period": 1,
-    "end_yardline": 80,
-    "end_yards_to_goal": 80,
-    "end_time": {
+    "endPeriod": 1,
+    "endYardline": 80,
+    "endYardsToGoal": 80,
+    "endTime": {
       "minutes": 13,
       "seconds": 47
-    },
-    "elapsed": {
-      "minutes": 1,
-      "seconds": 13
     },
     "plays": 3,
     "yards": -5,
-    "drive_result": "PUNT",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 0,
-    "end_offense_score": 0,
-    "end_defense_score": 0
+    "driveResult": "PUNT",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endDefenseScore": 0
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "4015201492",
-    "drive_number": 3,
-    "scoring": true,
-    "start_period": 1,
-    "start_yardline": 37,
-    "start_yards_to_goal": 63,
-    "start_time": {
-      "minutes": 13,
-      "seconds": 47
-    },
-    "end_period": 1,
-    "end_yardline": 100,
-    "end_yards_to_goal": 0,
-    "end_time": {
-      "minutes": 10,
-      "seconds": 49
-    },
-    "elapsed": {
-      "minutes": 2,
-      "seconds": 58
-    },
-    "plays": 6,
-    "yards": 63,
-    "drive_result": "TD",
-    "is_home_offense": true,
-    "start_offense_score": 0,
-    "start_defense_score": 0,
-    "end_offense_score": 7,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "4015201493",
-    "drive_number": 4,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
     "scoring": false,
-    "start_period": 1,
-    "start_yardline": 75,
-    "start_yards_to_goal": 75,
-    "start_time": {
+    "startPeriod": 1,
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "startTime": {
       "minutes": 10,
       "seconds": 49
     },
-    "end_period": 1,
-    "end_yardline": 73,
-    "end_yards_to_goal": 73,
-    "end_time": {
+    "endPeriod": 1,
+    "endYardline": 73,
+    "endYardsToGoal": 73,
+    "endTime": {
       "minutes": 9,
       "seconds": 21
-    },
-    "elapsed": {
-      "minutes": 1,
-      "seconds": 28
     },
     "plays": 3,
     "yards": 2,
-    "drive_result": "PUNT",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 7,
-    "end_offense_score": 0,
-    "end_defense_score": 7
+    "driveResult": "PUNT",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 7,
+    "endOffenseScore": 0,
+    "endDefenseScore": 7
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "4015201494",
-    "drive_number": 5,
-    "scoring": true,
-    "start_period": 1,
-    "start_yardline": 53,
-    "start_yards_to_goal": 47,
-    "start_time": {
-      "minutes": 9,
-      "seconds": 21
-    },
-    "end_period": 1,
-    "end_yardline": 100,
-    "end_yards_to_goal": 0,
-    "end_time": {
-      "minutes": 4,
-      "seconds": 15
-    },
-    "elapsed": {
-      "minutes": 5,
-      "seconds": 6
-    },
-    "plays": 11,
-    "yards": 47,
-    "drive_result": "TD",
-    "is_home_offense": true,
-    "start_offense_score": 7,
-    "start_defense_score": 0,
-    "end_offense_score": 14,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "4015201495",
-    "drive_number": 6,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
     "scoring": false,
-    "start_period": 1,
-    "start_yardline": 75,
-    "start_yards_to_goal": 75,
-    "start_time": {
+    "startPeriod": 1,
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "startTime": {
       "minutes": 4,
       "seconds": 15
     },
-    "end_period": 1,
-    "end_yardline": 62,
-    "end_yards_to_goal": 62,
-    "end_time": {
-      "seconds": 20,
-      "minutes": 0
-    },
-    "elapsed": {
-      "minutes": 3,
-      "seconds": 55
+    "endPeriod": 1,
+    "endYardline": 62,
+    "endYardsToGoal": 62,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 20
     },
     "plays": 7,
     "yards": 13,
-    "drive_result": "PUNT",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 14,
-    "end_offense_score": 0,
-    "end_defense_score": 14
+    "driveResult": "PUNT",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 14,
+    "endOffenseScore": 0,
+    "endDefenseScore": 14
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "4015201496",
-    "drive_number": 7,
-    "scoring": false,
-    "start_period": 1,
-    "start_yardline": 10,
-    "start_yards_to_goal": 90,
-    "start_time": {
-      "seconds": 20,
-      "minutes": 0
-    },
-    "end_period": 2,
-    "end_yardline": 16,
-    "end_yards_to_goal": 84,
-    "end_time": {
-      "minutes": 12,
-      "seconds": 28
-    },
-    "elapsed": {
-      "minutes": 2,
-      "seconds": 52
-    },
-    "plays": 6,
-    "yards": 6,
-    "drive_result": "PUNT",
-    "is_home_offense": true,
-    "start_offense_score": 14,
-    "start_defense_score": 0,
-    "end_offense_score": 14,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "4015201497",
-    "drive_number": 8,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
     "scoring": false,
-    "start_period": 2,
-    "start_yardline": 69,
-    "start_yards_to_goal": 69,
-    "start_time": {
+    "startPeriod": 2,
+    "startYardline": 69,
+    "startYardsToGoal": 69,
+    "startTime": {
       "minutes": 12,
       "seconds": 28
     },
-    "end_period": 2,
-    "end_yardline": 14,
-    "end_yards_to_goal": 14,
-    "end_time": {
+    "endPeriod": 2,
+    "endYardline": 14,
+    "endYardsToGoal": 14,
+    "endTime": {
       "minutes": 8,
       "seconds": 48
-    },
-    "elapsed": {
-      "minutes": 3,
-      "seconds": 40
     },
     "plays": 10,
     "yards": 55,
-    "drive_result": "MISSED FG",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 14,
-    "end_offense_score": 0,
-    "end_defense_score": 14
+    "driveResult": "MISSED FG",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 14,
+    "endOffenseScore": 0,
+    "endDefenseScore": 14
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "4015201498",
-    "drive_number": 9,
-    "scoring": false,
-    "start_period": 2,
-    "start_yardline": 20,
-    "start_yards_to_goal": 80,
-    "start_time": {
-      "minutes": 8,
-      "seconds": 48
-    },
-    "end_period": 2,
-    "end_yardline": 35,
-    "end_yards_to_goal": 65,
-    "end_time": {
-      "minutes": 5,
-      "seconds": 48
-    },
-    "elapsed": {
-      "minutes": 3,
-      "seconds": 0
-    },
-    "plays": 6,
-    "yards": 15,
-    "drive_result": "PUNT",
-    "is_home_offense": true,
-    "start_offense_score": 14,
-    "start_defense_score": 0,
-    "end_offense_score": 14,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "4015201499",
-    "drive_number": 10,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
     "scoring": false,
-    "start_period": 2,
-    "start_yardline": 83,
-    "start_yards_to_goal": 83,
-    "start_time": {
+    "startPeriod": 2,
+    "startYardline": 83,
+    "startYardsToGoal": 83,
+    "startTime": {
       "minutes": 5,
       "seconds": 48
     },
-    "end_period": 2,
-    "end_yardline": 60,
-    "end_yards_to_goal": 60,
-    "end_time": {
+    "endPeriod": 2,
+    "endYardline": 60,
+    "endYardsToGoal": 60,
+    "endTime": {
       "minutes": 3,
       "seconds": 42
-    },
-    "elapsed": {
-      "minutes": 2,
-      "seconds": 6
     },
     "plays": 6,
     "yards": 23,
-    "drive_result": "INT",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 14,
-    "end_offense_score": 0,
-    "end_defense_score": 14
+    "driveResult": "INT",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 14,
+    "endOffenseScore": 0,
+    "endDefenseScore": 14
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "40152014910",
-    "drive_number": 11,
-    "scoring": true,
-    "start_period": 2,
-    "start_yardline": 58,
-    "start_yards_to_goal": 42,
-    "start_time": {
-      "minutes": 3,
-      "seconds": 42
-    },
-    "end_period": 2,
-    "end_yardline": 100,
-    "end_yards_to_goal": 0,
-    "end_time": {
-      "minutes": 3,
-      "seconds": 7
-    },
-    "elapsed": {
-      "seconds": 35,
-      "minutes": 0
-    },
-    "plays": 2,
-    "yards": 42,
-    "drive_result": "TD",
-    "is_home_offense": true,
-    "start_offense_score": 14,
-    "start_defense_score": 0,
-    "end_offense_score": 21,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "40152014911",
-    "drive_number": 12,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
     "scoring": false,
-    "start_period": 2,
-    "start_yardline": 75,
-    "start_yards_to_goal": 75,
-    "start_time": {
+    "startPeriod": 2,
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "startTime": {
       "minutes": 3,
       "seconds": 7
     },
-    "end_period": 2,
-    "end_yardline": 87,
-    "end_yards_to_goal": 87,
-    "end_time": {
+    "endPeriod": 2,
+    "endYardline": 87,
+    "endYardsToGoal": 87,
+    "endTime": {
       "minutes": 2,
       "seconds": 5
-    },
-    "elapsed": {
-      "minutes": 1,
-      "seconds": 2
     },
     "plays": 3,
     "yards": -12,
-    "drive_result": "PUNT",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 21,
-    "end_offense_score": 0,
-    "end_defense_score": 21
+    "driveResult": "PUNT",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 21,
+    "endOffenseScore": 0,
+    "endDefenseScore": 21
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "40152014912",
-    "drive_number": 13,
-    "scoring": true,
-    "start_period": 2,
-    "start_yardline": 53,
-    "start_yards_to_goal": 47,
-    "start_time": {
-      "minutes": 2,
-      "seconds": 5
-    },
-    "end_period": 2,
-    "end_yardline": 100,
-    "end_yards_to_goal": 0,
-    "end_time": {
-      "minutes": 1,
-      "seconds": 58
-    },
-    "elapsed": {
-      "seconds": 7,
-      "minutes": 0
-    },
-    "plays": 1,
-    "yards": 47,
-    "drive_result": "TD",
-    "is_home_offense": true,
-    "start_offense_score": 28,
-    "start_defense_score": 0,
-    "end_offense_score": 28,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "40152014913",
-    "drive_number": 14,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 14,
     "scoring": false,
-    "start_period": 2,
-    "start_yardline": 75,
-    "start_yards_to_goal": 75,
-    "start_time": {
+    "startPeriod": 2,
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "startTime": {
       "minutes": 1,
       "seconds": 58
     },
-    "end_period": 2,
-    "end_yardline": 60,
-    "end_yards_to_goal": 60,
-    "end_time": {
-      "seconds": 53,
-      "minutes": 0
-    },
-    "elapsed": {
-      "minutes": 1,
-      "seconds": 5
+    "endPeriod": 2,
+    "endYardline": 60,
+    "endYardsToGoal": 60,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 53
     },
     "plays": 4,
     "yards": 15,
-    "drive_result": "PUNT",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 28,
-    "end_offense_score": 0,
-    "end_defense_score": 28
+    "driveResult": "PUNT",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 28,
+    "endOffenseScore": 0,
+    "endDefenseScore": 28
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "40152014914",
-    "drive_number": 15,
-    "scoring": false,
-    "start_period": 2,
-    "start_yardline": 12,
-    "start_yards_to_goal": 88,
-    "start_time": {
-      "seconds": 53,
-      "minutes": 0
-    },
-    "end_period": 2,
-    "end_yardline": 31,
-    "end_yards_to_goal": 69,
-    "end_time": {
-      "minutes": 0,
-      "seconds": 0
-    },
-    "elapsed": {
-      "seconds": 53,
-      "minutes": 0
-    },
-    "plays": 3,
-    "yards": 19,
-    "drive_result": "END OF HALF",
-    "is_home_offense": true,
-    "start_offense_score": 28,
-    "start_defense_score": 0,
-    "end_offense_score": 28,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "40152014915",
-    "drive_number": 16,
-    "scoring": true,
-    "start_period": 3,
-    "start_yardline": 25,
-    "start_yards_to_goal": 75,
-    "start_time": {
-      "minutes": 15,
-      "seconds": 0
-    },
-    "end_period": 3,
-    "end_yardline": 100,
-    "end_yards_to_goal": 0,
-    "end_time": {
-      "minutes": 12,
-      "seconds": 54
-    },
-    "elapsed": {
-      "minutes": 2,
-      "seconds": 6
-    },
-    "plays": 6,
-    "yards": 75,
-    "drive_result": "TD",
-    "is_home_offense": true,
-    "start_offense_score": 28,
-    "start_defense_score": 0,
-    "end_offense_score": 35,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "40152014916",
-    "drive_number": 17,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
     "scoring": false,
-    "start_period": 3,
-    "start_yardline": 92,
-    "start_yards_to_goal": 92,
-    "start_time": {
+    "startPeriod": 3,
+    "startYardline": 92,
+    "startYardsToGoal": 92,
+    "startTime": {
       "minutes": 12,
       "seconds": 51
     },
-    "end_period": 3,
-    "end_yardline": 91,
-    "end_yards_to_goal": 91,
-    "end_time": {
+    "endPeriod": 3,
+    "endYardline": 91,
+    "endYardsToGoal": 91,
+    "endTime": {
       "minutes": 11,
       "seconds": 6
-    },
-    "elapsed": {
-      "minutes": 1,
-      "seconds": 45
     },
     "plays": 3,
     "yards": 1,
-    "drive_result": "PUNT",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 35,
-    "end_offense_score": 0,
-    "end_defense_score": 35
+    "driveResult": "PUNT",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 35,
+    "endOffenseScore": 0,
+    "endDefenseScore": 35
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "40152014917",
-    "drive_number": 18,
-    "scoring": true,
-    "start_period": 3,
-    "start_yardline": 66,
-    "start_yards_to_goal": 34,
-    "start_time": {
-      "minutes": 11,
-      "seconds": 6
-    },
-    "end_period": 3,
-    "end_yardline": 100,
-    "end_yards_to_goal": 0,
-    "end_time": {
-      "minutes": 10,
-      "seconds": 25
-    },
-    "elapsed": {
-      "seconds": 41,
-      "minutes": 0
-    },
-    "plays": 2,
-    "yards": 34,
-    "drive_result": "TD",
-    "is_home_offense": true,
-    "start_offense_score": 35,
-    "start_defense_score": 0,
-    "end_offense_score": 42,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "40152014918",
-    "drive_number": 19,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
     "scoring": false,
-    "start_period": 3,
-    "start_yardline": 75,
-    "start_yards_to_goal": 75,
-    "start_time": {
+    "startPeriod": 3,
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "startTime": {
       "minutes": 10,
       "seconds": 25
     },
-    "end_period": 3,
-    "end_yardline": 71,
-    "end_yards_to_goal": 71,
-    "end_time": {
+    "endPeriod": 3,
+    "endYardline": 71,
+    "endYardsToGoal": 71,
+    "endTime": {
       "minutes": 8,
       "seconds": 15
-    },
-    "elapsed": {
-      "minutes": 2,
-      "seconds": 10
     },
     "plays": 3,
     "yards": 4,
-    "drive_result": "PUNT",
-    "is_home_offense": false,
-    "start_offense_score": 0,
-    "start_defense_score": 42,
-    "end_offense_score": 0,
-    "end_defense_score": 42
+    "driveResult": "PUNT",
+    "isHomeOffense": false,
+    "startOffenseScore": 0,
+    "startDefenseScore": 42,
+    "endOffenseScore": 0,
+    "endDefenseScore": 42
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "40152014919",
-    "drive_number": 20,
-    "scoring": false,
-    "start_period": 3,
-    "start_yardline": 25,
-    "start_yards_to_goal": 75,
-    "start_time": {
-      "minutes": 8,
-      "seconds": 15
-    },
-    "end_period": 3,
-    "end_yardline": 0,
-    "end_yards_to_goal": 100,
-    "end_time": {
-      "minutes": 6,
-      "seconds": 30
-    },
-    "elapsed": {
-      "minutes": 1,
-      "seconds": 45
-    },
-    "plays": 3,
-    "yards": 5,
-    "drive_result": "PUNT",
-    "is_home_offense": true,
-    "start_offense_score": 42,
-    "start_defense_score": 0,
-    "end_offense_score": 42,
-    "end_defense_score": 0
-  },
-  {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "40152014921",
-    "drive_number": 21,
-    "scoring": true,
-    "start_period": 3,
-    "start_yardline": 23,
-    "start_yards_to_goal": 77,
-    "start_time": {
-      "seconds": 25,
-      "minutes": 0
-    },
-    "end_period": 4,
-    "end_yardline": 100,
-    "end_yards_to_goal": 0,
-    "end_time": {
-      "minutes": 10,
-      "seconds": 38
-    },
-    "elapsed": {
-      "minutes": 4,
-      "seconds": 47
-    },
-    "plays": 10,
-    "yards": 77,
-    "drive_result": "TD",
-    "is_home_offense": true,
-    "start_offense_score": 42,
-    "start_defense_score": 7,
-    "end_offense_score": 49,
-    "end_defense_score": 7
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "40152014922",
-    "drive_number": 22,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 22,
     "scoring": false,
-    "start_period": 4,
-    "start_yardline": 75,
-    "start_yards_to_goal": 75,
-    "start_time": {
+    "startPeriod": 4,
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "startTime": {
       "minutes": 10,
       "seconds": 38
     },
-    "end_period": 4,
-    "end_yardline": 65,
-    "end_yards_to_goal": 65,
-    "end_time": {
+    "endPeriod": 4,
+    "endYardline": 65,
+    "endYardsToGoal": 65,
+    "endTime": {
       "minutes": 9,
       "seconds": 15
-    },
-    "elapsed": {
-      "minutes": 1,
-      "seconds": 23
     },
     "plays": 3,
     "yards": 10,
-    "drive_result": "FUMBLE",
-    "is_home_offense": false,
-    "start_offense_score": 7,
-    "start_defense_score": 49,
-    "end_offense_score": 7,
-    "end_defense_score": 49
+    "driveResult": "FUMBLE",
+    "isHomeOffense": false,
+    "startOffenseScore": 7,
+    "startDefenseScore": 49,
+    "endOffenseScore": 7,
+    "endDefenseScore": 49
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "40152014923",
-    "drive_number": 23,
-    "scoring": true,
-    "start_period": 4,
-    "start_yardline": 67,
-    "start_yards_to_goal": 33,
-    "start_time": {
-      "minutes": 9,
-      "seconds": 15
-    },
-    "end_period": 4,
-    "end_yardline": 100,
-    "end_yards_to_goal": 0,
-    "end_time": {
-      "minutes": 5,
-      "seconds": 58
-    },
-    "elapsed": {
-      "minutes": 3,
-      "seconds": 17
-    },
-    "plays": 6,
-    "yards": 33,
-    "drive_result": "TD",
-    "is_home_offense": true,
-    "start_offense_score": 49,
-    "start_defense_score": 7,
-    "end_offense_score": 56,
-    "end_defense_score": 7
-  },
-  {
-    "offense": "Middle Tennessee",
-    "offense_conference": "Conference USA",
-    "defense": "Alabama",
-    "defense_conference": "SEC",
-    "game_id": 401520149,
     "id": "40152014924",
-    "drive_number": 24,
+    "gameId": 401520149,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 24,
     "scoring": false,
-    "start_period": 4,
-    "start_yardline": 82,
-    "start_yards_to_goal": 82,
-    "start_time": {
+    "startPeriod": 4,
+    "startYardline": 82,
+    "startYardsToGoal": 82,
+    "startTime": {
       "minutes": 5,
       "seconds": 49
     },
-    "end_period": 4,
-    "end_yardline": 71,
-    "end_yards_to_goal": 71,
-    "end_time": {
-      "seconds": 49,
-      "minutes": 0
-    },
-    "elapsed": {
-      "minutes": 5,
-      "seconds": 0
+    "endPeriod": 4,
+    "endYardline": 71,
+    "endYardsToGoal": 71,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 49
     },
     "plays": 6,
     "yards": 11,
-    "drive_result": "PUNT",
-    "is_home_offense": false,
-    "start_offense_score": 7,
-    "start_defense_score": 56,
-    "end_offense_score": 7,
-    "end_defense_score": 56
+    "driveResult": "PUNT",
+    "isHomeOffense": false,
+    "startOffenseScore": 7,
+    "startDefenseScore": 56,
+    "endOffenseScore": 7,
+    "endDefenseScore": 56
   },
   {
-    "offense": "Alabama",
-    "offense_conference": "SEC",
-    "defense": "Middle Tennessee",
-    "defense_conference": "Conference USA",
-    "game_id": 401520149,
-    "id": "40152014925",
-    "drive_number": 25,
+    "id": "4015517861",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
     "scoring": false,
-    "start_period": 4,
-    "start_yardline": 11,
-    "start_yards_to_goal": 89,
-    "start_time": {
-      "seconds": 49,
-      "minutes": 0
+    "startPeriod": 1,
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
     },
-    "end_period": 4,
-    "end_yardline": 13,
-    "end_yards_to_goal": 87,
-    "end_time": {
+    "endPeriod": 1,
+    "endYardline": 27,
+    "endYardsToGoal": 73,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 56
+    },
+    "plays": 3,
+    "yards": 2,
+    "driveResult": "PUNT",
+    "isHomeOffense": true,
+    "startOffenseScore": 0,
+    "startDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endDefenseScore": 0
+  },
+  {
+    "id": "4015517864",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "scoring": true,
+    "startPeriod": 1,
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 41
+    },
+    "endPeriod": 1,
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 23
+    },
+    "plays": 10,
+    "yards": 75,
+    "driveResult": "TD",
+    "isHomeOffense": true,
+    "startOffenseScore": 0,
+    "startDefenseScore": 7,
+    "endOffenseScore": 7,
+    "endDefenseScore": 7
+  },
+  {
+    "id": "4015517866",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "scoring": false,
+    "startPeriod": 1,
+    "startYardline": 19,
+    "startYardsToGoal": 81,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 49
+    },
+    "endPeriod": 2,
+    "endYardline": 39,
+    "endYardsToGoal": 61,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 13
+    },
+    "plays": 6,
+    "yards": 20,
+    "driveResult": "PUNT",
+    "isHomeOffense": true,
+    "startOffenseScore": 7,
+    "startDefenseScore": 7,
+    "endOffenseScore": 7,
+    "endDefenseScore": 7
+  },
+  {
+    "id": "4015517868",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "scoring": false,
+    "startPeriod": 2,
+    "startYardline": 30,
+    "startYardsToGoal": 70,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 55
+    },
+    "endPeriod": 2,
+    "endYardline": 34,
+    "endYardsToGoal": 66,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 50
+    },
+    "plays": 3,
+    "yards": 4,
+    "driveResult": "PUNT",
+    "isHomeOffense": true,
+    "startOffenseScore": 7,
+    "startDefenseScore": 7,
+    "endOffenseScore": 7,
+    "endDefenseScore": 7
+  },
+  {
+    "id": "40155178610",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "scoring": true,
+    "startPeriod": 2,
+    "startYardline": 17,
+    "startYardsToGoal": 83,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 26
+    },
+    "endPeriod": 2,
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 49
+    },
+    "plays": 8,
+    "yards": 83,
+    "driveResult": "TD",
+    "isHomeOffense": true,
+    "startOffenseScore": 7,
+    "startDefenseScore": 7,
+    "endOffenseScore": 13,
+    "endDefenseScore": 7
+  },
+  {
+    "id": "40155178612",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "scoring": false,
+    "startPeriod": 2,
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 7
+    },
+    "endPeriod": 2,
+    "endYardline": 23,
+    "endYardsToGoal": 77,
+    "endTime": {
       "minutes": 0,
       "seconds": 0
     },
-    "elapsed": {
-      "seconds": 49,
-      "minutes": 0
+    "plays": 1,
+    "yards": -2,
+    "driveResult": "END OF HALF",
+    "isHomeOffense": true,
+    "startOffenseScore": 13,
+    "startDefenseScore": 10,
+    "endOffenseScore": 13,
+    "endDefenseScore": 10
+  },
+  {
+    "id": "40155178614",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 14,
+    "scoring": false,
+    "startPeriod": 3,
+    "startYardline": 13,
+    "startYardsToGoal": 87,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 49
+    },
+    "endPeriod": 3,
+    "endYardline": 34,
+    "endYardsToGoal": 66,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 58
+    },
+    "plays": 6,
+    "yards": 21,
+    "driveResult": "PUNT",
+    "isHomeOffense": true,
+    "startOffenseScore": 13,
+    "startDefenseScore": 10,
+    "endOffenseScore": 13,
+    "endDefenseScore": 10
+  },
+  {
+    "id": "40155178616",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 16,
+    "scoring": false,
+    "startPeriod": 3,
+    "startYardline": 11,
+    "startYardsToGoal": 89,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 41
+    },
+    "endPeriod": 3,
+    "endYardline": 13,
+    "endYardsToGoal": 87,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 44
+    },
+    "plays": 3,
+    "yards": 2,
+    "driveResult": "PUNT",
+    "isHomeOffense": true,
+    "startOffenseScore": 13,
+    "startDefenseScore": 10,
+    "endOffenseScore": 13,
+    "endDefenseScore": 10
+  },
+  {
+    "id": "40155178618",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 18,
+    "scoring": false,
+    "startPeriod": 4,
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 30
+    },
+    "endPeriod": 4,
+    "endYardline": 26,
+    "endYardsToGoal": 74,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 32
+    },
+    "plays": 3,
+    "yards": 1,
+    "driveResult": "PUNT",
+    "isHomeOffense": true,
+    "startOffenseScore": 13,
+    "startDefenseScore": 17,
+    "endOffenseScore": 13,
+    "endDefenseScore": 17
+  },
+  {
+    "id": "40155178620",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 20,
+    "scoring": false,
+    "startPeriod": 4,
+    "startYardline": 49,
+    "startYardsToGoal": 51,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 47
+    },
+    "endPeriod": 4,
+    "endYardline": 69,
+    "endYardsToGoal": 31,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 30
+    },
+    "plays": 5,
+    "yards": 20,
+    "driveResult": "MISSED FG",
+    "isHomeOffense": true,
+    "startOffenseScore": 13,
+    "startDefenseScore": 17,
+    "endOffenseScore": 13,
+    "endDefenseScore": 17
+  },
+  {
+    "id": "40155178622",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 22,
+    "scoring": true,
+    "startPeriod": 4,
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 41
+    },
+    "endPeriod": 4,
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 34
+    },
+    "plays": 8,
+    "yards": 75,
+    "driveResult": "TD",
+    "isHomeOffense": true,
+    "startOffenseScore": 13,
+    "startDefenseScore": 20,
+    "endOffenseScore": 20,
+    "endDefenseScore": 20
+  },
+  {
+    "id": "40155178624",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 24,
+    "scoring": false,
+    "startPeriod": 4,
+    "startYardline": 1,
+    "startYardsToGoal": 99,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 54
+    },
+    "endPeriod": 4,
+    "endYardline": 1,
+    "endYardsToGoal": 99,
+    "endTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "plays": 3,
+    "yards": 0,
+    "driveResult": "END OF GAME",
+    "isHomeOffense": true,
+    "startOffenseScore": 20,
+    "startDefenseScore": 20,
+    "endOffenseScore": 20,
+    "endDefenseScore": 20
+  },
+  {
+    "id": "40155178625",
+    "gameId": 401551786,
+    "offense": "Michigan",
+    "offenseConference": "Big Ten",
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 25,
+    "scoring": true,
+    "startPeriod": 5,
+    "startYardline": 75,
+    "startYardsToGoal": 25,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endPeriod": 5,
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
     },
     "plays": 2,
-    "yards": 2,
-    "drive_result": "END OF GAME",
-    "is_home_offense": true,
-    "start_offense_score": 56,
-    "start_defense_score": 7,
-    "end_offense_score": 56,
-    "end_defense_score": 7
+    "yards": 25,
+    "driveResult": "TD",
+    "isHomeOffense": true,
+    "startOffenseScore": 20,
+    "startDefenseScore": 20,
+    "endOffenseScore": 27,
+    "endDefenseScore": 20
   }
 ]

@@ -18,10 +18,10 @@ class CalendarTest extends TestCase
         
         $calendar = $testApi->calendar(new CalendarParameters(year: 2023));
         
-        self::assertSame('https://api.collegefootballdata.com/calendar?year=2023', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/calendar?year=2023', $mockResponse->getRequestUrl());
         
         $this->assertIsArray($calendar);
-        $this->assertCount(21, $calendar);
+        $this->assertCount(16, $calendar);
         
         $this->assertInstanceOf(\DanAbrey\CollegeFootballDataApi\Model\Week::class, $calendar[0]);
 
@@ -30,12 +30,14 @@ class CalendarTest extends TestCase
         $this->assertEquals(2023, $week->season);
         $this->assertEquals(1, $week->week);
         $this->assertEquals('regular', $week->seasonType);
-        $this->assertEquals('2023-08-26T17:00:00.000Z', $week->firstGameStart);
-        $this->assertEquals('2023-09-05T00:00:00.000Z', $week->lastGameStart);
+        $this->assertEquals('2023-08-26T07:00:00.000Z', $week->startDate);
+        $this->assertEquals('2023-09-05T06:59:00.000Z', $week->endDate);
+        $this->assertEquals('2023-08-26T07:00:00.000Z', $week->firstGameStart);
+        $this->assertEquals('2023-09-05T06:59:00.000Z', $week->lastGameStart);
     }
 
     /**
-     * @testWith ["year", 2022, "https://api.collegefootballdata.com/calendar?year=2022"]
+     * @testWith ["year", 2022, "https://apinext.collegefootballdata.com/calendar?year=2022"]
      */
     public function test_calendar_filter($key, $value, $url)
     {

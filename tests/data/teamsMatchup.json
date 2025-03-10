@@ -1,7 +1,7 @@
 {
   "team1": "Michigan",
   "team2": "Alabama",
-  "team1Wins": 3,
+  "team1Wins": 4,
   "team2Wins": 3,
   "ties": 0,
   "games": [
@@ -81,6 +81,19 @@
       "homeScore": 27,
       "awayTeam": "Alabama",
       "awayScore": 20,
+      "winner": "Michigan"
+    },
+    {
+      "season": 2024,
+      "week": 1,
+      "seasonType": "postseason",
+      "date": "2024-12-31T17:00:00.000Z",
+      "neutralSite": true,
+      "venue": "Raymond James Stadium",
+      "homeTeam": "Michigan",
+      "homeScore": 19,
+      "awayTeam": "Alabama",
+      "awayScore": 13,
       "winner": "Michigan"
     }
   ]

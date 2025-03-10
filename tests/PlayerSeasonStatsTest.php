@@ -19,28 +19,28 @@ class PlayerSeasonStatsTest extends TestCase
             year: 2023,
         ));
         
-        self::assertSame('https://api.collegefootballdata.com/stats/player/season?year=2023', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/stats/player/season?year=2023', $mockResponse->getRequestUrl());
         
         $this->assertIsArray($playerSeasonStats);
-        $this->assertCount(578, $playerSeasonStats);
+        $this->assertCount(601, $playerSeasonStats);
         
         $this->assertInstanceOf(\DanAbrey\CollegeFootballDataApi\Model\PlayerSeasonStat::class, $playerSeasonStats[0]);
 
         /** @var \DanAbrey\CollegeFootballDataApi\Model\PlayerSeasonStat $playerSeasonStat */
         $playerSeasonStat = $playerSeasonStats[0];
 
-        $this->assertEquals(4685724, $playerSeasonStat->playerId);
-        $this->assertEquals('Will Anderson Jr.',  $playerSeasonStat->player);
+        $this->assertEquals(5150247, $playerSeasonStat->playerId);
+        $this->assertEquals('Malik Benson',  $playerSeasonStat->player);
         $this->assertEquals('Alabama', $playerSeasonStat->team);
         $this->assertEquals('SEC', $playerSeasonStat->conference);
-        $this->assertEquals('interceptions', $playerSeasonStat->category);
-        $this->assertEquals('TD', $playerSeasonStat->statType);
-        $this->assertEquals(1, $playerSeasonStat->stat);
+        $this->assertEquals('defensive', $playerSeasonStat->category);
+        $this->assertEquals('PD', $playerSeasonStat->statType);
+        $this->assertEquals(0, $playerSeasonStat->stat);
     }
 
     /**
-     * @testWith ["team", "Florida", "https://api.collegefootballdata.com/stats/player/season?year=2023&team=Florida"]
-     *           ["conference", "SEC", "https://api.collegefootballdata.com/stats/player/season?year=2023&conference=SEC"]
+     * @testWith ["team", "Florida", "https://apinext.collegefootballdata.com/stats/player/season?year=2023&team=Florida"]
+     *           ["conference", "SEC", "https://apinext.collegefootballdata.com/stats/player/season?year=2023&conference=SEC"]
      */
     public function test_player_season_stats_filter($key, $value, $url)
     {

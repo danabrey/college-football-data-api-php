@@ -20,25 +20,25 @@ GameMediaTest extends TestCase
 
         $gameMedia = $testApi->gameMedia($params);
 
-        self::assertSame('https://api.collegefootballdata.com/games/media?year=2023', $mockResponse->getRequestUrl());
+        self::assertSame('https://apinext.collegefootballdata.com/games/media?year=2023', $mockResponse->getRequestUrl());
 
         $this->assertIsArray($gameMedia);
-        $this->assertCount(2358, $gameMedia);
+        $this->assertCount(952, $gameMedia);
 
         $this->assertInstanceOf(\DanAbrey\CollegeFootballDataApi\Model\GameMedia::class, $gameMedia[0]);
 
         $game = $gameMedia[0];
 
-        $this->assertEquals(401525434, $game->id);
+        $this->assertEquals(401551789, $game->id);
     }
 
     /**
-     * @testWith ["week", 1, "https://api.collegefootballdata.com/games/media?year=2023&week=1"]
-     *           ["seasonType", "regular", "https://api.collegefootballdata.com/games/media?year=2023&seasonType=regular"]
-     *           ["team", "Florida", "https://api.collegefootballdata.com/games/media?year=2023&team=Florida"]
-     *           ["conference", "SEC", "https://api.collegefootballdata.com/games/media?year=2023&conference=SEC"]
-     *           ["mediaType", "xxx", "https://api.collegefootballdata.com/games/media?year=2023&mediaType=xxx"]
-     *           ["classification", "xxx", "https://api.collegefootballdata.com/games/media?year=2023&classification=xxx"]
+     * @testWith ["week", 1, "https://apinext.collegefootballdata.com/games/media?year=2023&week=1"]
+     *           ["seasonType", "regular", "https://apinext.collegefootballdata.com/games/media?year=2023&seasonType=regular"]
+     *           ["team", "Florida", "https://apinext.collegefootballdata.com/games/media?year=2023&team=Florida"]
+     *           ["conference", "SEC", "https://apinext.collegefootballdata.com/games/media?year=2023&conference=SEC"]
+     *           ["mediaType", "xxx", "https://apinext.collegefootballdata.com/games/media?year=2023&mediaType=xxx"]
+     *           ["classification", "xxx", "https://apinext.collegefootballdata.com/games/media?year=2023&classification=xxx"]
      */
     public function test_games_media_filter($key, $value, $url)
     {
